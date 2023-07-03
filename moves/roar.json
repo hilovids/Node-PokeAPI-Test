@@ -1,1 +1,1 @@
-{"id":46,"name":"roar","accuracy":null,"pp":20,"priority":-6,"power":null,"type":"normal","damageClass":"status","description":"Scares wild foes\nto end battle."}
+{"id":46,"name":"roar","accuracy":null,"pp":20,"priority":-6,"power":null,"type":"normal","damageClass":"status","description":"The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

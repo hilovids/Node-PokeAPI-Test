@@ -1,1 +1,1 @@
-{"id":427,"name":"psycho-cut","accuracy":100,"pp":20,"priority":0,"power":70,"type":"psychic","damageClass":"physical","description":"The user tears at\nthe foe with blades\nformed by psychic\npower. It has a high\ncritical-hit ratio."}
+{"id":427,"name":"psycho-cut","accuracy":100,"pp":20,"priority":0,"power":70,"type":"psychic","damageClass":"physical","description":"The user tears at the target with blades formed by\npsychic power. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

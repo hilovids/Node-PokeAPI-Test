@@ -1,1 +1,1 @@
-{"id":569,"name":"ion-deluge","accuracy":null,"pp":25,"priority":1,"power":null,"type":"electric","damageClass":"status","description":"でんきを　おびた　りゅうしを\nかくさんし　ノーマルタイプの　わざを\nでんきタイプに　してしまう。"}
+{"id":569,"name":"ion-deluge","accuracy":null,"pp":25,"priority":1,"power":null,"type":"electric","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

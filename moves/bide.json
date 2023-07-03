@@ -1,1 +1,1 @@
-{"id":117,"name":"bide","accuracy":null,"pp":10,"priority":1,"power":null,"type":"normal","damageClass":"physical","description":"Waits 2-3 turns &\nhits back double."}
+{"id":117,"name":"bide","accuracy":null,"pp":10,"priority":1,"power":null,"type":"normal","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

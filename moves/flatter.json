@@ -1,1 +1,1 @@
-{"id":260,"name":"flatter","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"Rend la cible confuse, mais\naugmente son Attaque Spéciale."}
+{"id":260,"name":"flatter","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat.","ailment":"confusion","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":1}],"target":"selected-pokemon"}

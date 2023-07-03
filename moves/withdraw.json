@@ -1,1 +1,1 @@
-{"id":110,"name":"withdraw","accuracy":null,"pp":40,"priority":0,"power":null,"type":"water","damageClass":"status","description":"Heightens the\nuser's DEFENSE."}
+{"id":110,"name":"withdraw","accuracy":null,"pp":40,"priority":0,"power":null,"type":"water","damageClass":"status","description":"The user withdraws its body into its hard shell,\nraising its Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":1}],"target":"user"}

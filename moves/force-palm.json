@@ -1,1 +1,1 @@
-{"id":395,"name":"force-palm","accuracy":100,"pp":10,"priority":0,"power":60,"type":"fighting","damageClass":"physical","description":"The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n"}
+{"id":395,"name":"force-palm","accuracy":100,"pp":10,"priority":0,"power":60,"type":"fighting","damageClass":"physical","description":"The target is attacked with a shock wave. This may\nalso leave the target with paralysis.","ailment":"paralysis","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

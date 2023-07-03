@@ -1,1 +1,1 @@
-{"id":413,"name":"brave-bird","accuracy":100,"pp":15,"priority":0,"power":120,"type":"flying","damageClass":"physical","description":"The user tucks in\nits wings and charges\nfrom a low altitude.\nThe user also takes\nserious damage."}
+{"id":413,"name":"brave-bird","accuracy":100,"pp":15,"priority":0,"power":120,"type":"flying","damageClass":"physical","description":"The user tucks in its wings and charges from a low\naltitude. This also damages the user quite a lot.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

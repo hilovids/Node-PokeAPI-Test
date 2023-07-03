@@ -1,1 +1,1 @@
-{"id":49,"name":"sonic-boom","accuracy":90,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"Always inflicts\n20HP damage."}
+{"id":49,"name":"sonic-boom","accuracy":90,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

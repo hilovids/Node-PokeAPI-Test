@@ -1,1 +1,1 @@
-{"id":224,"name":"megahorn","accuracy":85,"pp":10,"priority":0,"power":120,"type":"bug","damageClass":"physical","description":"A powerful charge\nattack."}
+{"id":224,"name":"megahorn","accuracy":85,"pp":10,"priority":0,"power":120,"type":"bug","damageClass":"physical","description":"Using its tough and impressive horn, the user rams\ninto the target with no letup.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

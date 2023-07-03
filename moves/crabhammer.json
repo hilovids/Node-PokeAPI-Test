@@ -1,1 +1,1 @@
-{"id":152,"name":"crabhammer","accuracy":90,"pp":10,"priority":0,"power":100,"type":"water","damageClass":"physical","description":"Has a high criti­\ncal hit ratio."}
+{"id":152,"name":"crabhammer","accuracy":90,"pp":10,"priority":0,"power":100,"type":"water","damageClass":"physical","description":"The target is hammered with a large pincer. Critical\nhits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

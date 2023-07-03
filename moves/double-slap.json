@@ -1,1 +1,1 @@
-{"id":3,"name":"double-slap","accuracy":85,"pp":10,"priority":0,"power":15,"type":"normal","damageClass":"physical","description":"Repeatedly slaps\n2-5 times."}
+{"id":3,"name":"double-slap","accuracy":85,"pp":10,"priority":0,"power":15,"type":"normal","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

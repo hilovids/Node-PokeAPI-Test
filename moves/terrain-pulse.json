@@ -1,1 +1,1 @@
-{"id":805,"name":"terrain-pulse","accuracy":100,"pp":10,"priority":0,"power":50,"type":"normal","damageClass":"special","description":"フィールドの　ちからを　かりて　こうげき。\nつかったときの　フィールドのじょうたいに　よって\nわざの　タイプと　いりょくが　かわる。"}
+{"id":805,"name":"terrain-pulse","accuracy":100,"pp":10,"priority":0,"power":50,"type":"normal","damageClass":"special","description":"The user utilizes the power of the terrain to attack.\nThis move’s type and power changes depending on\nthe terrain when it’s used.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

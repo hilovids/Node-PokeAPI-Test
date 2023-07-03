@@ -1,1 +1,1 @@
-{"id":18,"name":"whirlwind","accuracy":null,"pp":20,"priority":-6,"power":null,"type":"normal","damageClass":"status","description":"Blows away the foe\n& ends battle."}
+{"id":18,"name":"whirlwind","accuracy":null,"pp":20,"priority":-6,"power":null,"type":"normal","damageClass":"status","description":"The target is blown away, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

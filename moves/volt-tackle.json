@@ -1,1 +1,1 @@
-{"id":344,"name":"volt-tackle","accuracy":100,"pp":15,"priority":0,"power":120,"type":"electric","damageClass":"physical","description":"A life-risking tackle that\nslightly hurts the user."}
+{"id":344,"name":"volt-tackle","accuracy":100,"pp":15,"priority":0,"power":120,"type":"electric","damageClass":"physical","description":"The user electrifies itself and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with paralysis.","ailment":"paralysis","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

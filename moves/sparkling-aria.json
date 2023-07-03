@@ -1,1 +1,1 @@
-{"id":664,"name":"sparkling-aria","accuracy":100,"pp":10,"priority":0,"power":90,"type":"water","damageClass":"special","description":"うたうことによって　たくさんの\nバルーンを　ほうしゅつする。\nわざを　うけると　やけどが　なおる。"}
+{"id":664,"name":"sparkling-aria","accuracy":100,"pp":10,"priority":0,"power":90,"type":"water","damageClass":"special","description":"The user bursts into song, emitting many bubbles.\nAny Pokémon suffering from a burn will be healed\nby the touch of these bubbles.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

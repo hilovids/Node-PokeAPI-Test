@@ -1,1 +1,1 @@
-{"id":92,"name":"toxic","accuracy":90,"pp":10,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"Poisons the foe with an\nintensifying toxin."}
+{"id":92,"name":"toxic","accuracy":90,"pp":10,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.","ailment":"poison","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

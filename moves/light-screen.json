@@ -1,1 +1,1 @@
-{"id":113,"name":"light-screen","accuracy":null,"pp":30,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Ups SPCL.DEF with\na wall of light."}
+{"id":113,"name":"light-screen","accuracy":null,"pp":30,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"A wondrous wall of light is put up to reduce damage\nfrom special attacks for five turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

@@ -1,1 +1,1 @@
-{"id":514,"name":"retaliate","accuracy":100,"pp":5,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"Venge un Pokémon de l’équipe mis K.O.\nSi un Pokémon de l’équipe a été mis\nK.O. au tour d’avant, l’effet augmente."}
+{"id":514,"name":"retaliate","accuracy":100,"pp":5,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move’s power\nis increased.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":797,"name":"expanding-force","accuracy":100,"pp":10,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"サイコパワーで　あいてを　こうげきする。\nサイコフィールドの　とき　いりょくが　あがり\nすべての　あいてに　ダメージを　あたえる。"}
+{"id":797,"name":"expanding-force","accuracy":100,"pp":10,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"The user attacks the target with its psychic power.\nThis move’s power goes up and damages all opposing\nPokémon on Psychic Terrain.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

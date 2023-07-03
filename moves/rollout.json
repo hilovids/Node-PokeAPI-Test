@@ -1,1 +1,1 @@
-{"id":205,"name":"rollout","accuracy":90,"pp":20,"priority":0,"power":30,"type":"rock","damageClass":"physical","description":"Attacks 5 turns\nwith rising power."}
+{"id":205,"name":"rollout","accuracy":90,"pp":20,"priority":0,"power":30,"type":"rock","damageClass":"physical","description":"The user continually rolls into the target over five\nturns. It becomes more powerful each time it hits.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

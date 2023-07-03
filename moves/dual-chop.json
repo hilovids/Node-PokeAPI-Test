@@ -1,1 +1,1 @@
-{"id":530,"name":"dual-chop","accuracy":90,"pp":15,"priority":0,"power":40,"type":"dragon","damageClass":"physical","description":"Le lanceur frappe l’ennemi deux fois\nd’affilée avec les parties les plus\nrobustes de son corps."}
+{"id":530,"name":"dual-chop","accuracy":90,"pp":15,"priority":0,"power":40,"type":"dragon","damageClass":"physical","description":"The user attacks its target by hitting it with brutal\nstrikes. The target is hit twice in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":29,"name":"headbutt","accuracy":100,"pp":15,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"An attack that may\nmake foe flinch."}
+{"id":29,"name":"headbutt","accuracy":100,"pp":15,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

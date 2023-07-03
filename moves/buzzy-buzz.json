@@ -1,1 +1,1 @@
-{"id":734,"name":"buzzy-buzz","accuracy":100,"pp":20,"priority":0,"power":60,"type":"electric","damageClass":"special","description":"でんきを　とばし　あいてに\nあびせて　こうげきする。　\nあいてを　まひ　じょうたいに　する。"}
+{"id":734,"name":"buzzy-buzz","accuracy":100,"pp":20,"priority":0,"power":60,"type":"electric","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"paralysis","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

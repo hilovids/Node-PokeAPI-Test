@@ -1,1 +1,1 @@
-{"id":28,"name":"sand-attack","accuracy":100,"pp":15,"priority":0,"power":null,"type":"ground","damageClass":"status","description":"Reduces accuracy\nby throwing sand."}
+{"id":28,"name":"sand-attack","accuracy":100,"pp":15,"priority":0,"power":null,"type":"ground","damageClass":"status","description":"Sand is hurled in the target’s face, reducing the\ntarget’s accuracy.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"accuracy","change":-1}],"target":"selected-pokemon"}

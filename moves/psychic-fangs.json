@@ -1,1 +1,1 @@
-{"id":706,"name":"psychic-fangs","accuracy":100,"pp":10,"priority":0,"power":85,"type":"psychic","damageClass":"physical","description":"サイコパワーで　かみついて\nあいてを　こうげきする。　ひかりのかべや\nリフレクター　なども　はかいできる。"}
+{"id":706,"name":"psychic-fangs","accuracy":100,"pp":10,"priority":0,"power":85,"type":"psychic","damageClass":"physical","description":"The user bites the target with its psychic\ncapabilities. This can also destroy Light Screen\nand Reflect.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":776,"name":"body-press","accuracy":100,"pp":10,"priority":0,"power":80,"type":"fighting","damageClass":"physical","description":"からだを　ぶつけて　こうげき。\nぼうぎょが　たかいほど\nあたえる　ダメージが　ふえる。"}
+{"id":776,"name":"body-press","accuracy":100,"pp":10,"priority":0,"power":80,"type":"fighting","damageClass":"physical","description":"The user attacks by slamming its body into the target.\nThe higher the user’s Defense, the more damage it can\ninflict on the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

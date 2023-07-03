@@ -1,1 +1,1 @@
-{"id":372,"name":"assurance","accuracy":100,"pp":10,"priority":0,"power":60,"type":"dark","damageClass":"physical","description":"如果此回合內對手\n已受到傷害，\n招式威力會變成２倍。"}
+{"id":372,"name":"assurance","accuracy":100,"pp":10,"priority":0,"power":60,"type":"dark","damageClass":"physical","description":"If the target has already taken some damage in the\nsame turn, this attack’s power is doubled.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

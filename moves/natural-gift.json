@@ -1,1 +1,1 @@
-{"id":363,"name":"natural-gift","accuracy":100,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power."}
+{"id":363,"name":"natural-gift","accuracy":100,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

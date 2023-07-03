@@ -1,1 +1,1 @@
-{"id":787,"name":"apple-acid","accuracy":100,"pp":10,"priority":0,"power":80,"type":"grass","damageClass":"special","description":"すっぱい　りんごから　つくりだした\nさんせいの　えきたいで　こうげき。\nあいての　とくぼうを　さげる。"}
+{"id":787,"name":"apple-acid","accuracy":100,"pp":10,"priority":0,"power":80,"type":"grass","damageClass":"special","description":"The user attacks the target with an acidic liquid created\nfrom tart apples. This also lowers the target’s\nSp. Def stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":-1}],"target":"selected-pokemon"}

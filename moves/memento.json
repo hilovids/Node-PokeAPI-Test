@@ -1,1 +1,1 @@
-{"id":262,"name":"memento","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user faints and lowers\nthe foe’s abilities."}
+{"id":262,"name":"memento","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user faints when using this move. In return, this\nharshly lowers the target’s Attack and Sp. Atk stats.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

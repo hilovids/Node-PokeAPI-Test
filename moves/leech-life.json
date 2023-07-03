@@ -1,1 +1,1 @@
-{"id":141,"name":"leech-life","accuracy":100,"pp":10,"priority":0,"power":80,"type":"bug","damageClass":"physical","description":"Steals 1/2 of the\ndamage inflicted."}
+{"id":141,"name":"leech-life","accuracy":100,"pp":10,"priority":0,"power":80,"type":"bug","damageClass":"physical","description":"The user drains the target’s blood. The user’s HP is\nrestored by half the damage taken by the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

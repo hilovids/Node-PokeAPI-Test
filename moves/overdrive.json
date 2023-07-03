@@ -1,1 +1,1 @@
-{"id":786,"name":"overdrive","accuracy":100,"pp":10,"priority":0,"power":80,"type":"electric","damageClass":"special","description":"ギターや　ベースを　かきならして\nはげしく　ひびく　おおきな　しんどうを\nあいてに　あたえて　こうげきする。"}
+{"id":786,"name":"overdrive","accuracy":100,"pp":10,"priority":0,"power":80,"type":"electric","damageClass":"special","description":"The user attacks opposing Pokémon by twanging\na guitar or bass guitar, causing a huge echo and\nstrong vibration.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

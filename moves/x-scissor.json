@@ -1,1 +1,1 @@
-{"id":404,"name":"x-scissor","accuracy":100,"pp":15,"priority":0,"power":80,"type":"bug","damageClass":"physical","description":"The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors."}
+{"id":404,"name":"x-scissor","accuracy":100,"pp":15,"priority":0,"power":80,"type":"bug","damageClass":"physical","description":"The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

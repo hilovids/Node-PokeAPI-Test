@@ -1,1 +1,1 @@
-{"id":180,"name":"spite","accuracy":100,"pp":10,"priority":0,"power":null,"type":"ghost","damageClass":"status","description":"Cuts the PP of the\nfoe's last move."}
+{"id":180,"name":"spite","accuracy":100,"pp":10,"priority":0,"power":null,"type":"ghost","damageClass":"status","description":"The user unleashes its grudge on the move last used\nby the target by cutting 4 PP from it.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

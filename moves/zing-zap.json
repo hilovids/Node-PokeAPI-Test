@@ -1,1 +1,1 @@
-{"id":716,"name":"zing-zap","accuracy":100,"pp":10,"priority":0,"power":80,"type":"electric","damageClass":"physical","description":"あいてに　ぶつかって　きょうりょくな\nでんきをあびせ　びりびりちくちく　させる。\nあいてを　ひるませる　ことが　ある。"}
+{"id":716,"name":"zing-zap","accuracy":100,"pp":10,"priority":0,"power":80,"type":"electric","damageClass":"physical","description":"A strong electric blast crashes down on the target,\ngiving it an electric shock. This may also make the\ntarget flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

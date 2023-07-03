@@ -1,1 +1,1 @@
-{"id":760,"name":"max-strike","accuracy":null,"pp":10,"priority":0,"power":10,"type":"normal","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　ノーマルタイプの　こうげき。\nあいての　すばやさを　さげる。"}
+{"id":760,"name":"max-strike","accuracy":null,"pp":10,"priority":0,"power":10,"type":"normal","damageClass":"physical","description":"This is a Normal-type attack Dynamax Pokémon use.\nThis lowers the target’s Speed stat.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

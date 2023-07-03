@@ -1,1 +1,1 @@
-{"id":81,"name":"string-shot","accuracy":95,"pp":40,"priority":0,"power":null,"type":"bug","damageClass":"status","description":"A move that lowers\nthe foe's SPEED."}
+{"id":81,"name":"string-shot","accuracy":95,"pp":40,"priority":0,"power":null,"type":"bug","damageClass":"status","description":"Opposing Pokémon are bound with silk blown from\nthe user’s mouth that harshly lowers the Speed stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-2}],"target":"all-opponents"}

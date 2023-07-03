@@ -1,1 +1,1 @@
-{"id":705,"name":"fleur-cannon","accuracy":90,"pp":5,"priority":0,"power":130,"type":"fairy","damageClass":"special","description":"きょうりょくな　ビームを　はなったあと\nじぶんの　とくこうが　がくっと　さがる。"}
+{"id":705,"name":"fleur-cannon","accuracy":90,"pp":5,"priority":0,"power":130,"type":"fairy","damageClass":"special","description":"The user unleashes a strong beam. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-2}],"target":"selected-pokemon"}

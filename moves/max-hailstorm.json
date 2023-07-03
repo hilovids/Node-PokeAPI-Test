@@ -1,1 +1,1 @@
-{"id":763,"name":"max-hailstorm","accuracy":null,"pp":10,"priority":0,"power":10,"type":"ice","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　こおりタイプの　こうげき。\n５ターンの　あいだ　あられを　ふらす。"}
+{"id":763,"name":"max-hailstorm","accuracy":null,"pp":10,"priority":0,"power":10,"type":"ice","damageClass":"physical","description":"This is an Ice-type attack Dynamax Pokémon use.\nThe user summons a hailstorm lasting five turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

@@ -1,1 +1,1 @@
-{"id":280,"name":"brick-break","accuracy":100,"pp":15,"priority":0,"power":75,"type":"fighting","damageClass":"physical","description":"Destroys barriers such as\nREFLECT and causes damage."}
+{"id":280,"name":"brick-break","accuracy":100,"pp":15,"priority":0,"power":75,"type":"fighting","damageClass":"physical","description":"The user attacks with a swift chop. It can also break\nbarriers, such as Light Screen and Reflect.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

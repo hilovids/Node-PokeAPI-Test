@@ -1,1 +1,1 @@
-{"id":736,"name":"glitzy-glow","accuracy":95,"pp":15,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"ねんりきを　これでもかと　あびせる。\nあいての　とくしゅこうげきを　よわめる\nふしぎな　かべを　つくりだす。"}
+{"id":736,"name":"glitzy-glow","accuracy":95,"pp":15,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

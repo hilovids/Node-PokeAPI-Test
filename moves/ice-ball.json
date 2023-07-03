@@ -1,1 +1,1 @@
-{"id":301,"name":"ice-ball","accuracy":90,"pp":20,"priority":0,"power":30,"type":"ice","damageClass":"physical","description":"A 5-turn attack that gains\npower on successive hits."}
+{"id":301,"name":"ice-ball","accuracy":90,"pp":20,"priority":0,"power":30,"type":"ice","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

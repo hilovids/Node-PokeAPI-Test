@@ -1,1 +1,1 @@
-{"id":78,"name":"stun-spore","accuracy":75,"pp":30,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"A move that may\nparalyze the foe."}
+{"id":78,"name":"stun-spore","accuracy":75,"pp":30,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user scatters a cloud of numbing powder that\nparalyzes the target.","ailment":"paralysis","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

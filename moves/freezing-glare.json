@@ -1,1 +1,1 @@
-{"id":821,"name":"freezing-glare","accuracy":100,"pp":10,"priority":0,"power":90,"type":"psychic","damageClass":"special","description":"りょうめから　サイコパワーを\nうちだして　こうげきする。\nこおり　じょうたいに　することが　ある。"}
+{"id":821,"name":"freezing-glare","accuracy":100,"pp":10,"priority":0,"power":90,"type":"psychic","damageClass":"special","description":"The user shoots its psychic power from its eyes\nto attack. This may also leave the target frozen.","ailment":"freeze","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

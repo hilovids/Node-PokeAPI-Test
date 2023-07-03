@@ -1,1 +1,1 @@
-{"id":315,"name":"overheat","accuracy":90,"pp":5,"priority":0,"power":130,"type":"fire","damageClass":"special","description":"Allows a full-power attack,\nbut sharply lowers SP. ATK."}
+{"id":315,"name":"overheat","accuracy":90,"pp":5,"priority":0,"power":130,"type":"fire","damageClass":"special","description":"The user attacks the target at full power. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-2}],"target":"selected-pokemon"}

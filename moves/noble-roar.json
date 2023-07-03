@@ -1,1 +1,1 @@
-{"id":568,"name":"noble-roar","accuracy":100,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"おたけびを　あげて\nあいてを　いかくし　あいての\nこうげきと　とくこうを　さげる。"}
+{"id":568,"name":"noble-roar","accuracy":100,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-1},{"stat":"special-attack","change":-1}],"target":"selected-pokemon"}

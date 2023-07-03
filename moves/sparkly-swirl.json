@@ -1,1 +1,1 @@
-{"id":740,"name":"sparkly-swirl","accuracy":85,"pp":5,"priority":0,"power":120,"type":"fairy","damageClass":"special","description":"むせかえる　ような　かおりの　たつまきで\nあいてを　つつんで　こうげき。　みかたの\nじょうたい　いじょうを　かいふくする。"}
+{"id":740,"name":"sparkly-swirl","accuracy":85,"pp":5,"priority":0,"power":120,"type":"fairy","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

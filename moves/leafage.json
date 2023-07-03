@@ -1,1 +1,1 @@
-{"id":670,"name":"leafage","accuracy":100,"pp":40,"priority":0,"power":40,"type":"grass","damageClass":"physical","description":"はっぱを　あいてに　あてて\nこうげきする。"}
+{"id":670,"name":"leafage","accuracy":100,"pp":40,"priority":0,"power":40,"type":"grass","damageClass":"physical","description":"The user attacks by pelting the target with leaves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

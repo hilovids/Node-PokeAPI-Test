@@ -1,1 +1,1 @@
-{"id":50,"name":"disable","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Per quattro turni impedisce al bersaglio\ndi riutilizzare l’ultima mossa usata."}
+{"id":50,"name":"disable","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"For four turns, this move prevents the target from\nusing the move it last used.","ailment":"disable","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

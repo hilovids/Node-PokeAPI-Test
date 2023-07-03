@@ -1,1 +1,1 @@
-{"id":761,"name":"max-knuckle","accuracy":null,"pp":10,"priority":0,"power":10,"type":"fighting","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　かくとうタイプの　こうげき。\nみかたの　こうげきを　あげる。"}
+{"id":761,"name":"max-knuckle","accuracy":null,"pp":10,"priority":0,"power":10,"type":"fighting","damageClass":"physical","description":"This is a Fighting-type attack Dynamax Pokémon use.\nThis raises ally Pokémon’s Attack stats.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

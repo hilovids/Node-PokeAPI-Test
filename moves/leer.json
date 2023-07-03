@@ -1,1 +1,1 @@
-{"id":43,"name":"leer","accuracy":100,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Le lanceur fait les gros yeux à l’ennemi pour\nl’intimider et baisser sa Défense."}
+{"id":43,"name":"leer","accuracy":100,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user gives opposing Pokémon an intimidating\nleer that lowers the Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"all-opponents"}

@@ -1,1 +1,1 @@
-{"id":784,"name":"breaking-swipe","accuracy":100,"pp":15,"priority":0,"power":60,"type":"dragon","damageClass":"physical","description":"きょうじんな　しっぽを　はげしく\nふりはらって　あいてを　こうげきする。\nあいての　こうげきを　さげる。"}
+{"id":784,"name":"breaking-swipe","accuracy":100,"pp":15,"priority":0,"power":60,"type":"dragon","damageClass":"physical","description":"The user swings its tough tail wildly and attacks\nopposing Pokémon. This also lowers their Attack stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-1}],"target":"all-opponents"}

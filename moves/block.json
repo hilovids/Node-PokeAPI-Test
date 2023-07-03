@@ -1,1 +1,1 @@
-{"id":335,"name":"block","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Blocks the foe’s way to\nprevent escape."}
+{"id":335,"name":"block","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user blocks the target’s way with arms spread\nwide to prevent escape.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

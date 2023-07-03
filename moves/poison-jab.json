@@ -1,1 +1,1 @@
-{"id":398,"name":"poison-jab","accuracy":100,"pp":20,"priority":0,"power":80,"type":"poison","damageClass":"physical","description":"The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe."}
+{"id":398,"name":"poison-jab","accuracy":100,"pp":20,"priority":0,"power":80,"type":"poison","damageClass":"physical","description":"The target is stabbed with a tentacle, arm, or the like\nsteeped in poison. This may also poison the target.","ailment":"poison","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

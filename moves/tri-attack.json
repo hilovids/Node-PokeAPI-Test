@@ -1,1 +1,1 @@
-{"id":161,"name":"tri-attack","accuracy":100,"pp":10,"priority":0,"power":80,"type":"normal","damageClass":"special","description":"Fires three kinds\nof beams at once."}
+{"id":161,"name":"tri-attack","accuracy":100,"pp":10,"priority":0,"power":80,"type":"normal","damageClass":"special","description":"The user strikes with a simultaneous three-beam attack.\nThis may also burn, freeze, or paralyze the target.","ailment":"unknown","ailmentChance":20,"statChanges":[],"target":"selected-pokemon"}

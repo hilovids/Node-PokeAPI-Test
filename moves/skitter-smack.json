@@ -1,1 +1,1 @@
-{"id":806,"name":"skitter-smack","accuracy":90,"pp":10,"priority":0,"power":70,"type":"bug","damageClass":"physical","description":"はいごから　はいより　こうげきする。\nあいての　とくこうを　さげる。"}
+{"id":806,"name":"skitter-smack","accuracy":90,"pp":10,"priority":0,"power":70,"type":"bug","damageClass":"physical","description":"The user skitters behind the target to attack. This also\nlowers the target’s Sp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-1}],"target":"selected-pokemon"}

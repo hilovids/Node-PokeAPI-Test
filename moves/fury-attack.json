@@ -1,1 +1,1 @@
-{"id":31,"name":"fury-attack","accuracy":85,"pp":20,"priority":0,"power":15,"type":"normal","damageClass":"physical","description":"Jabs the target\n2-5 times."}
+{"id":31,"name":"fury-attack","accuracy":85,"pp":20,"priority":0,"power":15,"type":"normal","damageClass":"physical","description":"The target is jabbed repeatedly with a horn or beak\ntwo to five times in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":580,"name":"grassy-terrain","accuracy":null,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"５ターンの　あいだ　あしもとを\nグラスフィールドにする。　じめんにいる\nポケモンは　まいターン　かいふくする。"}
+{"id":580,"name":"grassy-terrain","accuracy":null,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user turns the ground to grass for five turns.\nThis restores the HP of Pokémon on the ground a\nlittle every turn and powers up Grass-type moves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

@@ -1,1 +1,1 @@
-{"id":593,"name":"hyperspace-hole","accuracy":null,"pp":5,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"いじげんホールで　とつぜん　あいての\nまよこに　あらわれ　こうげきする。\nまもるや　みきりも　むし　できる。"}
+{"id":593,"name":"hyperspace-hole","accuracy":null,"pp":5,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"Using a hyperspace hole, the user appears right\nnext to the target and strikes. This also hits a target\nusing a move such as Protect or Detect.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

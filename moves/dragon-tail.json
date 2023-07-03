@@ -1,1 +1,1 @@
-{"id":525,"name":"dragon-tail","accuracy":90,"pp":10,"priority":-6,"power":60,"type":"dragon","damageClass":"physical","description":"Un coup puissant qui blesse la cible\net l’envoie balader. Dans la nature,\nmet fin au combat."}
+{"id":525,"name":"dragon-tail","accuracy":90,"pp":10,"priority":-6,"power":60,"type":"dragon","damageClass":"physical","description":"The target is knocked away, and a different Pokémon\nis dragged out. In the wild, this ends a battle against\na single Pokémon.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

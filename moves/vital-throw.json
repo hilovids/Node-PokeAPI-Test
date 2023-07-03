@@ -1,1 +1,1 @@
-{"id":233,"name":"vital-throw","accuracy":null,"pp":10,"priority":-1,"power":70,"type":"fighting","damageClass":"physical","description":"A 2nd-strike move\nthat never misses."}
+{"id":233,"name":"vital-throw","accuracy":null,"pp":10,"priority":-1,"power":70,"type":"fighting","damageClass":"physical","description":"The user attacks last. In return, this throw move\nnever misses.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

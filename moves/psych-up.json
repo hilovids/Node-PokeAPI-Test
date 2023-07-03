@@ -1,1 +1,1 @@
-{"id":244,"name":"psych-up","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Copies the foe's\nstat changes."}
+{"id":244,"name":"psych-up","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user hypnotizes itself into copying any stat\nchange made by the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":80,"name":"petal-dance","accuracy":100,"pp":10,"priority":0,"power":120,"type":"grass","damageClass":"special","description":"Works 2-3 turns\nand confuses user."}
+{"id":80,"name":"petal-dance","accuracy":100,"pp":10,"priority":0,"power":120,"type":"grass","damageClass":"special","description":"The user attacks the target by scattering petals for\ntwo to three turns. The user then becomes confused.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"random-opponent"}

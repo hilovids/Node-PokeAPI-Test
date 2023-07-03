@@ -1,1 +1,1 @@
-{"id":422,"name":"thunder-fang","accuracy":95,"pp":15,"priority":0,"power":65,"type":"electric","damageClass":"physical","description":"The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed."}
+{"id":422,"name":"thunder-fang","accuracy":95,"pp":15,"priority":0,"power":65,"type":"electric","damageClass":"physical","description":"The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.","ailment":"paralysis","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

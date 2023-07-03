@@ -1,1 +1,1 @@
-{"id":289,"name":"snatch","accuracy":null,"pp":10,"priority":4,"power":null,"type":"dark","damageClass":"status","description":"Steals the effects of the\nmove the foe uses next."}
+{"id":289,"name":"snatch","accuracy":null,"pp":10,"priority":4,"power":null,"type":"dark","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

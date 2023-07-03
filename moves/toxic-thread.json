@@ -1,1 +1,1 @@
-{"id":672,"name":"toxic-thread","accuracy":100,"pp":20,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"Tisse un fil imprégné de venin. Empoisonne la cible\net baisse sa Vitesse."}
+{"id":672,"name":"toxic-thread","accuracy":100,"pp":20,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"The user shoots poisonous threads to poison the\ntarget and lower the target’s Speed stat.","ailment":"poison","ailmentChance":100,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

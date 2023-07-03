@@ -1,1 +1,1 @@
-{"id":259,"name":"torment","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"Torments the foe and stops\nsuccessive use of a move."}
+{"id":259,"name":"torment","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user torments and enrages the target, making it\nincapable of using the same move twice in a row.","ailment":"torment","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

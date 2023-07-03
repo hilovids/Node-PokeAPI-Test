@@ -1,1 +1,1 @@
-{"id":472,"name":"wonder-room","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Crée une zone étrange où pendant 5 tours,\nla Défense et la Défense Spéciale de tous\nles Pokémon sont inversées."}
+{"id":472,"name":"wonder-room","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user creates a bizarre area in which Pokémon’s\nDefense and Sp. Def stats are swapped for\nfive turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

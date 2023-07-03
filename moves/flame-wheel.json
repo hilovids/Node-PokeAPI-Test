@@ -1,1 +1,1 @@
-{"id":172,"name":"flame-wheel","accuracy":100,"pp":25,"priority":0,"power":60,"type":"fire","damageClass":"physical","description":"An attack that may\ncause a burn."}
+{"id":172,"name":"flame-wheel","accuracy":100,"pp":25,"priority":0,"power":60,"type":"fire","damageClass":"physical","description":"The user cloaks itself in fire and charges at the\ntarget. This may also leave the target with a burn.","ailment":"burn","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

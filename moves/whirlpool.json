@@ -1,1 +1,1 @@
-{"id":250,"name":"whirlpool","accuracy":85,"pp":15,"priority":0,"power":35,"type":"water","damageClass":"special","description":"Traps the foe for\n2-5 turns."}
+{"id":250,"name":"whirlpool","accuracy":85,"pp":15,"priority":0,"power":35,"type":"water","damageClass":"special","description":"The user traps the target in a violent swirling\nwhirlpool for four to five turns.","ailment":"trap","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

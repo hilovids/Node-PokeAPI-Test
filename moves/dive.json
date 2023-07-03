@@ -1,1 +1,1 @@
-{"id":291,"name":"dive","accuracy":100,"pp":10,"priority":0,"power":80,"type":"water","damageClass":"physical","description":"Dives underwater the first\nturn and strikes next turn."}
+{"id":291,"name":"dive","accuracy":100,"pp":10,"priority":0,"power":80,"type":"water","damageClass":"physical","description":"Diving on the first turn, the user floats up and\nattacks on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

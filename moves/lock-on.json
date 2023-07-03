@@ -1,1 +1,1 @@
-{"id":199,"name":"lock-on","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Ensures the next\nattack will hit."}
+{"id":199,"name":"lock-on","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user takes sure aim at the target. This ensures\nthe next attack does not miss the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

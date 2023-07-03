@@ -1,1 +1,1 @@
-{"id":381,"name":"lucky-chant","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits."}
+{"id":381,"name":"lucky-chant","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

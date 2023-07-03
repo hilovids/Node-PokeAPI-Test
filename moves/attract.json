@@ -1,1 +1,1 @@
-{"id":213,"name":"attract","accuracy":100,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Makes the opposite\ngender infatuated."}
+{"id":213,"name":"attract","accuracy":100,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"If it is the opposite gender of the user, the target\nbecomes infatuated and less likely to attack.","ailment":"infatuation","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":795,"name":"eternabeam","accuracy":90,"pp":5,"priority":0,"power":160,"type":"dragon","damageClass":"special","description":"ほんらいの　すがたと　なった\nムゲンダイナ　さいだいの　こうげき。\nつぎの　ターンは　うごけなくなる。"}
+{"id":795,"name":"eternabeam","accuracy":90,"pp":5,"priority":0,"power":160,"type":"dragon","damageClass":"special","description":"This is Eternatus’s most powerful attack in its original\nform. The user can’t move on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":743,"name":"max-guard","accuracy":null,"pp":10,"priority":4,"power":null,"type":"normal","damageClass":"status","description":"あいての　こうげきを\nまったく　うけない。\nれんぞくで　だすと　しっぱい　しやすい。"}
+{"id":743,"name":"max-guard","accuracy":null,"pp":10,"priority":4,"power":null,"type":"normal","damageClass":"status","description":"This move enables the user to protect itself from\nall attacks. Its chance of failing rises if it is used\nin succession.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

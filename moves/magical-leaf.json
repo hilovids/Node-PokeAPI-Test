@@ -1,1 +1,1 @@
-{"id":345,"name":"magical-leaf","accuracy":null,"pp":20,"priority":0,"power":60,"type":"grass","damageClass":"special","description":"Attacks with a strange leaf\nthat cannot be evaded."}
+{"id":345,"name":"magical-leaf","accuracy":null,"pp":20,"priority":0,"power":60,"type":"grass","damageClass":"special","description":"The user scatters curious leaves that chase the\ntarget. This attack never misses.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

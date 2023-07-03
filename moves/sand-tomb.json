@@ -1,1 +1,1 @@
-{"id":328,"name":"sand-tomb","accuracy":85,"pp":15,"priority":0,"power":35,"type":"ground","damageClass":"physical","description":"The user traps the target inside a harshly raging\nsandstorm for four to five turns."}
+{"id":328,"name":"sand-tomb","accuracy":85,"pp":15,"priority":0,"power":35,"type":"ground","damageClass":"physical","description":"The user traps the target inside a harshly raging\nsandstorm for four to five turns.","ailment":"trap","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

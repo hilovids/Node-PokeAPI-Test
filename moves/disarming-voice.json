@@ -1,1 +1,1 @@
-{"id":574,"name":"disarming-voice","accuracy":null,"pp":15,"priority":0,"power":40,"type":"fairy","damageClass":"special","description":"みわくの　なきごえを　だして　あいてに\nせいしんてきな　ダメージを　あたえる。\nこうげきは　かならず　めいちゅう　する。"}
+{"id":574,"name":"disarming-voice","accuracy":null,"pp":15,"priority":0,"power":40,"type":"fairy","damageClass":"special","description":"Letting out a charming cry, the user does emotional\ndamage to opposing Pokémon. This attack\nnever misses.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

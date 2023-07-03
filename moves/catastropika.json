@@ -1,1 +1,1 @@
-{"id":658,"name":"catastropika","accuracy":null,"pp":1,"priority":0,"power":210,"type":"electric","damageClass":"physical","description":"Ｚパワーで　さいだい　でんりょくを\nみに　まとった　ピカチュウが\nぜんりょくで　あいてに　とびかかる。"}
+{"id":658,"name":"catastropika","accuracy":null,"pp":1,"priority":0,"power":210,"type":"electric","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

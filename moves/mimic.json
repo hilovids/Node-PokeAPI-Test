@@ -1,1 +1,1 @@
-{"id":102,"name":"mimic","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Copies a move used\nby the foe."}
+{"id":102,"name":"mimic","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

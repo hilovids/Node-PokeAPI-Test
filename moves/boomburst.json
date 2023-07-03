@@ -1,1 +1,1 @@
-{"id":586,"name":"boomburst","accuracy":100,"pp":10,"priority":0,"power":140,"type":"normal","damageClass":"special","description":"Colpisce i Pokémon che ha intorno\ncon la forza di un boato distruttivo."}
+{"id":586,"name":"boomburst","accuracy":100,"pp":10,"priority":0,"power":140,"type":"normal","damageClass":"special","description":"The user attacks everything around it with the\ndestructive power of a terrible, explosive sound.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

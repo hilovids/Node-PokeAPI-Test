@@ -1,1 +1,1 @@
-{"id":297,"name":"feather-dance","accuracy":100,"pp":15,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"撒出羽毛，\n笼罩在对手的周围。\n大幅降低对手的攻击。"}
+{"id":297,"name":"feather-dance","accuracy":100,"pp":15,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-2}],"target":"selected-pokemon"}

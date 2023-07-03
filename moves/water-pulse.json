@@ -1,1 +1,1 @@
-{"id":352,"name":"water-pulse","accuracy":100,"pp":20,"priority":0,"power":60,"type":"water","damageClass":"special","description":"Attacks with ultrasonic\nwaves. May confuse the foe"}
+{"id":352,"name":"water-pulse","accuracy":100,"pp":20,"priority":0,"power":60,"type":"water","damageClass":"special","description":"The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.","ailment":"confusion","ailmentChance":20,"statChanges":[],"target":"selected-pokemon"}

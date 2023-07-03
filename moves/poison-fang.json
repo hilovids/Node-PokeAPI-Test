@@ -1,1 +1,1 @@
-{"id":305,"name":"poison-fang","accuracy":100,"pp":15,"priority":0,"power":50,"type":"poison","damageClass":"physical","description":"A sharp-fanged attack.\nMay badly poison the foe."}
+{"id":305,"name":"poison-fang","accuracy":100,"pp":15,"priority":0,"power":50,"type":"poison","damageClass":"physical","description":"The user bites the target with toxic fangs. This may\nalso leave the target badly poisoned.","ailment":"poison","ailmentChance":50,"statChanges":[],"target":"selected-pokemon"}

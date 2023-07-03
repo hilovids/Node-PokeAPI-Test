@@ -1,1 +1,1 @@
-{"id":770,"name":"max-rockfall","accuracy":null,"pp":10,"priority":0,"power":10,"type":"rock","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　いわタイプの　こうげき。\n５ターンの　あいだ　すなあらしにする。"}
+{"id":770,"name":"max-rockfall","accuracy":null,"pp":10,"priority":0,"power":10,"type":"rock","damageClass":"physical","description":"This is a Rock-type attack Dynamax Pokémon use.\nThe user summons a sandstorm lasting five turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

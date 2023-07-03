@@ -1,1 +1,1 @@
-{"id":678,"name":"psychic-terrain","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"５ターンの　あいだ　じめんにいると\nせんせいわざを　うけない。\nエスパータイプの　いりょくが　あがる。"}
+{"id":678,"name":"psychic-terrain","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"This protects Pokémon on the ground from priority\nmoves and powers up Psychic-type moves for\nfive turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

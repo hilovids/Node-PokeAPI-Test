@@ -1,1 +1,1 @@
-{"id":343,"name":"covet","accuracy":100,"pp":25,"priority":0,"power":60,"type":"normal","damageClass":"physical","description":"Cutely begs to obtain an\nitem held by the foe."}
+{"id":343,"name":"covet","accuracy":100,"pp":25,"priority":0,"power":60,"type":"normal","damageClass":"physical","description":"The user endearingly approaches the target, then\nsteals the target’s held item.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

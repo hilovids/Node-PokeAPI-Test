@@ -1,1 +1,1 @@
-{"id":292,"name":"arm-thrust","accuracy":100,"pp":20,"priority":0,"power":15,"type":"fighting","damageClass":"physical","description":"Schläge mit geradem Arm, die das Ziel\nzwei- bis fünfmal treffen."}
+{"id":292,"name":"arm-thrust","accuracy":100,"pp":20,"priority":0,"power":15,"type":"fighting","damageClass":"physical","description":"The user lets loose a flurry of open-palmed arm\nthrusts that hit two to five times in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

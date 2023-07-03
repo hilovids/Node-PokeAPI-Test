@@ -1,1 +1,1 @@
-{"id":721,"name":"plasma-fists","accuracy":100,"pp":15,"priority":0,"power":100,"type":"electric","damageClass":"physical","description":"でんきを　まとった　こぶしで\nこうげき。　ノーマルタイプの　わざを\nでんきタイプに　してしまう。"}
+{"id":721,"name":"plasma-fists","accuracy":100,"pp":15,"priority":0,"power":100,"type":"electric","damageClass":"physical","description":"The user attacks with electrically charged fists.\nThis move changes Normal-type moves to\nElectric-type moves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

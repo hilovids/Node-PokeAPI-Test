@@ -1,1 +1,1 @@
-{"id":64,"name":"peck","accuracy":100,"pp":35,"priority":0,"power":35,"type":"flying","damageClass":"physical","description":"Greift das Ziel mit dem Schnabel oder Horn an."}
+{"id":64,"name":"peck","accuracy":100,"pp":35,"priority":0,"power":35,"type":"flying","damageClass":"physical","description":"The target is jabbed with a sharply pointed beak\nor horn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

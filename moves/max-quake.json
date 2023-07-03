@@ -1,1 +1,1 @@
-{"id":771,"name":"max-quake","accuracy":null,"pp":10,"priority":0,"power":10,"type":"ground","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　じめんタイプの　こうげき。\nみかたの　とくぼうを　あげる。"}
+{"id":771,"name":"max-quake","accuracy":null,"pp":10,"priority":0,"power":10,"type":"ground","damageClass":"physical","description":"This is a Ground-type attack Dynamax Pokémon use.\nThis raises ally Pokémon’s Sp. Def stats.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

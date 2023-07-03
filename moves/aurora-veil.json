@@ -1,1 +1,1 @@
-{"id":694,"name":"aurora-veil","accuracy":null,"pp":20,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"５ターンの　あいだ　ぶつりと\nとくしゅの　ダメージを　よわめる。\nあられの　ときしか　だすことが　できない。"}
+{"id":694,"name":"aurora-veil","accuracy":null,"pp":20,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

@@ -1,1 +1,1 @@
-{"id":238,"name":"cross-chop","accuracy":80,"pp":5,"priority":0,"power":100,"type":"fighting","damageClass":"physical","description":"Has a high criti­\ncal hit ratio."}
+{"id":238,"name":"cross-chop","accuracy":80,"pp":5,"priority":0,"power":100,"type":"fighting","damageClass":"physical","description":"The user delivers a double chop with its forearms\ncrossed. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

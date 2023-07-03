@@ -1,1 +1,1 @@
-{"id":123,"name":"smog","accuracy":70,"pp":20,"priority":0,"power":30,"type":"poison","damageClass":"special","description":"An attack that may\npoison the foe."}
+{"id":123,"name":"smog","accuracy":70,"pp":20,"priority":0,"power":30,"type":"poison","damageClass":"special","description":"The target is attacked with a discharge of filthy\ngases. This may also poison the target.","ailment":"poison","ailmentChance":40,"statChanges":[],"target":"selected-pokemon"}

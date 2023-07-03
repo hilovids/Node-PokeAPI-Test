@@ -1,1 +1,1 @@
-{"id":39,"name":"tail-whip","accuracy":100,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Agita la cola para bajar la Defensa del equipo rival. "}
+{"id":39,"name":"tail-whip","accuracy":100,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user wags its tail cutely, making opposing\nPokémon less wary and lowering their Defense stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"all-opponents"}

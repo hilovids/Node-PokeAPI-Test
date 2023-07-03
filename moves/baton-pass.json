@@ -1,1 +1,1 @@
-{"id":226,"name":"baton-pass","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Switches while\nkeeping effects."}
+{"id":226,"name":"baton-pass","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user switches places with a party Pokémon in\nwaiting and passes along any stat changes.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

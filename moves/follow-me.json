@@ -1,1 +1,1 @@
-{"id":266,"name":"follow-me","accuracy":null,"pp":20,"priority":2,"power":null,"type":"normal","damageClass":"status","description":"Draws attention to make\nfoes attack only the user."}
+{"id":266,"name":"follow-me","accuracy":null,"pp":20,"priority":2,"power":null,"type":"normal","damageClass":"status","description":"The user draws attention to itself, making all targets\ntake aim only at the user.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

@@ -1,1 +1,1 @@
-{"id":256,"name":"swallow","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Absorbs stockpiled power\nand restores HP."}
+{"id":256,"name":"swallow","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The power stored using the move Stockpile is\nabsorbed by the user to heal its HP. Storing more\npower heals more HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

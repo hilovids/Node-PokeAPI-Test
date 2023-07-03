@@ -1,1 +1,1 @@
-{"id":182,"name":"protect","accuracy":null,"pp":10,"priority":4,"power":null,"type":"normal","damageClass":"status","description":"Foils attack that\nturn. It may fail."}
+{"id":182,"name":"protect","accuracy":null,"pp":10,"priority":4,"power":null,"type":"normal","damageClass":"status","description":"This move enables the user to protect itself from\nall attacks. Its chance of failing rises if it is used\nin succession.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

@@ -1,1 +1,1 @@
-{"id":735,"name":"sizzly-slide","accuracy":100,"pp":20,"priority":0,"power":60,"type":"fire","damageClass":"physical","description":"ほのおを　まとった　からだで\nいきおいよく　あいてに　ぶつかる。\nあいてを　やけど　じょうたいに　する。"}
+{"id":735,"name":"sizzly-slide","accuracy":100,"pp":20,"priority":0,"power":60,"type":"fire","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"burn","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

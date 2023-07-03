@@ -1,1 +1,1 @@
-{"id":255,"name":"spit-up","accuracy":100,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"Releases stockpiled power\n(the more the better)."}
+{"id":255,"name":"spit-up","accuracy":100,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"The power stored using the move Stockpile is\nreleased at once in an attack. The more power\nis stored, the greater the move’s power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

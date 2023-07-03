@@ -1,1 +1,1 @@
-{"id":103,"name":"screech","accuracy":85,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Stridio assordante che riduce di molto la Difesa\ndel bersaglio."}
+{"id":103,"name":"screech","accuracy":85,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"An earsplitting screech harshly lowers the target’s\nDefense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-2}],"target":"selected-pokemon"}

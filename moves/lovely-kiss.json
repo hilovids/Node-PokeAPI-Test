@@ -1,1 +1,1 @@
-{"id":142,"name":"lovely-kiss","accuracy":75,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"May cause the foe\nto fall asleep."}
+{"id":142,"name":"lovely-kiss","accuracy":75,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep.","ailment":"sleep","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

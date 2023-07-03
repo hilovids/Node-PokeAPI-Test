@@ -1,1 +1,1 @@
-{"id":766,"name":"max-airstream","accuracy":null,"pp":10,"priority":0,"power":10,"type":"flying","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　ひこうタイプの　こうげき。\nみかたの　すばやさを　あげる。"}
+{"id":766,"name":"max-airstream","accuracy":null,"pp":10,"priority":0,"power":10,"type":"flying","damageClass":"physical","description":"This is a Flying-type attack Dynamax Pokémon use.\nThis raises ally Pokémon’s Speed stats.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

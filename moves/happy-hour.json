@@ -1,1 +1,1 @@
-{"id":603,"name":"happy-hour","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"ハッピータイムの　わざを　つかうと\nせんとうの　あとで　もらえる\nおかねが　ばいになる。"}
+{"id":603,"name":"happy-hour","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Using Happy Hour doubles the amount of prize\nmoney received after battle.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

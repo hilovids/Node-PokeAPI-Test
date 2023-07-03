@@ -1,1 +1,1 @@
-{"id":677,"name":"anchor-shot","accuracy":100,"pp":20,"priority":0,"power":80,"type":"steel","damageClass":"physical","description":"アンカーを　あいてに　からませて\nこうげきする。　あいては\nにげることが　できなくなる。"}
+{"id":677,"name":"anchor-shot","accuracy":100,"pp":20,"priority":0,"power":80,"type":"steel","damageClass":"physical","description":"The user entangles the target with its anchor chain\nwhile attacking. The target becomes unable to flee.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":304,"name":"hyper-voice","accuracy":100,"pp":10,"priority":0,"power":90,"type":"normal","damageClass":"special","description":"A loud attack that uses\nsound waves to injure."}
+{"id":304,"name":"hyper-voice","accuracy":100,"pp":10,"priority":0,"power":90,"type":"normal","damageClass":"special","description":"The user lets loose a horribly echoing shout with\nthe power to inflict damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

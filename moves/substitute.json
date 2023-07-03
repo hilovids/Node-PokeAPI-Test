@@ -1,1 +1,1 @@
-{"id":164,"name":"substitute","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Makes a decoy with\n1/4 user's max HP."}
+{"id":164,"name":"substitute","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user creates a substitute for itself using some of\nits HP. The substitute serves as the user’s decoy.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

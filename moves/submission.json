@@ -1,1 +1,1 @@
-{"id":66,"name":"submission","accuracy":80,"pp":20,"priority":0,"power":80,"type":"fighting","damageClass":"physical","description":"An attack that al­\nso hurts the user."}
+{"id":66,"name":"submission","accuracy":80,"pp":20,"priority":0,"power":80,"type":"fighting","damageClass":"physical","description":"The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

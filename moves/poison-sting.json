@@ -1,1 +1,1 @@
-{"id":40,"name":"poison-sting","accuracy":100,"pp":35,"priority":0,"power":15,"type":"poison","damageClass":"physical","description":"An attack that may\npoison the target."}
+{"id":40,"name":"poison-sting","accuracy":100,"pp":35,"priority":0,"power":15,"type":"poison","damageClass":"physical","description":"The user stabs the target with a poisonous stinger.\nThis may also poison the target.","ailment":"poison","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

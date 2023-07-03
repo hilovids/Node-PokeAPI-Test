@@ -1,1 +1,1 @@
-{"id":306,"name":"crush-claw","accuracy":95,"pp":10,"priority":0,"power":75,"type":"normal","damageClass":"physical","description":"Tears at the foe with sharp\nclaws. May lower DEFENSE."}
+{"id":306,"name":"crush-claw","accuracy":95,"pp":10,"priority":0,"power":75,"type":"normal","damageClass":"physical","description":"The user slashes the target with hard and sharp\nclaws. This may also lower the target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

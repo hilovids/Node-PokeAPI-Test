@@ -1,1 +1,1 @@
-{"id":210,"name":"fury-cutter","accuracy":95,"pp":20,"priority":0,"power":40,"type":"bug","damageClass":"physical","description":"An attack that intensifies\non each successive hit."}
+{"id":210,"name":"fury-cutter","accuracy":95,"pp":20,"priority":0,"power":40,"type":"bug","damageClass":"physical","description":"The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":803,"name":"grassy-glide","accuracy":100,"pp":20,"priority":0,"power":70,"type":"grass","damageClass":"physical","description":"じめんを　すべるように　あいてを　こうげき。\nグラスフィールドの　とき\nかならず　せんせい　こうげき　できる。"}
+{"id":803,"name":"grassy-glide","accuracy":100,"pp":20,"priority":0,"power":70,"type":"grass","damageClass":"physical","description":"Gliding on the ground, the user attacks the target.\nThis move always goes first on Grassy Terrain.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

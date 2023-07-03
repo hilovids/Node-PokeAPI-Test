@@ -1,1 +1,1 @@
-{"id":378,"name":"wring-out","accuracy":100,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"The user powerfully\nwrings the foe.\nThe more HP the foe\nhas, the greater this\nattack’s power."}
+{"id":378,"name":"wring-out","accuracy":100,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

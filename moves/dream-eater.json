@@ -1,1 +1,1 @@
-{"id":138,"name":"dream-eater","accuracy":100,"pp":15,"priority":0,"power":100,"type":"psychic","damageClass":"special","description":"Steals HP from a\nsleeping victim."}
+{"id":138,"name":"dream-eater","accuracy":100,"pp":15,"priority":0,"power":100,"type":"psychic","damageClass":"special","description":"The user eats the dreams of a sleeping target.\nThe user’s HP is restored by half the damage taken by\nthe target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

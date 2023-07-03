@@ -1,1 +1,1 @@
-{"id":36,"name":"take-down","accuracy":85,"pp":20,"priority":0,"power":90,"type":"normal","damageClass":"physical","description":"A tackle that also\nhurts the user."}
+{"id":36,"name":"take-down","accuracy":85,"pp":20,"priority":0,"power":90,"type":"normal","damageClass":"physical","description":"A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

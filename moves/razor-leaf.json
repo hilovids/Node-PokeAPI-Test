@@ -1,1 +1,1 @@
-{"id":75,"name":"razor-leaf","accuracy":95,"pp":25,"priority":0,"power":55,"type":"grass","damageClass":"physical","description":"Has a high criti­\ncal hit ratio."}
+{"id":75,"name":"razor-leaf","accuracy":95,"pp":25,"priority":0,"power":55,"type":"grass","damageClass":"physical","description":"Sharp-edged leaves are launched to slash at opposing\nPokémon. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

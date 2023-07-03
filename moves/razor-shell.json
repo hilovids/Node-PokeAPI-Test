@@ -1,1 +1,1 @@
-{"id":534,"name":"razor-shell","accuracy":95,"pp":10,"priority":0,"power":75,"type":"water","damageClass":"physical","description":"用鋒利的貝殼斬切\n對手進行攻擊。\n有時會降低對手的防禦。"}
+{"id":534,"name":"razor-shell","accuracy":95,"pp":10,"priority":0,"power":75,"type":"water","damageClass":"physical","description":"The user cuts its target with sharp shells. This may\nalso lower the target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

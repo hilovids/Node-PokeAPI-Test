@@ -1,1 +1,1 @@
-{"id":100,"name":"teleport","accuracy":null,"pp":20,"priority":-6,"power":null,"type":"psychic","damageClass":"status","description":"A move for fleeing\nfrom battle."}
+{"id":100,"name":"teleport","accuracy":null,"pp":20,"priority":-6,"power":null,"type":"psychic","damageClass":"status","description":"The user switches places with a party Pokémon in\nwaiting, if any. If a wild Pokémon uses this move,\nit flees.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

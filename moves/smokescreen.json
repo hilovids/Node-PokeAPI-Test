@@ -1,1 +1,1 @@
-{"id":108,"name":"smokescreen","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Lowers the foe's\naccuracy."}
+{"id":108,"name":"smokescreen","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user releases an obscuring cloud of smoke or\nink. This lowers the target’s accuracy.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"accuracy","change":-1}],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":817,"name":"wicked-blow","accuracy":100,"pp":5,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"あくの　かたを　きわめし\nきょうれつな　いちげき。\nかならず　きゅうしょに　あたる。"}
+{"id":817,"name":"wicked-blow","accuracy":100,"pp":5,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"The user, having mastered the Dark style, strikes the\ntarget with a fierce blow. This attack always results\nin a critical hit.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

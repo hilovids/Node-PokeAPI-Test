@@ -1,1 +1,1 @@
-{"id":175,"name":"flail","accuracy":100,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"Stronger if the\nuser's HP is low."}
+{"id":175,"name":"flail","accuracy":100,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

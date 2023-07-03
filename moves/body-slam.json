@@ -1,1 +1,1 @@
-{"id":34,"name":"body-slam","accuracy":100,"pp":15,"priority":0,"power":85,"type":"normal","damageClass":"physical","description":"An attack that may\ncause paralysis."}
+{"id":34,"name":"body-slam","accuracy":100,"pp":15,"priority":0,"power":85,"type":"normal","damageClass":"physical","description":"The user drops onto the target with its full body\nweight. This may also leave the target with paralysis.","ailment":"paralysis","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

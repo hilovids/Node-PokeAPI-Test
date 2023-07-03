@@ -1,1 +1,1 @@
-{"id":437,"name":"leaf-storm","accuracy":90,"pp":5,"priority":0,"power":130,"type":"grass","damageClass":"special","description":"Cae una lluvia de hojas afiladas. Baja mucho el\nAtaque Especial de quien lo usa."}
+{"id":437,"name":"leaf-storm","accuracy":90,"pp":5,"priority":0,"power":130,"type":"grass","damageClass":"special","description":"The user whips up a storm of leaves around the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-2}],"target":"selected-pokemon"}

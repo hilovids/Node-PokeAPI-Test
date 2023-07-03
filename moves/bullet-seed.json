@@ -1,1 +1,1 @@
-{"id":331,"name":"bullet-seed","accuracy":100,"pp":30,"priority":0,"power":25,"type":"grass","damageClass":"physical","description":"Shoots 2 to 5 seeds in a row\nto strike the foe."}
+{"id":331,"name":"bullet-seed","accuracy":100,"pp":30,"priority":0,"power":25,"type":"grass","damageClass":"physical","description":"The user forcefully shoots seeds at the target two\nto five times in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

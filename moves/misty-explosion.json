@@ -1,1 +1,1 @@
-{"id":802,"name":"misty-explosion","accuracy":100,"pp":5,"priority":0,"power":100,"type":"fairy","damageClass":"special","description":"じぶんの　まわりに　いる　すべてを\nこうげき　するが　つかうと　ひんしになる。\nミストフィールドで　いりょくが　あがる。"}
+{"id":802,"name":"misty-explosion","accuracy":100,"pp":5,"priority":0,"power":100,"type":"fairy","damageClass":"special","description":"The user attacks everything around it and faints upon\nusing this move. This move’s power is increased on\nMisty Terrain.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

@@ -1,1 +1,1 @@
-{"id":432,"name":"defog","accuracy":null,"pp":15,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"Obstacles are moved,\nreducing the foe’s\nevasion stat. It can\nalso be used to\nclear deep fog, etc."}
+{"id":432,"name":"defog","accuracy":null,"pp":15,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"A strong wind blows away the target’s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget’s evasiveness.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

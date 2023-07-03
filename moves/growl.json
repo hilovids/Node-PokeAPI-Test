@@ -1,1 +1,1 @@
-{"id":45,"name":"growl","accuracy":100,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Reduces the foe's\nATTACK."}
+{"id":45,"name":"growl","accuracy":100,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user growls in an endearing way, making\nopposing Pokémon less wary. This lowers their\nAttack stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-1}],"target":"all-opponents"}

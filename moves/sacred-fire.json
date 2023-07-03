@@ -1,1 +1,1 @@
-{"id":221,"name":"sacred-fire","accuracy":95,"pp":5,"priority":0,"power":100,"type":"fire","damageClass":"physical","description":"An attack that may\ninflict a burn."}
+{"id":221,"name":"sacred-fire","accuracy":95,"pp":5,"priority":0,"power":100,"type":"fire","damageClass":"physical","description":"The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.","ailment":"burn","ailmentChance":50,"statChanges":[],"target":"selected-pokemon"}

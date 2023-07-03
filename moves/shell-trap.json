@@ -1,1 +1,1 @@
-{"id":704,"name":"shell-trap","accuracy":100,"pp":5,"priority":-3,"power":150,"type":"fire","damageClass":"special","description":"こうらの　トラップを　しかける。\nあいてが　ぶつり　わざを　だすと\nばくはつして　ダメージを　あたえる。"}
+{"id":704,"name":"shell-trap","accuracy":100,"pp":5,"priority":-3,"power":150,"type":"fire","damageClass":"special","description":"The user sets a shell trap. If the user is hit by a\nphysical move, the trap will explode and inflict\ndamage on opposing Pokémon.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

@@ -1,1 +1,1 @@
-{"id":476,"name":"rage-powder","accuracy":null,"pp":20,"priority":2,"power":null,"type":"bug","damageClass":"status","description":"Le lanceur s’asperge d’une poudre\nirritante pour attirer l’attention. Il\nattire toutes les attaques ennemies."}
+{"id":476,"name":"rage-powder","accuracy":null,"pp":20,"priority":2,"power":null,"type":"bug","damageClass":"status","description":"The user scatters a cloud of irritating powder to\ndraw attention to itself. Opposing Pokémon aim only at\nthe user.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

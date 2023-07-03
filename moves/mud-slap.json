@@ -1,1 +1,1 @@
-{"id":189,"name":"mud-slap","accuracy":100,"pp":10,"priority":0,"power":20,"type":"ground","damageClass":"special","description":"Reduces the foe's\naccuracy."}
+{"id":189,"name":"mud-slap","accuracy":100,"pp":10,"priority":0,"power":20,"type":"ground","damageClass":"special","description":"The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"accuracy","change":-1}],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":273,"name":"wish","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"A wish that restores HP.\nIt takes time to work."}
+{"id":273,"name":"wish","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"One turn after this move is used, the user’s or its\nreplacement’s HP is restored by half the user’s\nmax HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

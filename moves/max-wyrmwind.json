@@ -1,1 +1,1 @@
-{"id":768,"name":"max-wyrmwind","accuracy":null,"pp":10,"priority":0,"power":10,"type":"dragon","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　ドラゴンタイプの　こうげき。\nあいての　こうげきを　さげる。"}
+{"id":768,"name":"max-wyrmwind","accuracy":null,"pp":10,"priority":0,"power":10,"type":"dragon","damageClass":"physical","description":"This is a Dragon-type attack Dynamax Pokémon use.\nThis lowers the target’s Attack stat.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

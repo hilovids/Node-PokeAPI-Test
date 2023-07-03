@@ -1,1 +1,1 @@
-{"id":469,"name":"wide-guard","accuracy":null,"pp":10,"priority":3,"power":null,"type":"rock","damageClass":"status","description":"Annule les attaques visant toute l’équipe\npendant 1 tour. Peut échouer si utilisée\nplusieurs fois de suite."}
+{"id":469,"name":"wide-guard","accuracy":null,"pp":10,"priority":3,"power":null,"type":"rock","damageClass":"status","description":"The user and its allies are protected from\nwide-ranging attacks for one turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

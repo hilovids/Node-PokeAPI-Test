@@ -1,1 +1,1 @@
-{"id":457,"name":"head-smash","accuracy":80,"pp":5,"priority":0,"power":150,"type":"rock","damageClass":"physical","description":"Le lanceur assène un coup de tête désespéré.\nBlesse aussi gravement le lanceur."}
+{"id":457,"name":"head-smash","accuracy":80,"pp":5,"priority":0,"power":150,"type":"rock","damageClass":"physical","description":"The user attacks the target with a hazardous,\nfull-power headbutt. This also damages the\nuser terribly.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":56,"name":"hydro-pump","accuracy":80,"pp":5,"priority":0,"power":110,"type":"water","damageClass":"special","description":"The target is blasted by a huge volume\nof water launched under great pressure."}
+{"id":56,"name":"hydro-pump","accuracy":80,"pp":5,"priority":0,"power":110,"type":"water","damageClass":"special","description":"The target is blasted by a huge volume of water\nlaunched under great pressure.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

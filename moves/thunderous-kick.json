@@ -1,1 +1,1 @@
-{"id":823,"name":"thunderous-kick","accuracy":100,"pp":10,"priority":0,"power":90,"type":"fighting","damageClass":"physical","description":"かみなりの　ような　うごきで\nあいてを　ほんろう　しながら　キックする。\nあいての　ぼうぎょを　さげる。"}
+{"id":823,"name":"thunderous-kick","accuracy":100,"pp":10,"priority":0,"power":90,"type":"fighting","damageClass":"physical","description":"The user overwhelms the target with lightning-like\nmovement before delivering a kick. This also lowers\nthe target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

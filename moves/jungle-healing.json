@@ -1,1 +1,1 @@
-{"id":816,"name":"jungle-healing","accuracy":null,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"ジャングルと　いったいか　して\nじぶんと　ばにいる　みかたの\nＨＰと　じょうたいを　かいふくする。"}
+{"id":816,"name":"jungle-healing","accuracy":null,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user becomes one with the jungle, restoring HP\nand healing any status conditions of itself and its ally\nPokémon in battle.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user-and-allies"}

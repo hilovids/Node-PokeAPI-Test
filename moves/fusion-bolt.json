@@ -1,1 +1,1 @@
-{"id":559,"name":"fusion-bolt","accuracy":100,"pp":5,"priority":0,"power":100,"type":"electric","damageClass":"physical","description":"Projette un orbe électrique\ngigantesque. L’effet augmente\nsous l’influence de Flamme Croix."}
+{"id":559,"name":"fusion-bolt","accuracy":100,"pp":5,"priority":0,"power":100,"type":"electric","damageClass":"physical","description":"The user throws down a giant lightning bolt. This\nmove’s power is increased when influenced by an\nenormous flame.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":537,"name":"steamroller","accuracy":100,"pp":20,"priority":0,"power":65,"type":"bug","damageClass":"physical","description":"Le lanceur se roule en boule et\nécrase son ennemi. Peut aussi\napeurer l’ennemi."}
+{"id":537,"name":"steamroller","accuracy":100,"pp":20,"priority":0,"power":65,"type":"bug","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

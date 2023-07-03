@@ -1,1 +1,1 @@
-{"id":115,"name":"reflect","accuracy":null,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Raises DEFENSE\nwith a barrier."}
+{"id":115,"name":"reflect","accuracy":null,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"A wondrous wall of light is put up to reduce damage\nfrom physical attacks for five turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

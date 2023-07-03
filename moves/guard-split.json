@@ -1,1 +1,1 @@
-{"id":470,"name":"guard-split","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Additionne la Défense et la Défense\nSpéciale du lanceur et de sa cible et les\nredistribue équitablement entre les deux."}
+{"id":470,"name":"guard-split","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user employs its psychic power to average its\nDefense and Sp. Def stats with those of the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

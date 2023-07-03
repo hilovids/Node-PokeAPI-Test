@@ -1,1 +1,1 @@
-{"id":307,"name":"blast-burn","accuracy":90,"pp":5,"priority":0,"power":150,"type":"fire","damageClass":"special","description":"Powerful, but leaves the\nuser immobile the next turn."}
+{"id":307,"name":"blast-burn","accuracy":90,"pp":5,"priority":0,"power":150,"type":"fire","damageClass":"special","description":"The target is razed by a fiery explosion. The user\ncan’t move on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

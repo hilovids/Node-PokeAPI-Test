@@ -1,1 +1,1 @@
-{"id":492,"name":"foul-play","accuracy":100,"pp":15,"priority":0,"power":95,"type":"dark","damageClass":"physical","description":"Le lanceur utilise la force de l’ennemi.\nPlus l’Attaque de l’ennemi est élevée,\nplus le lanceur inflige de dégâts."}
+{"id":492,"name":"foul-play","accuracy":100,"pp":15,"priority":0,"power":95,"type":"dark","damageClass":"physical","description":"The user turns the target’s power against it.\nThe higher the target’s Attack stat, the greater\nthe damage it deals.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

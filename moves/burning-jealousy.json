@@ -1,1 +1,1 @@
-{"id":807,"name":"burning-jealousy","accuracy":100,"pp":5,"priority":0,"power":70,"type":"fire","damageClass":"special","description":"しっとの　エネルギーで　あいてを　こうげき。\nそのターン　のうりょくが　あがった　ポケモンを\nやけどの　じょうたいに　する。"}
+{"id":807,"name":"burning-jealousy","accuracy":100,"pp":5,"priority":0,"power":70,"type":"fire","damageClass":"special","description":"The user attacks with energy from jealousy. This leaves\nall opposing Pokémon that have had their stats boosted\nduring the turn with a burn.","ailment":"burn","ailmentChance":100,"statChanges":[],"target":"all-opponents"}

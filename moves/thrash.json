@@ -1,1 +1,1 @@
-{"id":37,"name":"thrash","accuracy":100,"pp":10,"priority":0,"power":120,"type":"normal","damageClass":"physical","description":"Works 2-3 turns\nand confuses user."}
+{"id":37,"name":"thrash","accuracy":100,"pp":10,"priority":0,"power":120,"type":"normal","damageClass":"physical","description":"The user rampages and attacks for two to three\nturns. The user then becomes confused.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"random-opponent"}

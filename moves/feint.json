@@ -1,1 +1,1 @@
-{"id":364,"name":"feint","accuracy":100,"pp":10,"priority":2,"power":30,"type":"normal","damageClass":"physical","description":"An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves."}
+{"id":364,"name":"feint","accuracy":100,"pp":10,"priority":2,"power":30,"type":"normal","damageClass":"physical","description":"This attack hits a target using a move such as\nProtect or Detect.\nThis also lifts the effects of those moves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

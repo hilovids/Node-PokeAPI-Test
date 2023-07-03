@@ -1,1 +1,1 @@
-{"id":341,"name":"mud-shot","accuracy":95,"pp":15,"priority":0,"power":55,"type":"ground","damageClass":"special","description":"Hurls mud at the foe and\nreduces SPEED."}
+{"id":341,"name":"mud-shot","accuracy":95,"pp":15,"priority":0,"power":55,"type":"ground","damageClass":"special","description":"The user attacks by hurling a blob of mud at the\ntarget. This also lowers the target’s Speed stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

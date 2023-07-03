@@ -1,1 +1,1 @@
-{"id":376,"name":"trump-card","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"The fewer PP this move has, the greater\nits attack power."}
+{"id":376,"name":"trump-card","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

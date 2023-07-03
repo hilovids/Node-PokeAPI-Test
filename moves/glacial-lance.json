@@ -1,1 +1,1 @@
-{"id":824,"name":"glacial-lance","accuracy":100,"pp":5,"priority":0,"power":130,"type":"ice","damageClass":"physical","description":"ふぶきを　まとった　こおりの　やりを\nあいてに　なげつけて　こうげきする。"}
+{"id":824,"name":"glacial-lance","accuracy":100,"pp":5,"priority":0,"power":130,"type":"ice","damageClass":"physical","description":"The user attacks by hurling a blizzard-cloaked\nicicle lance at opposing Pokémon.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

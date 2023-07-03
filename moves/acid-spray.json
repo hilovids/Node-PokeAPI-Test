@@ -1,1 +1,1 @@
-{"id":491,"name":"acid-spray","accuracy":100,"pp":20,"priority":0,"power":40,"type":"poison","damageClass":"special","description":"Ataca con un líquido corrosivo, reduciendo mucho\nla Defensa Especial del objetivo."}
+{"id":491,"name":"acid-spray","accuracy":100,"pp":20,"priority":0,"power":40,"type":"poison","damageClass":"special","description":"The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":-2}],"target":"selected-pokemon"}

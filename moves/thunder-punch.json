@@ -1,1 +1,1 @@
-{"id":9,"name":"thunder-punch","accuracy":100,"pp":15,"priority":0,"power":75,"type":"electric","damageClass":"physical","description":"An electric punch.\nIt may paralyze."}
+{"id":9,"name":"thunder-punch","accuracy":100,"pp":15,"priority":0,"power":75,"type":"electric","damageClass":"physical","description":"The target is punched with an electrified fist.\nThis may also leave the target with paralysis.","ailment":"paralysis","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

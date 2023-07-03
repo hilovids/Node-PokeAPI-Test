@@ -1,1 +1,1 @@
-{"id":522,"name":"struggle-bug","accuracy":100,"pp":20,"priority":0,"power":50,"type":"bug","damageClass":"special","description":"Le lanceur se débat de toutes ses forces,\net baisse l’Attaque Spéciale de l’ennemi."}
+{"id":522,"name":"struggle-bug","accuracy":100,"pp":20,"priority":0,"power":50,"type":"bug","damageClass":"special","description":"While resisting, the user attacks opposing Pokémon.\nThis lowers the Sp. Atk stats of those hit.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-1}],"target":"all-opponents"}

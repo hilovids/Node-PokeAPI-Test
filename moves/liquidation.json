@@ -1,1 +1,1 @@
-{"id":710,"name":"liquidation","accuracy":100,"pp":10,"priority":0,"power":85,"type":"water","damageClass":"physical","description":"みずの　ちからで　あいてに\nぶつかって　こうげきする。\nあいての　ぼうぎょを　さげる　ことがある。"}
+{"id":710,"name":"liquidation","accuracy":100,"pp":10,"priority":0,"power":85,"type":"water","damageClass":"physical","description":"The user slams into the target using a full-force\nblast of water. This may also lower the target’s\nDefense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

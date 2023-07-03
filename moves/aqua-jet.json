@@ -1,1 +1,1 @@
-{"id":453,"name":"aqua-jet","accuracy":100,"pp":20,"priority":1,"power":40,"type":"water","damageClass":"physical","description":"The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first."}
+{"id":453,"name":"aqua-jet","accuracy":100,"pp":20,"priority":1,"power":40,"type":"water","damageClass":"physical","description":"The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

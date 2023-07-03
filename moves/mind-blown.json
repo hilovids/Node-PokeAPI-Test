@@ -1,1 +1,1 @@
-{"id":720,"name":"mind-blown","accuracy":100,"pp":5,"priority":0,"power":150,"type":"fire","damageClass":"special","description":"じぶんの　あたまを　ばくはつ　させて\nまわりの　すべてを　こうげきする。\nじぶんも　ダメージを　うけてしまう。"}
+{"id":720,"name":"mind-blown","accuracy":100,"pp":5,"priority":0,"power":150,"type":"fire","damageClass":"special","description":"The user attacks everything around it by causing its\nown head to explode. This also damages the user.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

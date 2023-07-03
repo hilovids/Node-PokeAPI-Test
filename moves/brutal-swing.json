@@ -1,1 +1,1 @@
-{"id":693,"name":"brutal-swing","accuracy":100,"pp":20,"priority":0,"power":60,"type":"dark","damageClass":"physical","description":"じぶんの　からだを\nぶんまわして　あいてに\nダメージを　あたえる。"}
+{"id":693,"name":"brutal-swing","accuracy":100,"pp":20,"priority":0,"power":60,"type":"dark","damageClass":"physical","description":"The user swings its body around violently to inflict\ndamage on everything in its vicinity.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

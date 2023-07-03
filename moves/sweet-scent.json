@@ -1,1 +1,1 @@
-{"id":230,"name":"sweet-scent","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Reduces the foe's\nevasiveness."}
+{"id":230,"name":"sweet-scent","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"A sweet scent that harshly lowers opposing\nPokémon’s evasiveness.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"evasion","change":-2}],"target":"all-opponents"}

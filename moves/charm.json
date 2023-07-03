@@ -1,1 +1,1 @@
-{"id":204,"name":"charm","accuracy":100,"pp":20,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"Sharply lowers the\nfoe's ATTACK."}
+{"id":204,"name":"charm","accuracy":100,"pp":20,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target’s\nAttack stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-2}],"target":"selected-pokemon"}

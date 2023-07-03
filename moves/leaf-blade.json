@@ -1,1 +1,1 @@
-{"id":348,"name":"leaf-blade","accuracy":100,"pp":15,"priority":0,"power":90,"type":"grass","damageClass":"physical","description":"Hieb mit scharfkantigem Blatt. Hohe Volltrefferquote."}
+{"id":348,"name":"leaf-blade","accuracy":100,"pp":15,"priority":0,"power":90,"type":"grass","damageClass":"physical","description":"The user handles a sharp leaf like a sword and\nattacks by cutting its target. Critical hits land\nmore easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

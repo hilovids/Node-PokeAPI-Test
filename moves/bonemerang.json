@@ -1,1 +1,1 @@
-{"id":155,"name":"bonemerang","accuracy":90,"pp":10,"priority":0,"power":50,"type":"ground","damageClass":"physical","description":"An attack that\nstrikes twice."}
+{"id":155,"name":"bonemerang","accuracy":90,"pp":10,"priority":0,"power":50,"type":"ground","damageClass":"physical","description":"The user throws the bone it holds. The bone loops\naround to hit the target twice—coming and going.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

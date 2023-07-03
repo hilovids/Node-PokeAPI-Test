@@ -1,1 +1,1 @@
-{"id":744,"name":"dynamax-cannon","accuracy":100,"pp":5,"priority":0,"power":100,"type":"dragon","damageClass":"special","description":"コアから　ビームを　はなって　こうげき。\nあいてが　ダイマックス　していると\nダメージは　２ばいに　なる。"}
+{"id":744,"name":"dynamax-cannon","accuracy":100,"pp":5,"priority":0,"power":100,"type":"dragon","damageClass":"special","description":"The user unleashes a strong beam from its core.\nThis move deals twice the damage if the target\nis Dynamaxed.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

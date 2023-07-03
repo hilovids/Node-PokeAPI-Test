@@ -1,1 +1,1 @@
-{"id":312,"name":"aromatherapy","accuracy":null,"pp":5,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"Heals all status problems\nwith a soothing scent."}
+{"id":312,"name":"aromatherapy","accuracy":null,"pp":5,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user-and-allies"}

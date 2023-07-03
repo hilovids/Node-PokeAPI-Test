@@ -1,1 +1,1 @@
-{"id":135,"name":"soft-boiled","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Restores HP by 1/2\nthe user's max HP."}
+{"id":135,"name":"soft-boiled","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user restores its own HP by up to half of its\nmax HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

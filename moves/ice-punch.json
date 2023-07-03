@@ -1,1 +1,1 @@
-{"id":8,"name":"ice-punch","accuracy":100,"pp":15,"priority":0,"power":75,"type":"ice","damageClass":"physical","description":"An icy punch. May\ncause freezing."}
+{"id":8,"name":"ice-punch","accuracy":100,"pp":15,"priority":0,"power":75,"type":"ice","damageClass":"physical","description":"The target is punched with an icy fist. This may also\nleave the target frozen.","ailment":"freeze","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

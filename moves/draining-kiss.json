@@ -1,1 +1,1 @@
-{"id":577,"name":"draining-kiss","accuracy":100,"pp":10,"priority":0,"power":50,"type":"fairy","damageClass":"special","description":"キッスによって　あいてから　ＨＰを\nすいとる。あたえた　ダメージの\nはんぶんいじょう　ＨＰを　かいふくする。"}
+{"id":577,"name":"draining-kiss","accuracy":100,"pp":10,"priority":0,"power":50,"type":"fairy","damageClass":"special","description":"The user steals the target’s HP with a kiss. The\nuser’s HP is restored by over half of the damage\ntaken by the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

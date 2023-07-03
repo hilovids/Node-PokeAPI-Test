@@ -1,1 +1,1 @@
-{"id":642,"name":"hydro-vortex--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"water","damageClass":"physical","description":"Ｚパワーで　おおきな　うずしおを　つくり\nぜんりょくで　あいてを　のみこむ。\nもとになった　わざで　いりょくが　かわる。"}
+{"id":642,"name":"hydro-vortex--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"water","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

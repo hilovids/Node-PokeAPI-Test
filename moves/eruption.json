@@ -1,1 +1,1 @@
-{"id":284,"name":"eruption","accuracy":100,"pp":5,"priority":0,"power":150,"type":"fire","damageClass":"special","description":"The higher the user’s HP,\nthe more damage caused."}
+{"id":284,"name":"eruption","accuracy":100,"pp":5,"priority":0,"power":150,"type":"fire","damageClass":"special","description":"The user attacks opposing Pokémon with explosive\nfury. The lower the user’s HP, the lower the\nmove’s power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

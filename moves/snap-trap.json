@@ -1,1 +1,1 @@
-{"id":779,"name":"snap-trap","accuracy":100,"pp":15,"priority":0,"power":35,"type":"grass","damageClass":"physical","description":"トラバサミで　とらえて\n４－５ターンの　あいだ\nあいてを　はさんで　こうげきする。"}
+{"id":779,"name":"snap-trap","accuracy":100,"pp":15,"priority":0,"power":35,"type":"grass","damageClass":"physical","description":"The user snares the target in a snap trap for four to\nfive turns.","ailment":"trap","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

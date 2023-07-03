@@ -1,1 +1,1 @@
-{"id":116,"name":"focus-energy","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Raises the criti­\ncal hit ratio."}
+{"id":116,"name":"focus-energy","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user takes a deep breath and focuses so that\ncritical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

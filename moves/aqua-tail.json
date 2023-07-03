@@ -1,1 +1,1 @@
-{"id":401,"name":"aqua-tail","accuracy":90,"pp":10,"priority":0,"power":90,"type":"water","damageClass":"physical","description":"The user attacks by\nswinging its tail as if\nit were a vicious wave\nin a raging storm.\n"}
+{"id":401,"name":"aqua-tail","accuracy":90,"pp":10,"priority":0,"power":90,"type":"water","damageClass":"physical","description":"The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

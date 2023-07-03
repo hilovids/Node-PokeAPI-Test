@@ -1,1 +1,1 @@
-{"id":385,"name":"guard-swap","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user employs its\npsychic power to\nswitch changes to\nits Defense and\nSp. Def with the foe."}
+{"id":385,"name":"guard-swap","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user employs its psychic power to switch\nchanges to its Defense and Sp. Def stats with\nthe target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

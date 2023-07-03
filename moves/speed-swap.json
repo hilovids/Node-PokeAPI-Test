@@ -1,1 +1,1 @@
-{"id":683,"name":"speed-swap","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"あいての　すばやさと\nじぶんの　すばやさを\nいれかえて　しまう。"}
+{"id":683,"name":"speed-swap","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user exchanges Speed stats with the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

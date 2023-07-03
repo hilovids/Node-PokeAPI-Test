@@ -1,1 +1,1 @@
-{"id":106,"name":"harden","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Raises the user's\nDEFENSE."}
+{"id":106,"name":"harden","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user stiffens all the muscles in its body to raise\nits Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":1}],"target":"user"}

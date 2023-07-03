@@ -1,1 +1,1 @@
-{"id":57,"name":"surf","accuracy":100,"pp":15,"priority":0,"power":90,"type":"water","damageClass":"special","description":"A strong water-\ntype attack."}
+{"id":57,"name":"surf","accuracy":100,"pp":15,"priority":0,"power":90,"type":"water","damageClass":"special","description":"The user attacks everything around it by swamping\nits surroundings with a giant wave.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

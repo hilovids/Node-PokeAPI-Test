@@ -1,1 +1,1 @@
-{"id":366,"name":"tailwind","accuracy":null,"pp":15,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"The user whips up a\nturbulent whirlwind\nthat ups the Speed\nof all party Pokémon\nfor three turns."}
+{"id":366,"name":"tailwind","accuracy":null,"pp":15,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"The user whips up a turbulent whirlwind that ups\nthe Speed stats of the user and its allies for\nfour turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

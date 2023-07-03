@@ -1,1 +1,1 @@
-{"id":675,"name":"throat-chop","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"この　わざを　うけた　あいては\nじごくの　くるしみから　２ターンのあいだ\nおとの　わざを　だすことが　できなくなる。"}
+{"id":675,"name":"throat-chop","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"The user attacks the target’s throat, and the\nresultant suffering prevents the target from using\nmoves that emit sound for two turns.","ailment":"silence","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

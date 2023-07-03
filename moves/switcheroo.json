@@ -1,1 +1,1 @@
-{"id":415,"name":"switcheroo","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user trades held\nitems with the foe\nfaster than the eye\ncan follow.\n"}
+{"id":415,"name":"switcheroo","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user trades held items with the target faster\nthan the eye can follow.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

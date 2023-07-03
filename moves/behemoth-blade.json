@@ -1,1 +1,1 @@
-{"id":781,"name":"behemoth-blade","accuracy":100,"pp":5,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"きょだいな　けんとなり　きりかかる。\nあいてが　ダイマックス　していると\nダメージは　２ばいに　なる。"}
+{"id":781,"name":"behemoth-blade","accuracy":100,"pp":5,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"The user becomes a gigantic sword and cuts the target.\nThis move deals twice the damage if the target\nis Dynamaxed.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

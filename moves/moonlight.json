@@ -1,1 +1,1 @@
-{"id":236,"name":"moonlight","accuracy":null,"pp":5,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"Restores HP\n(varies by time)."}
+{"id":236,"name":"moonlight","accuracy":null,"pp":5,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"The user restores its own HP. The amount of HP\nregained varies with the weather.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

@@ -1,1 +1,1 @@
-{"id":564,"name":"sticky-web","accuracy":null,"pp":20,"priority":0,"power":null,"type":"bug","damageClass":"status","description":"あいての　まわりに　ねばねばした\nネットを　はりめぐらせ　こうたいで\nでてきた　あいての　すばやさを　さげる。"}
+{"id":564,"name":"sticky-web","accuracy":null,"pp":20,"priority":0,"power":null,"type":"bug","damageClass":"status","description":"The user weaves a sticky net around the opposing\nteam, which lowers their Speed stats upon switching\ninto battle.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"opponents-field"}

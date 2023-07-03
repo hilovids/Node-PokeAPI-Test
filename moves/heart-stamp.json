@@ -1,1 +1,1 @@
-{"id":531,"name":"heart-stamp","accuracy":100,"pp":25,"priority":0,"power":60,"type":"psychic","damageClass":"physical","description":"Déconcentre l’ennemi avec des mouvements\nmignons avant de le frapper violemment.\nPeut apeurer l’ennemi."}
+{"id":531,"name":"heart-stamp","accuracy":100,"pp":25,"priority":0,"power":60,"type":"psychic","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":822,"name":"fiery-wrath","accuracy":100,"pp":10,"priority":0,"power":90,"type":"dark","damageClass":"special","description":"いかりを　ほのおの　ような\nオーラに　かえて　こうげきする。\nあいてを　ひるませる　ことが　ある。"}
+{"id":822,"name":"fiery-wrath","accuracy":100,"pp":10,"priority":0,"power":90,"type":"dark","damageClass":"special","description":"The user transforms its wrath into a fire-like aura\nto attack. This may also make opposing Pokémon flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

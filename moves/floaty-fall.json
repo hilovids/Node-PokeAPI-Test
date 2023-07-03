@@ -1,1 +1,1 @@
-{"id":731,"name":"floaty-fall","accuracy":95,"pp":15,"priority":0,"power":90,"type":"flying","damageClass":"physical","description":"ふんわりと　うかび　あがり\nいっきに　きゅうこうか　して　こうげき。\nあいてを　ひるませる　ことが　ある。"}
+{"id":731,"name":"floaty-fall","accuracy":95,"pp":15,"priority":0,"power":90,"type":"flying","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

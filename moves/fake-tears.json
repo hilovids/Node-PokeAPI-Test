@@ -1,1 +1,1 @@
-{"id":313,"name":"fake-tears","accuracy":100,"pp":20,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"Feigns crying to sharply\nlower the foe’s SP. DEF."}
+{"id":313,"name":"fake-tears","accuracy":100,"pp":20,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user feigns crying to fluster the target, harshly\nlowering its Sp. Def stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":-2}],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":745,"name":"snipe-shot","accuracy":100,"pp":15,"priority":0,"power":80,"type":"water","damageClass":"special","description":"あいての　わざを　ひきうける\nとくせいや　わざの　えいきょうを　むしして\nえらんだ　あいてを　こうげき　できる。"}
+{"id":745,"name":"snipe-shot","accuracy":100,"pp":15,"priority":0,"power":80,"type":"water","damageClass":"special","description":"The user ignores the effects of opposing Pokémon’s\nmoves and Abilities that draw in moves, allowing this\nmove to hit the chosen target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":669,"name":"solar-blade","accuracy":100,"pp":10,"priority":0,"power":125,"type":"grass","damageClass":"physical","description":"１ターンめに　ひかりを　いっぱいに\nあつめ　２ターンめに　そのちからを\nけんに　こめて　こうげきする。"}
+{"id":669,"name":"solar-blade","accuracy":100,"pp":10,"priority":0,"power":125,"type":"grass","damageClass":"physical","description":"In this two-turn attack, the user gathers light and fills a\nblade with the light’s energy, attacking the target on the\nnext turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

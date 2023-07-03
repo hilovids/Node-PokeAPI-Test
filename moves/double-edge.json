@@ -1,1 +1,1 @@
-{"id":38,"name":"double-edge","accuracy":100,"pp":15,"priority":0,"power":120,"type":"normal","damageClass":"physical","description":"A tackle that also\nhurts the user."}
+{"id":38,"name":"double-edge","accuracy":100,"pp":15,"priority":0,"power":120,"type":"normal","damageClass":"physical","description":"A reckless, life-risking tackle in which the user rushes\nthe target. This also damages the user quite a lot.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

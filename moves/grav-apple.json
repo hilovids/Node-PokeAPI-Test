@@ -1,1 +1,1 @@
-{"id":788,"name":"grav-apple","accuracy":100,"pp":10,"priority":0,"power":80,"type":"grass","damageClass":"physical","description":"たかいところから　りんごを　おとして\nダメージを　あたえる。\nあいての　ぼうぎょを　さげる。"}
+{"id":788,"name":"grav-apple","accuracy":100,"pp":10,"priority":0,"power":80,"type":"grass","damageClass":"physical","description":"The user inflicts damage by dropping an apple from\nhigh above. This also lowers the target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

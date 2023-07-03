@@ -1,1 +1,1 @@
-{"id":251,"name":"beat-up","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"physical","description":"Party POKéMON join\nin the attack.\n"}
+{"id":251,"name":"beat-up","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"physical","description":"The user gets all party Pokémon to attack the target.\nThe more party Pokémon, the greater the number\nof attacks.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

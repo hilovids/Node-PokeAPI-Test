@@ -1,1 +1,1 @@
-{"id":346,"name":"water-sport","accuracy":null,"pp":15,"priority":0,"power":null,"type":"water","damageClass":"status","description":"The user becomes soaked to\nraise resistance to fire."}
+{"id":346,"name":"water-sport","accuracy":null,"pp":15,"priority":0,"power":null,"type":"water","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

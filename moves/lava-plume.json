@@ -1,1 +1,1 @@
-{"id":436,"name":"lava-plume","accuracy":100,"pp":15,"priority":0,"power":80,"type":"fire","damageClass":"special","description":"An inferno of scarlet\nflames washes over\nall Pokémon in battle.\nIt may also inflict\nburns."}
+{"id":436,"name":"lava-plume","accuracy":100,"pp":15,"priority":0,"power":80,"type":"fire","damageClass":"special","description":"The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.","ailment":"burn","ailmentChance":30,"statChanges":[],"target":"all-other-pokemon"}

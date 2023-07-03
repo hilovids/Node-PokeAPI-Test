@@ -1,1 +1,1 @@
-{"id":751,"name":"dragon-darts","accuracy":100,"pp":10,"priority":0,"power":50,"type":"dragon","damageClass":"physical","description":"ドラメシヤで　２かい　こうげき。\nあいてが　２ひき　いるときは\nそれぞれに　１かいずつ　こうげきする。"}
+{"id":751,"name":"dragon-darts","accuracy":100,"pp":10,"priority":0,"power":50,"type":"dragon","damageClass":"physical","description":"The user attacks twice using Dreepy. If there are two\ntargets, this move hits each target once.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

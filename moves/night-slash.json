@@ -1,1 +1,1 @@
-{"id":400,"name":"night-slash","accuracy":100,"pp":15,"priority":0,"power":70,"type":"dark","damageClass":"physical","description":"The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio."}
+{"id":400,"name":"night-slash","accuracy":100,"pp":15,"priority":0,"power":70,"type":"dark","damageClass":"physical","description":"The user slashes the target the instant an\nopportunity arises. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

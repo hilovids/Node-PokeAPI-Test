@@ -1,1 +1,1 @@
-{"id":648,"name":"shattered-psyche--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"psychic","damageClass":"physical","description":"Ｚパワーで　あいてを　あやつり\nぜんりょくで　いたい　おもいを　させる。\nもとになった　わざで　いりょくが　かわる。"}
+{"id":648,"name":"shattered-psyche--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"psychic","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

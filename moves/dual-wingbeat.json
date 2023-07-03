@@ -1,1 +1,1 @@
-{"id":814,"name":"dual-wingbeat","accuracy":90,"pp":10,"priority":0,"power":40,"type":"flying","damageClass":"physical","description":"つばさを　あいてに　ぶつけて\nこうげきする。　２かい　れんぞくで\nダメージを　あたえる。"}
+{"id":814,"name":"dual-wingbeat","accuracy":90,"pp":10,"priority":0,"power":40,"type":"flying","damageClass":"physical","description":"The user slams the target with its wings.\nThe target is hit twice in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

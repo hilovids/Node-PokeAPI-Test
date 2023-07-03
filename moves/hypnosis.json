@@ -1,1 +1,1 @@
-{"id":95,"name":"hypnosis","accuracy":60,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"May put the foe to\nsleep."}
+{"id":95,"name":"hypnosis","accuracy":60,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.","ailment":"sleep","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

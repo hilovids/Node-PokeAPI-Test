@@ -1,1 +1,1 @@
-{"id":258,"name":"hail","accuracy":null,"pp":10,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"Summons a hailstorm that\nstrikes every turn."}
+{"id":258,"name":"hail","accuracy":null,"pp":10,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"The user summons a hailstorm lasting five turns.\nIt damages all Pokémon except Ice types.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

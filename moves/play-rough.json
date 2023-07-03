@@ -1,1 +1,1 @@
-{"id":583,"name":"play-rough","accuracy":90,"pp":10,"priority":0,"power":90,"type":"fairy","damageClass":"physical","description":"あいてに　じゃれついて\nこうげきする。　あいての\nこうげきを　さげる　ことがある。"}
+{"id":583,"name":"play-rough","accuracy":90,"pp":10,"priority":0,"power":90,"type":"fairy","damageClass":"physical","description":"The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-1}],"target":"selected-pokemon"}

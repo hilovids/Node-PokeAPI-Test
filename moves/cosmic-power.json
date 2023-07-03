@@ -1,1 +1,1 @@
-{"id":322,"name":"cosmic-power","accuracy":null,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Raises DEFENSE and SP. DEF\nwith a mystic power."}
+{"id":322,"name":"cosmic-power","accuracy":null,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user absorbs a mystical power from space to\nraise its Defense and Sp. Def stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":1},{"stat":"special-defense","change":1}],"target":"user"}

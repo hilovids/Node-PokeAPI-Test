@@ -1,1 +1,1 @@
-{"id":323,"name":"water-spout","accuracy":100,"pp":5,"priority":0,"power":150,"type":"water","damageClass":"special","description":"Inflicts more damage if the\nuser’s HP is high."}
+{"id":323,"name":"water-spout","accuracy":100,"pp":5,"priority":0,"power":150,"type":"water","damageClass":"special","description":"The user spouts water to damage opposing\nPokémon. The lower the user’s HP, the lower the\nmove’s power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

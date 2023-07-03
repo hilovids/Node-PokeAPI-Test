@@ -1,1 +1,1 @@
-{"id":409,"name":"drain-punch","accuracy":100,"pp":10,"priority":0,"power":75,"type":"fighting","damageClass":"physical","description":"An energy-draining\npunch. The user’s\nHP is restored by\nhalf the damage taken\nby the target."}
+{"id":409,"name":"drain-punch","accuracy":100,"pp":10,"priority":0,"power":75,"type":"fighting","damageClass":"physical","description":"An energy-draining punch. The user’s HP is restored\nby half the damage taken by the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":502,"name":"ally-switch","accuracy":null,"pp":15,"priority":2,"power":null,"type":"psychic","damageClass":"status","description":"Le lanceur se téléporte à l’aide d’un\npouvoir mystérieux. Il échange sa place\navec celle d’un allié sur le terrain."}
+{"id":502,"name":"ally-switch","accuracy":null,"pp":15,"priority":2,"power":null,"type":"psychic","damageClass":"status","description":"The user teleports using a strange power and\nswitches places with one of its allies.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

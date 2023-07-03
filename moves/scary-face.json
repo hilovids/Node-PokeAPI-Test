@@ -1,1 +1,1 @@
-{"id":184,"name":"scary-face","accuracy":100,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Sharply reduces\nthe foe's SPEED."}
+{"id":184,"name":"scary-face","accuracy":100,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user frightens the target with a scary face to\nharshly lower its Speed stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-2}],"target":"selected-pokemon"}

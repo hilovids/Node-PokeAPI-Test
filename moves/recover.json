@@ -1,1 +1,1 @@
-{"id":105,"name":"recover","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Restores HP by 1/2\nthe max HP."}
+{"id":105,"name":"recover","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Restoring its own cells, the user restores its own HP\nby half of its max HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

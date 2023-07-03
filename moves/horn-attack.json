@@ -1,1 +1,1 @@
-{"id":30,"name":"horn-attack","accuracy":100,"pp":25,"priority":0,"power":65,"type":"normal","damageClass":"physical","description":"An attack using a\nhorn to jab."}
+{"id":30,"name":"horn-attack","accuracy":100,"pp":25,"priority":0,"power":65,"type":"normal","damageClass":"physical","description":"The target is jabbed with a sharply pointed horn to\ninflict damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

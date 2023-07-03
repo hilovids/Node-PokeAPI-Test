@@ -1,1 +1,1 @@
-{"id":84,"name":"thunder-shock","accuracy":100,"pp":30,"priority":0,"power":40,"type":"electric","damageClass":"special","description":"An attack that may\ncause paralysis."}
+{"id":84,"name":"thunder-shock","accuracy":100,"pp":30,"priority":0,"power":40,"type":"electric","damageClass":"special","description":"A jolt of electricity crashes down on the target to\ninflict damage. This may also leave the target\nwith paralysis.","ailment":"paralysis","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

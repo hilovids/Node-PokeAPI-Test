@@ -1,1 +1,1 @@
-{"id":738,"name":"sappy-seed","accuracy":90,"pp":10,"priority":0,"power":100,"type":"grass","damageClass":"physical","description":"きょだいな　ツルを　はやし　タネを\nまきちらかして　こうげきする。　タネは\nまいターン　あいての　HPを　すいとる。"}
+{"id":738,"name":"sappy-seed","accuracy":90,"pp":10,"priority":0,"power":100,"type":"grass","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"leech-seed","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

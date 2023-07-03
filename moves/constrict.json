@@ -1,1 +1,1 @@
-{"id":132,"name":"constrict","accuracy":100,"pp":35,"priority":0,"power":10,"type":"normal","damageClass":"physical","description":"An attack that may\nlower SPEED."}
+{"id":132,"name":"constrict","accuracy":100,"pp":35,"priority":0,"power":10,"type":"normal","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":190,"name":"octazooka","accuracy":85,"pp":10,"priority":0,"power":65,"type":"water","damageClass":"special","description":"An attack that may\nreduce accuracy."}
+{"id":190,"name":"octazooka","accuracy":85,"pp":10,"priority":0,"power":65,"type":"water","damageClass":"special","description":"The user attacks by spraying ink in the target’s face\nor eyes. This may also lower the target’s accuracy.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"accuracy","change":-1}],"target":"selected-pokemon"}

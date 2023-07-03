@@ -1,1 +1,1 @@
-{"id":417,"name":"nasty-plot","accuracy":null,"pp":20,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk."}
+{"id":417,"name":"nasty-plot","accuracy":null,"pp":20,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":2}],"target":"user"}

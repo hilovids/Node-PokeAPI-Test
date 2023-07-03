@@ -1,1 +1,1 @@
-{"id":188,"name":"sludge-bomb","accuracy":100,"pp":10,"priority":0,"power":90,"type":"poison","damageClass":"special","description":"An attack that may\npoison the foe."}
+{"id":188,"name":"sludge-bomb","accuracy":100,"pp":10,"priority":0,"power":90,"type":"poison","damageClass":"special","description":"Unsanitary sludge is hurled at the target. This may\nalso poison the target.","ailment":"poison","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

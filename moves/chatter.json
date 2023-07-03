@@ -1,1 +1,1 @@
-{"id":448,"name":"chatter","accuracy":100,"pp":20,"priority":0,"power":65,"type":"flying","damageClass":"special","description":"The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe."}
+{"id":448,"name":"chatter","accuracy":100,"pp":20,"priority":0,"power":65,"type":"flying","damageClass":"special","description":"The user attacks the target with sound waves of\ndeafening chatter. This confuses the target.","ailment":"confusion","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

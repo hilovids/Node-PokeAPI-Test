@@ -1,1 +1,1 @@
-{"id":452,"name":"wood-hammer","accuracy":100,"pp":15,"priority":0,"power":120,"type":"grass","damageClass":"physical","description":"The user slams its\nrugged body into the\nfoe to attack. The\nuser also sustains\nserious damage."}
+{"id":452,"name":"wood-hammer","accuracy":100,"pp":15,"priority":0,"power":120,"type":"grass","damageClass":"physical","description":"The user slams its rugged body into the target to\nattack. This also damages the user quite a lot.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

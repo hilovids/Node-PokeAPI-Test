@@ -1,1 +1,1 @@
-{"id":206,"name":"false-swipe","accuracy":100,"pp":40,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"Leaves the foe\nwith at least 1HP."}
+{"id":206,"name":"false-swipe","accuracy":100,"pp":40,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"A restrained attack that prevents the target from\nfainting. The target is left with at least 1 HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

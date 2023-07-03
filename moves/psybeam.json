@@ -1,1 +1,1 @@
-{"id":60,"name":"psybeam","accuracy":100,"pp":20,"priority":0,"power":65,"type":"psychic","damageClass":"special","description":"The target is attacked with a peculiar ray. This may\nalso leave the target confused."}
+{"id":60,"name":"psybeam","accuracy":100,"pp":20,"priority":0,"power":65,"type":"psychic","damageClass":"special","description":"The target is attacked with a peculiar ray. This may\nalso leave the target confused.","ailment":"confusion","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

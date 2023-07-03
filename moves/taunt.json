@@ -1,1 +1,1 @@
-{"id":269,"name":"taunt","accuracy":100,"pp":20,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"Taunts the foe into only\nusing attack moves."}
+{"id":269,"name":"taunt","accuracy":100,"pp":20,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The target is taunted into a rage that allows it to use\nonly attack moves for three turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

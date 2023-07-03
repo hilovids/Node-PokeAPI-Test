@@ -1,1 +1,1 @@
-{"id":86,"name":"thunder-wave","accuracy":90,"pp":20,"priority":0,"power":null,"type":"electric","damageClass":"status","description":"A move that may\ncause paralysis."}
+{"id":86,"name":"thunder-wave","accuracy":90,"pp":20,"priority":0,"power":null,"type":"electric","damageClass":"status","description":"The user launches a weak jolt of electricity that\nparalyzes the target.","ailment":"paralysis","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

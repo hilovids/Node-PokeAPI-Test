@@ -1,1 +1,1 @@
-{"id":73,"name":"leech-seed","accuracy":90,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"Steals HP from the\nfoe on every turn."}
+{"id":73,"name":"leech-seed","accuracy":90,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"A seed is planted on the target. It steals some HP\nfrom the target every turn.","ailment":"leech-seed","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

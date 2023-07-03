@@ -1,1 +1,1 @@
-{"id":249,"name":"rock-smash","accuracy":100,"pp":15,"priority":0,"power":40,"type":"fighting","damageClass":"physical","description":"A rock-crushing attack\nthat may lower DEFENSE."}
+{"id":249,"name":"rock-smash","accuracy":100,"pp":15,"priority":0,"power":40,"type":"fighting","damageClass":"physical","description":"The user attacks with a punch. This may also lower\nthe target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

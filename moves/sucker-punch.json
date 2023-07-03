@@ -1,1 +1,1 @@
-{"id":389,"name":"sucker-punch","accuracy":100,"pp":5,"priority":1,"power":70,"type":"dark","damageClass":"physical","description":"Permite atacar con prioridad. Falla si el objetivo no\nestá preparando ningún ataque."}
+{"id":389,"name":"sucker-punch","accuracy":100,"pp":5,"priority":1,"power":70,"type":"dark","damageClass":"physical","description":"This move enables the user to attack first. This move\nfails if the target is not readying an attack.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

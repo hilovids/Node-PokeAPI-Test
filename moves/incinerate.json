@@ -1,1 +1,1 @@
-{"id":510,"name":"incinerate","accuracy":100,"pp":15,"priority":0,"power":60,"type":"fire","damageClass":"special","description":"Des flammes calcinent l’ennemi.\nS’il tient une Baie, elle est\nbrûlée et devient inutilisable."}
+{"id":510,"name":"incinerate","accuracy":100,"pp":15,"priority":0,"power":60,"type":"fire","damageClass":"special","description":"The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

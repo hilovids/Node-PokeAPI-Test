@@ -1,1 +1,1 @@
-{"id":171,"name":"nightmare","accuracy":100,"pp":15,"priority":0,"power":null,"type":"ghost","damageClass":"status","description":"A sleeper loses\n1/4 HP every turn."}
+{"id":171,"name":"nightmare","accuracy":100,"pp":15,"priority":0,"power":null,"type":"ghost","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"nightmare","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

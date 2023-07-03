@@ -1,1 +1,1 @@
-{"id":148,"name":"flash","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Blinds the foe to\nreduce accuracy."}
+{"id":148,"name":"flash","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"accuracy","change":-1}],"target":"selected-pokemon"}

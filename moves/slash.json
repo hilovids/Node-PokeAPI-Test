@@ -1,1 +1,1 @@
-{"id":163,"name":"slash","accuracy":100,"pp":20,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"Has a high criti­\ncal hit ratio."}
+{"id":163,"name":"slash","accuracy":100,"pp":20,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"The target is attacked with a slash of claws or\nblades. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

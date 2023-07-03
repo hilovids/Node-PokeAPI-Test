@@ -1,1 +1,1 @@
-{"id":139,"name":"poison-gas","accuracy":90,"pp":40,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"A move that may\npoison the foe."}
+{"id":139,"name":"poison-gas","accuracy":90,"pp":40,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"A cloud of poison gas is sprayed in the face of\nopposing Pokémon, poisoning those it hits.","ailment":"poison","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

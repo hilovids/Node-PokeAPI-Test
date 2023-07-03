@@ -1,1 +1,1 @@
-{"id":114,"name":"haze","accuracy":null,"pp":30,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"Eliminates all\nstat changes."}
+{"id":114,"name":"haze","accuracy":null,"pp":30,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"The user creates a haze that eliminates every stat\nchange among all the Pokémon engaged in battle.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

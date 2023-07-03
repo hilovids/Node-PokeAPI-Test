@@ -1,1 +1,1 @@
-{"id":526,"name":"work-up","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"激勵自己，\n提高自己的攻擊和特攻。"}
+{"id":526,"name":"work-up","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user is roused, and its Attack and Sp. Atk\nstats increase.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":1},{"stat":"special-attack","change":1}],"target":"user"}

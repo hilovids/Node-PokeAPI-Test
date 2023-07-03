@@ -1,1 +1,1 @@
-{"id":240,"name":"rain-dance","accuracy":null,"pp":5,"priority":0,"power":null,"type":"water","damageClass":"status","description":"Boosts water-type\nmoves for 5 turns."}
+{"id":240,"name":"rain-dance","accuracy":null,"pp":5,"priority":0,"power":null,"type":"water","damageClass":"status","description":"The user summons a heavy rain that falls for five\nturns, powering up Water-type moves. It lowers\nthe power of Fire-type moves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

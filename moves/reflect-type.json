@@ -1,1 +1,1 @@
-{"id":513,"name":"reflect-type","accuracy":null,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Cambia el tipo del Pokémon al mismo tipo que\nel del objetivo."}
+{"id":513,"name":"reflect-type","accuracy":null,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user reflects the target’s type, making the user the\nsame type as the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":71,"name":"absorb","accuracy":100,"pp":25,"priority":0,"power":20,"type":"grass","damageClass":"special","description":"Steals 1/2 of the\ndamage inflicted."}
+{"id":71,"name":"absorb","accuracy":100,"pp":25,"priority":0,"power":20,"type":"grass","damageClass":"special","description":"A nutrient-draining attack. The user’s HP is restored\nby half the damage taken by the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

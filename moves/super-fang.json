@@ -1,1 +1,1 @@
-{"id":162,"name":"super-fang","accuracy":90,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"Cuts the foe's HP\nby 1/2."}
+{"id":162,"name":"super-fang","accuracy":90,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"The user chomps hard on the target with its sharp\nfront fangs. This cuts the target’s HP in half.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

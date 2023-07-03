@@ -1,1 +1,1 @@
-{"id":684,"name":"smart-strike","accuracy":null,"pp":10,"priority":0,"power":70,"type":"steel","damageClass":"physical","description":"とがった　つので　あいてを\nつきさして　こうげきする。\nこうげきは　かならず　めいちゅう　する。"}
+{"id":684,"name":"smart-strike","accuracy":null,"pp":10,"priority":0,"power":70,"type":"steel","damageClass":"physical","description":"The user stabs the target with a sharp horn. This\nattack never misses.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

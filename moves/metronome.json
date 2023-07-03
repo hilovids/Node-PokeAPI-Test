@@ -1,1 +1,1 @@
-{"id":118,"name":"metronome","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Randomly uses any\nPOKéMON move."}
+{"id":118,"name":"metronome","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user waggles a finger and stimulates its brain\ninto randomly using nearly any move.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

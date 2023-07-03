@@ -1,1 +1,1 @@
-{"id":799,"name":"scale-shot","accuracy":90,"pp":20,"priority":0,"power":25,"type":"dragon","damageClass":"physical","description":"ウロコを　うちだして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。\nすばやさが　あがるが　ぼうぎょが　さがる。"}
+{"id":799,"name":"scale-shot","accuracy":90,"pp":20,"priority":0,"power":25,"type":"dragon","damageClass":"physical","description":"The user attacks by shooting scales two to five times\nin a row. This move boosts the user’s Speed stat but\nlowers its Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

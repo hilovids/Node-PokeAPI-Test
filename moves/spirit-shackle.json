@@ -1,1 +1,1 @@
-{"id":662,"name":"spirit-shackle","accuracy":100,"pp":10,"priority":0,"power":80,"type":"ghost","damageClass":"physical","description":"こうげきと　どうじに\nあいての　かげを　ぬいつけて\nにげられなくする。"}
+{"id":662,"name":"spirit-shackle","accuracy":100,"pp":10,"priority":0,"power":80,"type":"ghost","damageClass":"physical","description":"The user attacks while simultaneously stitching the\ntarget’s shadow to the ground to prevent the target\nfrom escaping.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

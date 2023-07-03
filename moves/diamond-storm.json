@@ -1,1 +1,1 @@
-{"id":591,"name":"diamond-storm","accuracy":95,"pp":5,"priority":0,"power":100,"type":"rock","damageClass":"physical","description":"ダイヤの　あらしを　まきおこし\nダメージを　あたえる。　じぶんの\nぼうぎょを　あげることが　ある。"}
+{"id":591,"name":"diamond-storm","accuracy":95,"pp":5,"priority":0,"power":100,"type":"rock","damageClass":"physical","description":"The user whips up a storm of diamonds to damage\nopposing Pokémon. This may also sharply raise the\nuser’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":2}],"target":"all-opponents"}

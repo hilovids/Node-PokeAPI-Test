@@ -1,1 +1,1 @@
-{"id":538,"name":"cotton-guard","accuracy":null,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"用軟綿綿的絨毛\n保護自己的身體。\n極大幅提高自己的防禦。"}
+{"id":538,"name":"cotton-guard","accuracy":null,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user’s\nDefense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":3}],"target":"user"}

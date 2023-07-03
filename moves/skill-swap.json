@@ -1,1 +1,1 @@
-{"id":285,"name":"skill-swap","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user swaps special\nabilities with the target."}
+{"id":285,"name":"skill-swap","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user employs its psychic power to exchange\nAbilities with the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

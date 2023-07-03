@@ -1,1 +1,1 @@
-{"id":355,"name":"roost","accuracy":null,"pp":10,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"The user lands and\nrests its body.\nIt restores the\nuser’s HP by up to\nhalf of its max HP."}
+{"id":355,"name":"roost","accuracy":null,"pp":10,"priority":0,"power":null,"type":"flying","damageClass":"status","description":"The user lands and rests its body. This move restores\nthe user’s HP by up to half of its max HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

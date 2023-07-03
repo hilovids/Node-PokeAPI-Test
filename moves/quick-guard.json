@@ -1,1 +1,1 @@
-{"id":501,"name":"quick-guard","accuracy":null,"pp":15,"priority":3,"power":null,"type":"fighting","damageClass":"status","description":"Le lanceur et son équipe sont protégés\ncontre les attaques prioritaires. Peut\néchouer si utilisée plusieurs fois de suite."}
+{"id":501,"name":"quick-guard","accuracy":null,"pp":15,"priority":3,"power":null,"type":"fighting","damageClass":"status","description":"The user protects itself and its allies from\npriority moves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

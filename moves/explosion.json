@@ -1,1 +1,1 @@
-{"id":153,"name":"explosion","accuracy":100,"pp":5,"priority":0,"power":250,"type":"normal","damageClass":"physical","description":"Inflicts severe damage but\nmakes the user faint."}
+{"id":153,"name":"explosion","accuracy":100,"pp":5,"priority":0,"power":250,"type":"normal","damageClass":"physical","description":"The user attacks everything around it by causing a\ntremendous explosion. The user faints upon using\nthis move.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

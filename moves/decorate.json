@@ -1,1 +1,1 @@
-{"id":777,"name":"decorate","accuracy":null,"pp":15,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"かざりつけを　することで\nあいての　こうげきと　とくこうを\nぐーんと　あげる。"}
+{"id":777,"name":"decorate","accuracy":null,"pp":15,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"The user sharply raises the target’s Attack and Sp. Atk\nstats by decorating the target.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":2},{"stat":"special-attack","change":2}],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":700,"name":"stoked-sparksurfer","accuracy":null,"pp":1,"priority":0,"power":175,"type":"electric","damageClass":"special","description":"Ｚパワーを　えた　アローラちほうの\nライチュウが　ぜんりょくで　こうげきする。\nあいてを　まひ　じょうたいに　する。"}
+{"id":700,"name":"stoked-sparksurfer","accuracy":null,"pp":1,"priority":0,"power":175,"type":"electric","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"paralysis","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":813,"name":"triple-axel","accuracy":90,"pp":10,"priority":0,"power":20,"type":"ice","damageClass":"physical","description":"３かい　れんぞくで　キックを　くりだして\nこうげきする。　わざが　あたる　たびに\nいりょくは　あがる。"}
+{"id":813,"name":"triple-axel","accuracy":90,"pp":10,"priority":0,"power":20,"type":"ice","damageClass":"physical","description":"A consecutive three-kick attack that becomes more\npowerful with each successful hit.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

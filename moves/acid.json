@@ -1,1 +1,1 @@
-{"id":51,"name":"acid","accuracy":100,"pp":30,"priority":0,"power":40,"type":"poison","damageClass":"special","description":"An attack that may\nlower DEFENSE."}
+{"id":51,"name":"acid","accuracy":100,"pp":30,"priority":0,"power":40,"type":"poison","damageClass":"special","description":"Opposing Pokémon are attacked with a spray of harsh\nacid. This may also lower their Sp. Def stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":-1}],"target":"all-opponents"}

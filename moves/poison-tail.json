@@ -1,1 +1,1 @@
-{"id":342,"name":"poison-tail","accuracy":100,"pp":25,"priority":0,"power":50,"type":"poison","damageClass":"physical","description":"Has a high critical-hit\nratio. May also poison."}
+{"id":342,"name":"poison-tail","accuracy":100,"pp":25,"priority":0,"power":50,"type":"poison","damageClass":"physical","description":"The user hits the target with its tail. This may also\npoison the target. Critical hits land more easily.","ailment":"poison","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

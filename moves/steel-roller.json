@@ -1,1 +1,1 @@
-{"id":798,"name":"steel-roller","accuracy":100,"pp":5,"priority":0,"power":130,"type":"steel","damageClass":"physical","description":"フィールドを　はかい　しながら　こうげき。\nなんらかの　フィールドじょうたいに\nかわって　いないと　わざは　しっぱいする。"}
+{"id":798,"name":"steel-roller","accuracy":100,"pp":5,"priority":0,"power":130,"type":"steel","damageClass":"physical","description":"The user attacks while destroying the terrain. This move\nfails when the ground hasn’t turned into a terrain.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

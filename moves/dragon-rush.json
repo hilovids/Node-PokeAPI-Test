@@ -1,1 +1,1 @@
-{"id":407,"name":"dragon-rush","accuracy":75,"pp":10,"priority":0,"power":100,"type":"dragon","damageClass":"physical","description":"The user tackles the\nfoe while exhibiting\noverwhelming menace.\nIt may also make the\ntarget flinch."}
+{"id":407,"name":"dragon-rush","accuracy":75,"pp":10,"priority":0,"power":100,"type":"dragon","damageClass":"physical","description":"The user tackles the target while exhibiting\noverwhelming menace. This may also make the\ntarget flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":749,"name":"tar-shot","accuracy":100,"pp":15,"priority":0,"power":null,"type":"rock","damageClass":"status","description":"ねばねばの　タールを　あびせて\nあいての　すばやさを　さげる。\nあいては　ほのおが　じゃくてんに　なる。"}
+{"id":749,"name":"tar-shot","accuracy":100,"pp":15,"priority":0,"power":null,"type":"rock","damageClass":"status","description":"The user pours sticky tar over the target, lowering the\ntarget’s Speed stat. The target becomes weaker to\nFire-type moves.","ailment":"tar-shot","ailmentChance":100,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

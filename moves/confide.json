@@ -1,1 +1,1 @@
-{"id":590,"name":"confide","accuracy":null,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"ないしょばなしを　することで　あいての\nしゅうちゅうりょくを　うしなわせ\nあいての　とくこうを　さげる。"}
+{"id":590,"name":"confide","accuracy":null,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target’s Sp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-1}],"target":"selected-pokemon"}

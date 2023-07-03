@@ -44,6 +44,21 @@ async function writeMoves(){
     for(let i = 1; i <= 1000; i++){
         var response = await fetch(`${movesURL}${i}`);
         let data = await response.json();
+        var statChanges = [];
+        data.stat_changes.forEach((stat) => {
+            var change = {
+                "stat": stat.stat.name,
+                "change": stat.change
+            }
+            statChanges.push(change);
+        });
+
+        var descriptions = data.flavor_text_entries.filter((desc) => {
+            //console.log(desc);
+            return desc.language.name == "en";
+        });
+        //console.log(descriptions);
+
         var stats = {
             "id": data.id,
             "name": data.name,
@@ -53,7 +68,11 @@ async function writeMoves(){
             "power": data.power,
             "type": data.type.name,
             "damageClass": data.damage_class.name,
-            "description": data.flavor_text_entries[0].flavor_text
+            "description": descriptions[descriptions.length - 1].flavor_text,
+            "ailment": data.meta.ailment.name,
+            "ailmentChance": data.meta.ailment_chance,
+            "statChanges": statChanges,
+            "target": data.target.name
         }
         fs.writeFile(`${movesFolder}\\${stats.name}.json`, JSON.stringify(stats), err => {
             if (err) throw err; 
@@ -63,7 +82,7 @@ async function writeMoves(){
         });
     }
 }
-//writeMoves();
+writeMoves();
 
 function downloadImage(url, filepath) {
     return download.image({
@@ -90,4 +109,4 @@ async function writePhotos(){
         downloadImage(stats.backShiny, `${photosFolder}\\${stats.name}_backShiny.png`);
     }
 }
-writePhotos();
+//writePhotos();

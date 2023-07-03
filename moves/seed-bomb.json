@@ -1,1 +1,1 @@
-{"id":402,"name":"seed-bomb","accuracy":100,"pp":15,"priority":0,"power":80,"type":"grass","damageClass":"physical","description":"The user slams a\nbarrage of hard-\nshelled seeds\ndown on the foe\nfrom above."}
+{"id":402,"name":"seed-bomb","accuracy":100,"pp":15,"priority":0,"power":80,"type":"grass","damageClass":"physical","description":"The user slams a barrage of hard-shelled seeds\ndown on the target from above.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

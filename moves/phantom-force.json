@@ -1,1 +1,1 @@
-{"id":566,"name":"phantom-force","accuracy":100,"pp":10,"priority":0,"power":90,"type":"ghost","damageClass":"physical","description":"１ターンめで　どこかに　きえて\n２ターンめに　あいてを　こうげきする。\nまもりを　むしして　こうげきできる。"}
+{"id":566,"name":"phantom-force","accuracy":100,"pp":10,"priority":0,"power":90,"type":"ghost","damageClass":"physical","description":"The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":359,"name":"hammer-arm","accuracy":90,"pp":10,"priority":0,"power":100,"type":"fighting","damageClass":"physical","description":"The user swings and\nhits with its strong\nand heavy fist.\nIt lowers the user’s\nSpeed, however."}
+{"id":359,"name":"hammer-arm","accuracy":90,"pp":10,"priority":0,"power":100,"type":"fighting","damageClass":"physical","description":"The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

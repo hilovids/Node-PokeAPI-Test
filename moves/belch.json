@@ -1,1 +1,1 @@
-{"id":562,"name":"belch","accuracy":90,"pp":10,"priority":0,"power":120,"type":"poison","damageClass":"special","description":"あいてに　むかって　ゲップを\nあびせて　ダメージを　あたえる。\nきのみを　たべないと　だせない。"}
+{"id":562,"name":"belch","accuracy":90,"pp":10,"priority":0,"power":120,"type":"poison","damageClass":"special","description":"The user lets out a damaging belch at the target.\nThe user must eat a held Berry to use this move.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":207,"name":"swagger","accuracy":85,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Causes confusion\nand raises ATTACK."}
+{"id":207,"name":"swagger","accuracy":85,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user enrages and confuses the target. However,\nthis also sharply raises the target’s Attack stat.","ailment":"confusion","ailmentChance":0,"statChanges":[{"stat":"attack","change":2}],"target":"selected-pokemon"}

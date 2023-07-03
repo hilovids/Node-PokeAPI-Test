@@ -1,1 +1,1 @@
-{"id":780,"name":"pyro-ball","accuracy":90,"pp":5,"priority":0,"power":120,"type":"fire","damageClass":"physical","description":"こいしを　もやした　ほのおの　ボールで\nあいてを　こうげきする。\nやけど　じょうたいに　することが　ある。"}
+{"id":780,"name":"pyro-ball","accuracy":90,"pp":5,"priority":0,"power":120,"type":"fire","damageClass":"physical","description":"The user attacks by igniting a small stone and launching\nit as a fiery ball at the target. This may also leave the\ntarget with a burn.","ailment":"burn","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

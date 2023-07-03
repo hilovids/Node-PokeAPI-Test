@@ -1,1 +1,1 @@
-{"id":232,"name":"metal-claw","accuracy":95,"pp":35,"priority":0,"power":50,"type":"steel","damageClass":"physical","description":"An attack that may\nup user's ATTACK."}
+{"id":232,"name":"metal-claw","accuracy":95,"pp":35,"priority":0,"power":50,"type":"steel","damageClass":"physical","description":"The target is raked with steel claws. This may also\nraise the user’s Attack stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":1}],"target":"selected-pokemon"}

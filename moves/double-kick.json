@@ -1,1 +1,1 @@
-{"id":24,"name":"double-kick","accuracy":100,"pp":30,"priority":0,"power":30,"type":"fighting","damageClass":"physical","description":"A double kicking\nattack."}
+{"id":24,"name":"double-kick","accuracy":100,"pp":30,"priority":0,"power":30,"type":"fighting","damageClass":"physical","description":"The target is quickly kicked twice in succession\nusing both feet.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

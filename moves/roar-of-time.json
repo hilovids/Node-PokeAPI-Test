@@ -1,1 +1,1 @@
-{"id":459,"name":"roar-of-time","accuracy":90,"pp":5,"priority":0,"power":150,"type":"dragon","damageClass":"special","description":"The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn."}
+{"id":459,"name":"roar-of-time","accuracy":90,"pp":5,"priority":0,"power":150,"type":"dragon","damageClass":"special","description":"The user blasts the target with power that distorts\neven time. The user can’t move on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

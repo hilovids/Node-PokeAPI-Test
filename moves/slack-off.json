@@ -1,1 +1,1 @@
-{"id":303,"name":"slack-off","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Slacks off and restores\nhalf the maximum HP."}
+{"id":303,"name":"slack-off","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user slacks off, restoring its own HP by up to\nhalf of its max HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

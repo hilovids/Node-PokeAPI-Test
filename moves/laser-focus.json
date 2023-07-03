@@ -1,1 +1,1 @@
-{"id":673,"name":"laser-focus","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"せいしんを　しゅうちゅうして\nつぎの　こうげきを　かならず\nきゅうしょに　あてる。"}
+{"id":673,"name":"laser-focus","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user concentrates intensely. The attack on the\nnext turn always results in a critical hit.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

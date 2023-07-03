@@ -1,1 +1,1 @@
-{"id":496,"name":"round","accuracy":100,"pp":15,"priority":0,"power":60,"type":"normal","damageClass":"special","description":"Le lanceur attaque l’ennemi en chantant.\nSi plusieurs Pokémon déclenchent cette\nattaque à la suite, l’effet augmente."}
+{"id":496,"name":"round","accuracy":100,"pp":15,"priority":0,"power":60,"type":"normal","damageClass":"special","description":"The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

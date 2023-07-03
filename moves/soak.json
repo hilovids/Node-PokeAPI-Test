@@ -1,1 +1,1 @@
-{"id":487,"name":"soak","accuracy":100,"pp":20,"priority":0,"power":null,"type":"water","damageClass":"status","description":"Le lanceur projette beaucoup d’eau sur\nsa cible, qui devient de type Eau."}
+{"id":487,"name":"soak","accuracy":100,"pp":20,"priority":0,"power":null,"type":"water","damageClass":"status","description":"The user shoots a torrent of water at the target and\nchanges the target’s type to Water.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

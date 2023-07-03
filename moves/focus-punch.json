@@ -1,1 +1,1 @@
-{"id":264,"name":"focus-punch","accuracy":100,"pp":20,"priority":-3,"power":150,"type":"fighting","damageClass":"physical","description":"A powerful loyalty attack.\nThe user flinches if hit."}
+{"id":264,"name":"focus-punch","accuracy":100,"pp":20,"priority":-3,"power":150,"type":"fighting","damageClass":"physical","description":"The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

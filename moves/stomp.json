@@ -1,1 +1,1 @@
-{"id":23,"name":"stomp","accuracy":100,"pp":20,"priority":0,"power":65,"type":"normal","damageClass":"physical","description":"An attack that may\ncause flinching."}
+{"id":23,"name":"stomp","accuracy":100,"pp":20,"priority":0,"power":65,"type":"normal","damageClass":"physical","description":"The target is stomped with a big foot. This may also\nmake the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

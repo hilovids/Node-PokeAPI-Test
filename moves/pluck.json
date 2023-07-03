@@ -1,1 +1,1 @@
-{"id":365,"name":"pluck","accuracy":100,"pp":20,"priority":0,"power":60,"type":"flying","damageClass":"physical","description":"The user pecks the\nfoe. If the foe is\nholding a Berry, the\nuser plucks it and\ngains its effect."}
+{"id":365,"name":"pluck","accuracy":100,"pp":20,"priority":0,"power":60,"type":"flying","damageClass":"physical","description":"The user pecks the target. If the target is holding a\nBerry, the user eats it and gains its effect.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

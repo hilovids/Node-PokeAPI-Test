@@ -1,1 +1,1 @@
-{"id":549,"name":"glaciate","accuracy":95,"pp":10,"priority":0,"power":65,"type":"ice","damageClass":"special","description":"Ataque con aire helado que baja la Velocidad del\nobjetivo."}
+{"id":549,"name":"glaciate","accuracy":95,"pp":10,"priority":0,"power":65,"type":"ice","damageClass":"special","description":"The user attacks by blowing freezing cold air at\nopposing Pokémon. This lowers their Speed stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-1}],"target":"all-opponents"}

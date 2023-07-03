@@ -1,1 +1,1 @@
-{"id":193,"name":"foresight","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Negates accuracy\nreduction moves."}
+{"id":193,"name":"foresight","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"no-type-immunity","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

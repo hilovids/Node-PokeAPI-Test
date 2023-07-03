@@ -1,1 +1,1 @@
-{"id":801,"name":"shell-side-arm","accuracy":100,"pp":10,"priority":0,"power":90,"type":"poison","damageClass":"special","description":"ぶつりか　とくしゅか　よりおおく　ダメージを\nあたえられる　のうりょくで　こうげきする。\nどく　じょうたいに　することが　ある。"}
+{"id":801,"name":"shell-side-arm","accuracy":100,"pp":10,"priority":0,"power":90,"type":"poison","damageClass":"special","description":"This move inflicts physical or special damage,\nwhichever will be more effective. This may also poison\nthe target.","ailment":"poison","ailmentChance":20,"statChanges":[],"target":"selected-pokemon"}

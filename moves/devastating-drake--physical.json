@@ -1,1 +1,1 @@
-{"id":652,"name":"devastating-drake--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"dragon","damageClass":"physical","description":"Ｚパワーで　オーラを　じったいかし\nぜんりょくで　あいてに　おそいかかる。\nもとになった　わざで　いりょくが　かわる。"}
+{"id":652,"name":"devastating-drake--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"dragon","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

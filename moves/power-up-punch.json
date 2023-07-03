@@ -1,1 +1,1 @@
-{"id":612,"name":"power-up-punch","accuracy":100,"pp":20,"priority":0,"power":40,"type":"fighting","damageClass":"physical","description":"くりかえし　うつことで\nだんだん　こぶしが　かたくなる。\nあいてに　あてると　こうげきが　あがる。"}
+{"id":612,"name":"power-up-punch","accuracy":100,"pp":20,"priority":0,"power":40,"type":"fighting","damageClass":"physical","description":"Striking opponents over and over makes the user’s\nfists harder. Hitting a target raises the Attack stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":1}],"target":"selected-pokemon"}

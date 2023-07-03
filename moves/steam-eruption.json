@@ -1,1 +1,1 @@
-{"id":592,"name":"steam-eruption","accuracy":95,"pp":5,"priority":0,"power":110,"type":"water","damageClass":"special","description":"Travolge il bersaglio con un’ondata di vapore\nrovente che può anche scottarlo."}
+{"id":592,"name":"steam-eruption","accuracy":95,"pp":5,"priority":0,"power":110,"type":"water","damageClass":"special","description":"The user immerses the target in superheated steam.\nThis may also leave the target with a burn.","ailment":"burn","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":314,"name":"air-cutter","accuracy":95,"pp":25,"priority":0,"power":60,"type":"flying","damageClass":"special","description":"Hacks with razorlike wind.\nHigh critical-hit ratio."}
+{"id":314,"name":"air-cutter","accuracy":95,"pp":25,"priority":0,"power":60,"type":"flying","damageClass":"special","description":"The user launches razor-like wind to slash opposing\nPokémon. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

@@ -1,1 +1,1 @@
-{"id":219,"name":"safeguard","accuracy":null,"pp":25,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Prevents all\nstatus problems."}
+{"id":219,"name":"safeguard","accuracy":null,"pp":25,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user creates a protective field that prevents\nstatus conditions for five turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

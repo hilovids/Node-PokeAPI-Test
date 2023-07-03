@@ -1,1 +1,1 @@
-{"id":89,"name":"earthquake","accuracy":100,"pp":10,"priority":0,"power":100,"type":"ground","damageClass":"physical","description":"Tough but useless\nvs. flying foes."}
+{"id":89,"name":"earthquake","accuracy":100,"pp":10,"priority":0,"power":100,"type":"ground","damageClass":"physical","description":"The user sets off an earthquake that strikes every\nPokémon around it.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

@@ -1,1 +1,1 @@
-{"id":136,"name":"high-jump-kick","accuracy":90,"pp":10,"priority":0,"power":130,"type":"fighting","damageClass":"physical","description":"May miss and hurt\nthe user."}
+{"id":136,"name":"high-jump-kick","accuracy":90,"pp":10,"priority":0,"power":130,"type":"fighting","damageClass":"physical","description":"The target is attacked with a knee kick from a jump.\nIf it misses, the user is hurt instead.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

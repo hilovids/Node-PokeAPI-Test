@@ -1,1 +1,1 @@
-{"id":545,"name":"searing-shot","accuracy":100,"pp":5,"priority":0,"power":100,"type":"fire","damageClass":"special","description":"Des flammes rougeoyantes s’abattent\nsur tous les Pokémon autour du lanceur.\nPeut aussi brûler."}
+{"id":545,"name":"searing-shot","accuracy":100,"pp":5,"priority":0,"power":100,"type":"fire","damageClass":"special","description":"The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.","ailment":"burn","ailmentChance":30,"statChanges":[],"target":"all-other-pokemon"}

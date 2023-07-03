@@ -1,1 +1,1 @@
-{"id":379,"name":"power-trick","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat."}
+{"id":379,"name":"power-trick","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user employs its psychic power to switch its\nAttack stat with its Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

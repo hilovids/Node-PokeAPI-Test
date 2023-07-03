@@ -1,1 +1,1 @@
-{"id":79,"name":"sleep-powder","accuracy":75,"pp":15,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"May cause the foe\nto fall asleep."}
+{"id":79,"name":"sleep-powder","accuracy":75,"pp":15,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user scatters a big cloud of sleep-inducing dust\naround the target.","ailment":"sleep","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

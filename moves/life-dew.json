@@ -1,1 +1,1 @@
-{"id":791,"name":"life-dew","accuracy":null,"pp":10,"priority":0,"power":null,"type":"water","damageClass":"status","description":"ふしぎな　みずを　ふりまいて\nじぶんと　ばにいる\nみかたの　ＨＰを　かいふくする。"}
+{"id":791,"name":"life-dew","accuracy":null,"pp":10,"priority":0,"power":null,"type":"water","damageClass":"status","description":"The user scatters mysterious water around and restores\nthe HP of itself and its ally Pokémon in the battle.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user-and-allies"}

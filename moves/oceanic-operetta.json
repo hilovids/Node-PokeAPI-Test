@@ -1,1 +1,1 @@
-{"id":697,"name":"oceanic-operetta","accuracy":null,"pp":1,"priority":0,"power":195,"type":"water","damageClass":"special","description":"Ｚパワーで　たいりょうの　みずを　よんだ\nアシレーヌが　ぜんりょくで\nあいてを　こうげきする。"}
+{"id":697,"name":"oceanic-operetta","accuracy":null,"pp":1,"priority":0,"power":195,"type":"water","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

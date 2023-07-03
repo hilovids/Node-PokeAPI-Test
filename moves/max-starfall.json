@@ -1,1 +1,1 @@
-{"id":767,"name":"max-starfall","accuracy":null,"pp":10,"priority":0,"power":10,"type":"fairy","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　フェアリータイプの　こうげき。\n５ターンのあいだ　ミストフィールドにする。"}
+{"id":767,"name":"max-starfall","accuracy":null,"pp":10,"priority":0,"power":10,"type":"fairy","damageClass":"physical","description":"This is a Fairy-type attack Dynamax Pokémon use.\nThe user turns the ground into Misty Terrain for\nfive turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

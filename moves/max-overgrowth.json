@@ -1,1 +1,1 @@
-{"id":773,"name":"max-overgrowth","accuracy":null,"pp":10,"priority":0,"power":10,"type":"grass","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　くさタイプの　こうげき。\n５ターンのあいだ　グラスフィールドにする。"}
+{"id":773,"name":"max-overgrowth","accuracy":null,"pp":10,"priority":0,"power":10,"type":"grass","damageClass":"physical","description":"This is a Grass-type attack Dynamax Pokémon use.\nThe user turns the ground into Grassy Terrain for\nfive turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

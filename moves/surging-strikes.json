@@ -1,1 +1,1 @@
-{"id":818,"name":"surging-strikes","accuracy":100,"pp":5,"priority":0,"power":25,"type":"water","damageClass":"physical","description":"みずの　かたを　きわめし\nながれるような　３かいの　れんげき。\nかならず　きゅうしょに　あたる。"}
+{"id":818,"name":"surging-strikes","accuracy":100,"pp":5,"priority":0,"power":25,"type":"water","damageClass":"physical","description":"The user, having mastered the Water style, strikes the\ntarget with a flowing motion three times in a row. This\nattack always results in a critical hit.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

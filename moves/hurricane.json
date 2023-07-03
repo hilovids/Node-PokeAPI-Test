@@ -1,1 +1,1 @@
-{"id":542,"name":"hurricane","accuracy":70,"pp":10,"priority":0,"power":110,"type":"flying","damageClass":"special","description":"Le lanceur déclenche une tempête de\nvents violents qui s’abat sur l’ennemi.\nPeut aussi le rendre confus."}
+{"id":542,"name":"hurricane","accuracy":70,"pp":10,"priority":0,"power":110,"type":"flying","damageClass":"special","description":"The user attacks by wrapping its opponent in a\nfierce wind that flies up into the sky. This may also\nconfuse the target.","ailment":"confusion","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

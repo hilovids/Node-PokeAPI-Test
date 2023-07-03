@@ -1,1 +1,1 @@
-{"id":479,"name":"smack-down","accuracy":100,"pp":15,"priority":0,"power":50,"type":"rock","damageClass":"physical","description":"Le lanceur jette toutes sortes\nde projectiles à un ennemi. Si ce\ndernier vole, il tombe au sol."}
+{"id":479,"name":"smack-down","accuracy":100,"pp":15,"priority":0,"power":50,"type":"rock","damageClass":"physical","description":"The user throws a stone or similar projectile to\nattack the target. A flying Pokémon will fall to the\nground when it’s hit.","ailment":"unknown","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

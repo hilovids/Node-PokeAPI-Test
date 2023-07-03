@@ -1,1 +1,1 @@
-{"id":150,"name":"splash","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Has no effect\nwhatsoever."}
+{"id":150,"name":"splash","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user just flops and splashes around to no effect\nat all...","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

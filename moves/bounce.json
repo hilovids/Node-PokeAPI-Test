@@ -1,1 +1,1 @@
-{"id":340,"name":"bounce","accuracy":85,"pp":5,"priority":0,"power":85,"type":"flying","damageClass":"physical","description":"Bounces up, then down the\nnext turn. May paralyze."}
+{"id":340,"name":"bounce","accuracy":85,"pp":5,"priority":0,"power":85,"type":"flying","damageClass":"physical","description":"The user bounces up high, then drops on the target\non the second turn. This may also leave the target\nwith paralysis.","ailment":"paralysis","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

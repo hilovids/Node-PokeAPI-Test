@@ -1,1 +1,1 @@
-{"id":282,"name":"knock-off","accuracy":100,"pp":20,"priority":0,"power":65,"type":"dark","damageClass":"physical","description":"Knocks down the foe’s held\nitem to prevent its use."}
+{"id":282,"name":"knock-off","accuracy":100,"pp":20,"priority":0,"power":65,"type":"dark","damageClass":"physical","description":"The user slaps down the target’s held item, and that\nitem can’t be used in that battle. The move does\nmore damage if the target has a held item.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

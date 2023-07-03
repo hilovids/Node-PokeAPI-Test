@@ -1,1 +1,1 @@
-{"id":157,"name":"rock-slide","accuracy":90,"pp":10,"priority":0,"power":75,"type":"rock","damageClass":"physical","description":"An attack that may\ncause flinching."}
+{"id":157,"name":"rock-slide","accuracy":90,"pp":10,"priority":0,"power":75,"type":"rock","damageClass":"physical","description":"Large boulders are hurled at opposing Pokémon to\ninflict damage. This may also make the opposing\nPokémon flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

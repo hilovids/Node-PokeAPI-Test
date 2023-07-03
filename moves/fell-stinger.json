@@ -1,1 +1,1 @@
-{"id":565,"name":"fell-stinger","accuracy":100,"pp":25,"priority":0,"power":50,"type":"bug","damageClass":"physical","description":"この　わざを　つかって\nあいてを　たおすと\nこうげきが　ぐーんと　あがる。"}
+{"id":565,"name":"fell-stinger","accuracy":100,"pp":25,"priority":0,"power":50,"type":"bug","damageClass":"physical","description":"When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

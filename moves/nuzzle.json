@@ -1,1 +1,1 @@
-{"id":609,"name":"nuzzle","accuracy":100,"pp":20,"priority":0,"power":20,"type":"electric","damageClass":"physical","description":"でんきを　おびた　ほっぺを\nすりつけて　こうげき。\nあいてを　まひ　じょうたいに　する。"}
+{"id":609,"name":"nuzzle","accuracy":100,"pp":20,"priority":0,"power":20,"type":"electric","damageClass":"physical","description":"The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.","ailment":"paralysis","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

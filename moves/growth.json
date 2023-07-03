@@ -1,1 +1,1 @@
-{"id":74,"name":"growth","accuracy":null,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Raises the SPCL.\nATK rating."}
+{"id":74,"name":"growth","accuracy":null,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user’s body grows all at once, raising the\nAttack and Sp. Atk stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":1},{"stat":"special-attack","change":1}],"target":"user"}

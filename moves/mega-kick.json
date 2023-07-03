@@ -1,1 +1,1 @@
-{"id":25,"name":"mega-kick","accuracy":75,"pp":5,"priority":0,"power":120,"type":"normal","damageClass":"physical","description":"A powerful kicking\nattack."}
+{"id":25,"name":"mega-kick","accuracy":75,"pp":5,"priority":0,"power":120,"type":"normal","damageClass":"physical","description":"The target is attacked by a kick launched with\nmuscle-packed power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

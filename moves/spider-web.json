@@ -1,1 +1,1 @@
-{"id":169,"name":"spider-web","accuracy":null,"pp":10,"priority":0,"power":null,"type":"bug","damageClass":"status","description":"Prevents fleeing\nor switching."}
+{"id":169,"name":"spider-web","accuracy":null,"pp":10,"priority":0,"power":null,"type":"bug","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

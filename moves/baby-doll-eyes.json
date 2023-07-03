@@ -1,1 +1,1 @@
-{"id":608,"name":"baby-doll-eyes","accuracy":100,"pp":30,"priority":1,"power":null,"type":"fairy","damageClass":"status","description":"つぶらなひとみで　あいてを　みつめて\nこうげきを　さげる。\nかならず　せんせい　こうげき　できる。"}
+{"id":608,"name":"baby-doll-eyes","accuracy":100,"pp":30,"priority":1,"power":null,"type":"fairy","damageClass":"status","description":"The user stares at the target with its baby-doll\neyes, which lowers the target’s Attack stat. This move\nalways goes first.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-1}],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":337,"name":"dragon-claw","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dragon","damageClass":"physical","description":"Slashes the foe with sharp\nclaws."}
+{"id":337,"name":"dragon-claw","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dragon","damageClass":"physical","description":"The user slashes the target with huge sharp claws.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":441,"name":"gunk-shot","accuracy":80,"pp":5,"priority":0,"power":120,"type":"poison","damageClass":"physical","description":"The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target."}
+{"id":441,"name":"gunk-shot","accuracy":80,"pp":5,"priority":0,"power":120,"type":"poison","damageClass":"physical","description":"The user shoots filthy garbage at the target to\nattack. This may also poison the target.","ailment":"poison","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

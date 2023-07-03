@@ -1,1 +1,1 @@
-{"id":17,"name":"wing-attack","accuracy":100,"pp":35,"priority":0,"power":60,"type":"flying","damageClass":"physical","description":"Strikes the target\nwith wings."}
+{"id":17,"name":"wing-attack","accuracy":100,"pp":35,"priority":0,"power":60,"type":"flying","damageClass":"physical","description":"The target is struck with large, imposing wings\nspread wide to inflict damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

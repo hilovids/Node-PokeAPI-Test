@@ -1,1 +1,1 @@
-{"id":719,"name":"10-000-000-volt-thunderbolt","accuracy":null,"pp":1,"priority":0,"power":195,"type":"electric","damageClass":"special","description":"ぼうしを　かぶった　ピカチュウが\nＺパワーで　パワーアップした　でんげきを\nはなつ。　きゅうしょに　あたりやすい。"}
+{"id":719,"name":"10-000-000-volt-thunderbolt","accuracy":null,"pp":1,"priority":0,"power":195,"type":"electric","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

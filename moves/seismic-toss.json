@@ -1,1 +1,1 @@
-{"id":69,"name":"seismic-toss","accuracy":100,"pp":20,"priority":0,"power":null,"type":"fighting","damageClass":"physical","description":"Inflicts damage identical\nto the user’s level."}
+{"id":69,"name":"seismic-toss","accuracy":100,"pp":20,"priority":0,"power":null,"type":"fighting","damageClass":"physical","description":"The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

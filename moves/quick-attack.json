@@ -1,1 +1,1 @@
-{"id":98,"name":"quick-attack","accuracy":100,"pp":30,"priority":1,"power":40,"type":"normal","damageClass":"physical","description":"Lets the user get\nin the first hit."}
+{"id":98,"name":"quick-attack","accuracy":100,"pp":30,"priority":1,"power":40,"type":"normal","damageClass":"physical","description":"The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

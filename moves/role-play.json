@@ -1,1 +1,1 @@
-{"id":272,"name":"role-play","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Imita al objetivo por completo y copia su habilidad. "}
+{"id":272,"name":"role-play","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user mimics the target completely, copying the\ntarget’s Ability.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

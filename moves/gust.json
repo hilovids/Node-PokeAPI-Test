@@ -1,1 +1,1 @@
-{"id":16,"name":"gust","accuracy":100,"pp":35,"priority":0,"power":40,"type":"flying","damageClass":"special","description":"Whips up a strong\ngust of wind."}
+{"id":16,"name":"gust","accuracy":100,"pp":35,"priority":0,"power":40,"type":"flying","damageClass":"special","description":"A gust of wind is whipped up by wings and launched\nat the target to inflict damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

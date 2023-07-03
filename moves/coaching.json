@@ -1,1 +1,1 @@
-{"id":811,"name":"coaching","accuracy":null,"pp":10,"priority":0,"power":null,"type":"fighting","damageClass":"status","description":"てきかくな　しどうを　おこなうことで　\nみかた　ぜんいんの\nこうげきと　ぼうぎょを　あげる。"}
+{"id":811,"name":"coaching","accuracy":null,"pp":10,"priority":0,"power":null,"type":"fighting","damageClass":"status","description":"The user properly coaches its ally Pokémon,\nboosting their Attack and Defense stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":1},{"stat":"defense","change":1}],"target":"user-and-allies"}

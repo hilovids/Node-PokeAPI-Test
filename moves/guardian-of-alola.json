@@ -1,1 +1,1 @@
-{"id":698,"name":"guardian-of-alola","accuracy":null,"pp":1,"priority":0,"power":null,"type":"fairy","damageClass":"special","description":"Ｚパワーで　アローラの　ちからを　えた\nとちがみポケモン　ぜんりょくの　こうげき。\nあいての　のこりＨＰを　たくさん　へらす。"}
+{"id":698,"name":"guardian-of-alola","accuracy":null,"pp":1,"priority":0,"power":null,"type":"fairy","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

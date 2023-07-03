@@ -1,1 +1,1 @@
-{"id":270,"name":"helping-hand","accuracy":null,"pp":20,"priority":5,"power":null,"type":"normal","damageClass":"status","description":"Boosts the power of the\nrecipient’s moves."}
+{"id":270,"name":"helping-hand","accuracy":null,"pp":20,"priority":5,"power":null,"type":"normal","damageClass":"status","description":"The user assists an ally by boosting the power of\nthat ally’s attack.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"ally"}

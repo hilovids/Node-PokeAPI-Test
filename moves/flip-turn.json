@@ -1,1 +1,1 @@
-{"id":812,"name":"flip-turn","accuracy":100,"pp":20,"priority":0,"power":60,"type":"water","damageClass":"physical","description":"こうげきした　あと\nものすごい　スピードで　もどってきて\nひかえの　ポケモンと　いれかわる。"}
+{"id":812,"name":"flip-turn","accuracy":100,"pp":20,"priority":0,"power":60,"type":"water","damageClass":"physical","description":"After making its attack, the user rushes back to\nswitch places with a party Pokémon in waiting.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

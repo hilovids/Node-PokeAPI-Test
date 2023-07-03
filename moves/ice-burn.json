@@ -1,1 +1,1 @@
-{"id":554,"name":"ice-burn","accuracy":90,"pp":5,"priority":0,"power":140,"type":"ice","damageClass":"special","description":"Au second tour, le lanceur projette un\nsouffle de vent glacial dévastateur\nsur l’ennemi. Peut le brûler."}
+{"id":554,"name":"ice-burn","accuracy":90,"pp":5,"priority":0,"power":140,"type":"ice","damageClass":"special","description":"On the second turn, an ultracold, freezing wind\nsurrounds the target. This may leave the target with\na burn.","ailment":"burn","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

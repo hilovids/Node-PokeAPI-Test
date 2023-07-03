@@ -1,1 +1,1 @@
-{"id":631,"name":"tectonic-rage--special","accuracy":null,"pp":1,"priority":0,"power":null,"type":"ground","damageClass":"special","description":"ダミーデータ"}
+{"id":631,"name":"tectonic-rage--special","accuracy":null,"pp":1,"priority":0,"power":null,"type":"ground","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":77,"name":"poison-powder","accuracy":75,"pp":35,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"A move that may\npoison the foe."}
+{"id":77,"name":"poison-powder","accuracy":75,"pp":35,"priority":0,"power":null,"type":"poison","damageClass":"status","description":"The user scatters a cloud of poisonous dust that\npoisons the target.","ailment":"poison","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

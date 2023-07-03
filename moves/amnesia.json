@@ -1,1 +1,1 @@
-{"id":133,"name":"amnesia","accuracy":null,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Sharply raises the\nuser's SPCL.DEF."}
+{"id":133,"name":"amnesia","accuracy":null,"pp":20,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user temporarily empties its mind to forget its\nconcerns. This sharply raises the user’s Sp. Def stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":2}],"target":"user"}

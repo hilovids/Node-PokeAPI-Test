@@ -1,1 +1,1 @@
-{"id":178,"name":"cotton-spore","accuracy":100,"pp":40,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"Sharply reduces\nthe foe's SPEED."}
+{"id":178,"name":"cotton-spore","accuracy":100,"pp":40,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user releases cotton-like spores that cling to\nopposing Pokémon, which harshly lowers their\nSpeed stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-2}],"target":"all-opponents"}

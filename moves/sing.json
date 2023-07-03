@@ -1,1 +1,1 @@
-{"id":47,"name":"sing","accuracy":55,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"May cause the foe\nto fall asleep."}
+{"id":47,"name":"sing","accuracy":55,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber.","ailment":"sleep","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

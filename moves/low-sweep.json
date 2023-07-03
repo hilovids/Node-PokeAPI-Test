@@ -1,1 +1,1 @@
-{"id":490,"name":"low-sweep","accuracy":100,"pp":20,"priority":0,"power":65,"type":"fighting","damageClass":"physical","description":"Un coup rapide qui vise les pieds\nde l’ennemi et diminue sa Vitesse."}
+{"id":490,"name":"low-sweep","accuracy":100,"pp":20,"priority":0,"power":65,"type":"fighting","damageClass":"physical","description":"The user makes a swift attack on the target’s legs,\nwhich lowers the target’s Speed stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

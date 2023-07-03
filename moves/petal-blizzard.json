@@ -1,1 +1,1 @@
-{"id":572,"name":"petal-blizzard","accuracy":100,"pp":15,"priority":0,"power":90,"type":"grass","damageClass":"physical","description":"はげしい　はなふぶきを　おこし\nまわりに　いるものに　こうげきして\nダメージを　あたえる。"}
+{"id":572,"name":"petal-blizzard","accuracy":100,"pp":15,"priority":0,"power":90,"type":"grass","damageClass":"physical","description":"The user stirs up a violent petal blizzard and attacks\neverything around it.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

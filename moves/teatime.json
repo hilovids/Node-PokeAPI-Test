@@ -1,1 +1,1 @@
-{"id":752,"name":"teatime","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"おちゃかいを　ひらいて\nばにいる　ポケモンが　それぞれ\nもっている　きのみを　たべる。"}
+{"id":752,"name":"teatime","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user has teatime with all the Pokémon in the battle.\nEach Pokémon eats its held Berry.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-pokemon"}

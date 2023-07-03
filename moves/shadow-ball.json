@@ -1,1 +1,1 @@
-{"id":247,"name":"shadow-ball","accuracy":100,"pp":15,"priority":0,"power":80,"type":"ghost","damageClass":"special","description":"An attack that may\nlower SPCL.DEF."}
+{"id":247,"name":"shadow-ball","accuracy":100,"pp":15,"priority":0,"power":80,"type":"ghost","damageClass":"special","description":"The user hurls a shadowy blob at the target.\nThis may also lower the target’s Sp. Def stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":-1}],"target":"selected-pokemon"}

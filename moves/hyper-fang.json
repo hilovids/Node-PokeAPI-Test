@@ -1,1 +1,1 @@
-{"id":158,"name":"hyper-fang","accuracy":90,"pp":15,"priority":0,"power":80,"type":"normal","damageClass":"physical","description":"An attack that may\ncause flinching."}
+{"id":158,"name":"hyper-fang","accuracy":90,"pp":15,"priority":0,"power":80,"type":"normal","damageClass":"physical","description":"The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

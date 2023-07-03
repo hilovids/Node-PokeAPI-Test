@@ -1,1 +1,1 @@
-{"id":353,"name":"doom-desire","accuracy":100,"pp":5,"priority":0,"power":140,"type":"steel","damageClass":"special","description":"Summons strong sunlight to\nattack 2 turns later."}
+{"id":353,"name":"doom-desire","accuracy":100,"pp":5,"priority":0,"power":140,"type":"steel","damageClass":"special","description":"Two turns after this move is used, a concentrated\nbundle of light blasts the target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

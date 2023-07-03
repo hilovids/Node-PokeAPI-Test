@@ -1,1 +1,1 @@
-{"id":279,"name":"revenge","accuracy":100,"pp":10,"priority":-4,"power":60,"type":"fighting","damageClass":"physical","description":"An attack that gains power\nif injured by the foe."}
+{"id":279,"name":"revenge","accuracy":100,"pp":10,"priority":-4,"power":60,"type":"fighting","damageClass":"physical","description":"This attack move’s power is doubled if the user has\nbeen hurt by the opponent in the same turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

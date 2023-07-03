@@ -1,1 +1,1 @@
-{"id":186,"name":"sweet-kiss","accuracy":75,"pp":10,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"Chi la usa bacia il bersaglio con una dolcezza\nangelica, confondendolo."}
+{"id":186,"name":"sweet-kiss","accuracy":75,"pp":10,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"The user kisses the target with a sweet, angelic\ncuteness that causes confusion.","ailment":"confusion","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

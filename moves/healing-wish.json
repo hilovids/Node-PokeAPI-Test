@@ -1,1 +1,1 @@
-{"id":361,"name":"healing-wish","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its HP restored\nand status cured."}
+{"id":361,"name":"healing-wish","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user faints. In return, the Pokémon taking its\nplace will have its HP restored and status\nconditions cured.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

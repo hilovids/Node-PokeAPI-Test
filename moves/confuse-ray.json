@@ -1,1 +1,1 @@
-{"id":109,"name":"confuse-ray","accuracy":100,"pp":10,"priority":0,"power":null,"type":"ghost","damageClass":"status","description":"A move that causes\nconfusion."}
+{"id":109,"name":"confuse-ray","accuracy":100,"pp":10,"priority":0,"power":null,"type":"ghost","damageClass":"status","description":"The target is exposed to a sinister ray that\ntriggers confusion.","ailment":"confusion","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

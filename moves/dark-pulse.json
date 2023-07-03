@@ -1,1 +1,1 @@
-{"id":399,"name":"dark-pulse","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dark","damageClass":"special","description":"The user releases a\nhorrible aura imbued\nwith dark thoughts.\nIt may also make the\ntarget flinch."}
+{"id":399,"name":"dark-pulse","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dark","damageClass":"special","description":"The user releases a horrible aura imbued with dark\nthoughts. This may also make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

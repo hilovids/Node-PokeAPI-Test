@@ -1,1 +1,1 @@
-{"id":267,"name":"nature-power","accuracy":null,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The type of attack varies\ndepending on the location."}
+{"id":267,"name":"nature-power","accuracy":null,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"This attack makes use of nature’s power. Its\neffects vary depending on the user’s environment.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

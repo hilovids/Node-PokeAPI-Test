@@ -1,1 +1,1 @@
-{"id":819,"name":"thunder-cage","accuracy":90,"pp":15,"priority":0,"power":80,"type":"electric","damageClass":"special","description":"ほとばしる　でんきの　おりの　なかに\n４ー５ターンの　あいだ\nあいてを　とじこめて　こうげきする。"}
+{"id":819,"name":"thunder-cage","accuracy":90,"pp":15,"priority":0,"power":80,"type":"electric","damageClass":"special","description":"The user traps the target in a cage of sparking\nelectricity for four to five turns.","ailment":"trap","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

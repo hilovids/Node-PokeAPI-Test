@@ -1,1 +1,1 @@
-{"id":53,"name":"flamethrower","accuracy":100,"pp":15,"priority":0,"power":90,"type":"fire","damageClass":"special","description":"An attack that may\ninflict a burn."}
+{"id":53,"name":"flamethrower","accuracy":100,"pp":15,"priority":0,"power":90,"type":"fire","damageClass":"special","description":"The target is scorched with an intense blast of fire.\nThis may also leave the target with a burn.","ailment":"burn","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

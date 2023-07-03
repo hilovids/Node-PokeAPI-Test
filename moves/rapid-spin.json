@@ -1,1 +1,1 @@
-{"id":229,"name":"rapid-spin","accuracy":100,"pp":40,"priority":0,"power":50,"type":"normal","damageClass":"physical","description":"A high-speed\nspinning attack."}
+{"id":229,"name":"rapid-spin","accuracy":100,"pp":40,"priority":0,"power":50,"type":"normal","damageClass":"physical","description":"A spin attack that can also eliminate such moves as\nBind, Wrap, and Leech Seed. This also raises the user’s\nSpeed stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":1}],"target":"selected-pokemon"}

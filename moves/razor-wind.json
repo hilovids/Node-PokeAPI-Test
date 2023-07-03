@@ -1,1 +1,1 @@
-{"id":13,"name":"razor-wind","accuracy":100,"pp":10,"priority":0,"power":80,"type":"normal","damageClass":"special","description":"1st turn: Prepare\n2nd turn: Attack"}
+{"id":13,"name":"razor-wind","accuracy":100,"pp":10,"priority":0,"power":80,"type":"normal","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

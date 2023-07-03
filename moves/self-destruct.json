@@ -1,1 +1,1 @@
-{"id":120,"name":"self-destruct","accuracy":100,"pp":5,"priority":0,"power":200,"type":"normal","damageClass":"physical","description":"Powerful but makes\nthe user faint."}
+{"id":120,"name":"self-destruct","accuracy":100,"pp":5,"priority":0,"power":200,"type":"normal","damageClass":"physical","description":"The user attacks everything around it by causing an\nexplosion. The user faints upon using this move.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

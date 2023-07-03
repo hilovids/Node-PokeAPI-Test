@@ -1,1 +1,1 @@
-{"id":688,"name":"trop-kick","accuracy":100,"pp":15,"priority":0,"power":70,"type":"grass","damageClass":"physical","description":"なんごく　ゆらいの　あつい\nキックを　あいてに　あびせる。\nあいての　こうげきを　さげる。"}
+{"id":688,"name":"trop-kick","accuracy":100,"pp":15,"priority":0,"power":70,"type":"grass","damageClass":"physical","description":"The user lands an intense kick of tropical origins on\nthe target. This also lowers the target’s Attack stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-1}],"target":"selected-pokemon"}

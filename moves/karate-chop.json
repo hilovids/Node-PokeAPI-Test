@@ -1,1 +1,1 @@
-{"id":2,"name":"karate-chop","accuracy":100,"pp":25,"priority":0,"power":50,"type":"fighting","damageClass":"physical","description":"Has a high criti­\ncal hit ratio."}
+{"id":2,"name":"karate-chop","accuracy":100,"pp":25,"priority":0,"power":50,"type":"fighting","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":54,"name":"mist","accuracy":null,"pp":30,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"Prevents stat\nreduction."}
+{"id":54,"name":"mist","accuracy":null,"pp":30,"priority":0,"power":null,"type":"ice","damageClass":"status","description":"The user cloaks itself and its allies in a white mist\nthat prevents any of their stats from being lowered\nfor five turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

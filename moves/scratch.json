@@ -1,1 +1,1 @@
-{"id":10,"name":"scratch","accuracy":100,"pp":35,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"Scratches with\nsharp claws."}
+{"id":10,"name":"scratch","accuracy":100,"pp":35,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"Hard, pointed, sharp claws rake the target to\ninflict damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

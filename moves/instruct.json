@@ -1,1 +1,1 @@
-{"id":689,"name":"instruct","accuracy":null,"pp":15,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"あいてが　だした　わざを\nしじして　もういちど\nださせる　ことが　できる。"}
+{"id":689,"name":"instruct","accuracy":null,"pp":15,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user instructs the target to use the target’s last\nmove again.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

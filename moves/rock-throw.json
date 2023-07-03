@@ -1,1 +1,1 @@
-{"id":88,"name":"rock-throw","accuracy":90,"pp":15,"priority":0,"power":50,"type":"rock","damageClass":"physical","description":"Drops rocks on the\nenemy."}
+{"id":88,"name":"rock-throw","accuracy":90,"pp":15,"priority":0,"power":50,"type":"rock","damageClass":"physical","description":"The user picks up and throws a small rock at the\ntarget to attack.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

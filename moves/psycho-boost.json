@@ -1,1 +1,1 @@
-{"id":354,"name":"psycho-boost","accuracy":90,"pp":5,"priority":0,"power":140,"type":"psychic","damageClass":"special","description":"Allows a full-power attack,\nbut sharply lowers SP. ATK."}
+{"id":354,"name":"psycho-boost","accuracy":90,"pp":5,"priority":0,"power":140,"type":"psychic","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-2}],"target":"selected-pokemon"}

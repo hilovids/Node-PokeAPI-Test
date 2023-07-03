@@ -1,1 +1,1 @@
-{"id":76,"name":"solar-beam","accuracy":100,"pp":10,"priority":0,"power":120,"type":"grass","damageClass":"special","description":"1st turn: Prepare\n2nd turn: Attack"}
+{"id":76,"name":"solar-beam","accuracy":100,"pp":10,"priority":0,"power":120,"type":"grass","damageClass":"special","description":"In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

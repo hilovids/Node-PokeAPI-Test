@@ -1,1 +1,1 @@
-{"id":263,"name":"facade","accuracy":100,"pp":20,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"Boosts ATTACK when burned,\nparalyzed, or poisoned."}
+{"id":263,"name":"facade","accuracy":100,"pp":20,"priority":0,"power":70,"type":"normal","damageClass":"physical","description":"This attack move doubles its power if the user is\npoisoned, burned, or paralyzed.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

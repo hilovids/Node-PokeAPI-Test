@@ -1,1 +1,1 @@
-{"id":533,"name":"sacred-sword","accuracy":100,"pp":15,"priority":0,"power":90,"type":"fighting","damageClass":"physical","description":"Un coup de lame violent qui lacère\nl’ennemi et lui inflige des dégâts quels\nque soient ses changements de stats."}
+{"id":533,"name":"sacred-sword","accuracy":100,"pp":15,"priority":0,"power":90,"type":"fighting","damageClass":"physical","description":"The user attacks by slicing with a long horn. The\ntarget’s stat changes don’t affect this\nattack’s damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

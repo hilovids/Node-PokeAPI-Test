@@ -1,1 +1,1 @@
-{"id":32,"name":"horn-drill","accuracy":30,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"A one-hit KO,\ndrill attack."}
+{"id":32,"name":"horn-drill","accuracy":30,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

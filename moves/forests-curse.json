@@ -1,1 +1,1 @@
-{"id":571,"name":"forests-curse","accuracy":100,"pp":20,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"あいてに　もりののろいを　かける。\nのろいを　かけられた　あいては\nタイプに　くさタイプが　ついかされる。"}
+{"id":571,"name":"forests-curse","accuracy":100,"pp":20,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"The user puts a forest curse on the target.\nThe target is now Grass type as well.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

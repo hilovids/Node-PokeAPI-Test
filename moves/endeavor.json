@@ -1,1 +1,1 @@
-{"id":283,"name":"endeavor","accuracy":100,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"Gains power if the user’s HP\nis lower than the foe’s HP."}
+{"id":283,"name":"endeavor","accuracy":100,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"This attack move cuts down the target’s HP to equal\nthe user’s HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

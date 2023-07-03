@@ -1,1 +1,1 @@
-{"id":681,"name":"power-trip","accuracy":100,"pp":10,"priority":0,"power":20,"type":"dark","damageClass":"physical","description":"じぶんの　つよさを　はなたかだかに\nこうげきする。じぶんの　のうりょくが\nあがって　いるほど　いりょくが　あがる。"}
+{"id":681,"name":"power-trip","accuracy":100,"pp":10,"priority":0,"power":20,"type":"dark","damageClass":"physical","description":"The user boasts its strength and attacks the target.\nThe more the user’s stats are raised, the greater the\nmove’s power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

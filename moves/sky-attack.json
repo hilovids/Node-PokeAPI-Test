@@ -1,1 +1,1 @@
-{"id":143,"name":"sky-attack","accuracy":90,"pp":5,"priority":0,"power":140,"type":"flying","damageClass":"physical","description":"1st turn: Prepare\n2nd turn: Attack"}
+{"id":143,"name":"sky-attack","accuracy":90,"pp":5,"priority":0,"power":140,"type":"flying","damageClass":"physical","description":"A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

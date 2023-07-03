@@ -1,1 +1,1 @@
-{"id":440,"name":"cross-poison","accuracy":100,"pp":20,"priority":0,"power":70,"type":"poison","damageClass":"physical","description":"A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio."}
+{"id":440,"name":"cross-poison","accuracy":100,"pp":20,"priority":0,"power":70,"type":"poison","damageClass":"physical","description":"A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.","ailment":"poison","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

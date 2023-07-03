@@ -1,1 +1,1 @@
-{"id":52,"name":"ember","accuracy":100,"pp":25,"priority":0,"power":40,"type":"fire","damageClass":"special","description":"An attack that may\ninflict a burn."}
+{"id":52,"name":"ember","accuracy":100,"pp":25,"priority":0,"power":40,"type":"fire","damageClass":"special","description":"The target is attacked with small flames. This may\nalso leave the target with a burn.","ailment":"burn","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

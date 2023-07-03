@@ -1,1 +1,1 @@
-{"id":326,"name":"extrasensory","accuracy":100,"pp":20,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"Attacks with a peculiar\npower. May cause flinching."}
+{"id":326,"name":"extrasensory","accuracy":100,"pp":20,"priority":0,"power":80,"type":"psychic","damageClass":"special","description":"The user attacks with an odd, unseeable power.\nThis may also make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

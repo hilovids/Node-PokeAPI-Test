@@ -1,1 +1,1 @@
-{"id":167,"name":"triple-kick","accuracy":90,"pp":10,"priority":0,"power":10,"type":"fighting","damageClass":"physical","description":"Hits three times\nwith rising power."}
+{"id":167,"name":"triple-kick","accuracy":90,"pp":10,"priority":0,"power":10,"type":"fighting","damageClass":"physical","description":"A consecutive three-kick attack that becomes more\npowerful with each successful hit.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

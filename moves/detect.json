@@ -1,1 +1,1 @@
-{"id":197,"name":"detect","accuracy":null,"pp":5,"priority":4,"power":null,"type":"fighting","damageClass":"status","description":"Evades attack that\nturn. It may fail."}
+{"id":197,"name":"detect","accuracy":null,"pp":5,"priority":4,"power":null,"type":"fighting","damageClass":"status","description":"This move enables the user to protect itself from\nall attacks. Its chance of failing rises if it is used\nin succession.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

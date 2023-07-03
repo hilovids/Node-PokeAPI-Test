@@ -1,1 +1,1 @@
-{"id":4,"name":"comet-punch","accuracy":85,"pp":15,"priority":0,"power":18,"type":"normal","damageClass":"physical","description":"Repeatedly punches\n2-5 times."}
+{"id":4,"name":"comet-punch","accuracy":85,"pp":15,"priority":0,"power":18,"type":"normal","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

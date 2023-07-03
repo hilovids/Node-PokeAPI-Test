@@ -1,1 +1,1 @@
-{"id":711,"name":"prismatic-laser","accuracy":100,"pp":10,"priority":0,"power":160,"type":"psychic","damageClass":"special","description":"プリズムの　ちからで　きょうりょくな\nこうせんを　はっしゃする。\nつぎの　ターンは　うごけなくなる。"}
+{"id":711,"name":"prismatic-laser","accuracy":100,"pp":10,"priority":0,"power":160,"type":"psychic","damageClass":"special","description":"The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

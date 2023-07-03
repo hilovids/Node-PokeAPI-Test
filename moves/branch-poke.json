@@ -1,1 +1,1 @@
-{"id":785,"name":"branch-poke","accuracy":100,"pp":40,"priority":0,"power":40,"type":"grass","damageClass":"physical","description":"するどく　とがった　えだで\nあいてを　つついて　こうげきする。"}
+{"id":785,"name":"branch-poke","accuracy":100,"pp":40,"priority":0,"power":40,"type":"grass","damageClass":"physical","description":"The user attacks the target by poking it with a sharply\npointed branch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

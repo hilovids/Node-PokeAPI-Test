@@ -1,1 +1,1 @@
-{"id":198,"name":"bone-rush","accuracy":90,"pp":10,"priority":0,"power":25,"type":"ground","damageClass":"physical","description":"An attack that\nhits 2-5 times."}
+{"id":198,"name":"bone-rush","accuracy":90,"pp":10,"priority":0,"power":25,"type":"ground","damageClass":"physical","description":"The user strikes the target with a hard bone two to\nfive times in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

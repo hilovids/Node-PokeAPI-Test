@@ -1,1 +1,1 @@
-{"id":804,"name":"rising-voltage","accuracy":100,"pp":20,"priority":0,"power":70,"type":"electric","damageClass":"special","description":"じめんから　たちのぼる　でんげきで　こうげき。\nあいてが　エレキフィールドに　いるとき\nわざの　いりょくが　２ばいに　なる。"}
+{"id":804,"name":"rising-voltage","accuracy":100,"pp":20,"priority":0,"power":70,"type":"electric","damageClass":"special","description":"The user attacks with electric voltage rising from\nthe ground. This move’s power doubles when the target\nis on Electric Terrain.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

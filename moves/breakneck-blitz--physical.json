@@ -1,1 +1,1 @@
-{"id":622,"name":"breakneck-blitz--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"Ｚパワーで　いきおいを　つけて\nぜんりょくで　あいてに　ぶつかる。\nもとになった　わざで　いりょくが　かわる。"}
+{"id":622,"name":"breakneck-blitz--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

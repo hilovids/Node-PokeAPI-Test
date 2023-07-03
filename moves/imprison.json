@@ -1,1 +1,1 @@
-{"id":286,"name":"imprison","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Prevents foes from using\nmoves known by the user."}
+{"id":286,"name":"imprison","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

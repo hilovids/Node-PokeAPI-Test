@@ -1,1 +1,1 @@
-{"id":276,"name":"superpower","accuracy":100,"pp":5,"priority":0,"power":120,"type":"fighting","damageClass":"physical","description":"Boosts strength sharply,\nbut lowers abilities."}
+{"id":276,"name":"superpower","accuracy":100,"pp":5,"priority":0,"power":120,"type":"fighting","damageClass":"physical","description":"The user attacks the target with great power.\nHowever, this also lowers the user’s Attack and\nDefense stats.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"attack","change":-1},{"stat":"defense","change":-1}],"target":"selected-pokemon"}

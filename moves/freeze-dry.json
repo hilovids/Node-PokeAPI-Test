@@ -1,1 +1,1 @@
-{"id":573,"name":"freeze-dry","accuracy":100,"pp":20,"priority":0,"power":70,"type":"ice","damageClass":"special","description":"あいてを　きゅうげきに　ひやして\nこおり　じょうたいに　することが　ある。\nみずタイプにも　こうかばつぐんに　なる。"}
+{"id":573,"name":"freeze-dry","accuracy":100,"pp":20,"priority":0,"power":70,"type":"ice","damageClass":"special","description":"The user rapidly cools the target. This may also\nleave the target frozen. This move is super effective\non Water types.","ailment":"freeze","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":570,"name":"parabolic-charge","accuracy":100,"pp":20,"priority":0,"power":65,"type":"electric","damageClass":"special","description":"まわりにいる　ポケモン　ぜんいんに\nダメージ。　あたえた　ダメージの\nはんぶんを　じぶんが　かいふくする。"}
+{"id":570,"name":"parabolic-charge","accuracy":100,"pp":20,"priority":0,"power":65,"type":"electric","damageClass":"special","description":"The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

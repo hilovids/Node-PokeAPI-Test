@@ -1,1 +1,1 @@
-{"id":800,"name":"meteor-beam","accuracy":90,"pp":10,"priority":0,"power":120,"type":"rock","damageClass":"special","description":"１ターンめに　うちゅうの　ちからを\nあつめることで　とくこうが　あがり\n２ターンめに　あいてを　こうげきする。"}
+{"id":800,"name":"meteor-beam","accuracy":90,"pp":10,"priority":0,"power":120,"type":"rock","damageClass":"special","description":"In this two-turn attack, the user gathers space power\nand boosts its Sp. Atk stat, then attacks the target\non the next turn.","ailment":"none","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

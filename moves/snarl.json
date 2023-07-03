@@ -1,1 +1,1 @@
-{"id":555,"name":"snarl","accuracy":95,"pp":15,"priority":0,"power":55,"type":"dark","damageClass":"special","description":"Le lanceur hurle sur l’ennemi.\nBaisse l’Attaque Spéciale de l’ennemi."}
+{"id":555,"name":"snarl","accuracy":95,"pp":15,"priority":0,"power":55,"type":"dark","damageClass":"special","description":"The user yells as if it’s ranting about something,\nwhich lowers the Sp. Atk stats of opposing Pokémon.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-1}],"target":"all-opponents"}

@@ -1,1 +1,1 @@
-{"id":7,"name":"fire-punch","accuracy":100,"pp":15,"priority":0,"power":75,"type":"fire","damageClass":"physical","description":"A fiery punch. May\ncause a burn."}
+{"id":7,"name":"fire-punch","accuracy":100,"pp":15,"priority":0,"power":75,"type":"fire","damageClass":"physical","description":"The target is punched with a fiery fist. This may also\nleave the target with a burn.","ailment":"burn","ailmentChance":10,"statChanges":[],"target":"selected-pokemon"}

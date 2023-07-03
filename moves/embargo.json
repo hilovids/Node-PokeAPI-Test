@@ -1,1 +1,1 @@
-{"id":373,"name":"embargo","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it."}
+{"id":373,"name":"embargo","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"embargo","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

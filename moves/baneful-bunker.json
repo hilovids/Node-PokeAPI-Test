@@ -1,1 +1,1 @@
-{"id":661,"name":"baneful-bunker","accuracy":null,"pp":10,"priority":4,"power":null,"type":"poison","damageClass":"status","description":"あいての　こうげきを　ふせぐと\nどうじに　ふれた　あいてに\nどくを　あたえて　しまう。"}
+{"id":661,"name":"baneful-bunker","accuracy":null,"pp":10,"priority":4,"power":null,"type":"poison","damageClass":"status","description":"In addition to protecting the user from attacks, this\nmove also poisons any attacker that makes\ndirect contact.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

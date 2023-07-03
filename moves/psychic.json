@@ -1,1 +1,1 @@
-{"id":94,"name":"psychic","accuracy":100,"pp":10,"priority":0,"power":90,"type":"psychic","damageClass":"special","description":"An attack that may\nlower SPCL.DEF."}
+{"id":94,"name":"psychic","accuracy":100,"pp":10,"priority":0,"power":90,"type":"psychic","damageClass":"special","description":"The target is hit by a strong telekinetic force.\nThis may also lower the target’s Sp. Def stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":-1}],"target":"selected-pokemon"}

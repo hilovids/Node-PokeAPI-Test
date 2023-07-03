@@ -1,1 +1,1 @@
-{"id":782,"name":"behemoth-bash","accuracy":100,"pp":5,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"きょだいな　たてとなり　ぶつかる。\nあいてが　ダイマックス　していると\nダメージは　２ばいに　なる。"}
+{"id":782,"name":"behemoth-bash","accuracy":100,"pp":5,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"The user becomes a gigantic shield and slams into\nthe target. This move deals twice the damage if the\ntarget is Dynamaxed.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

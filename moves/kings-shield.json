@@ -1,1 +1,1 @@
-{"id":588,"name":"kings-shield","accuracy":null,"pp":10,"priority":4,"power":null,"type":"steel","damageClass":"status","description":"あいての　こうげきを　ふせぐと　どうじに\nぼうぎょたいせいになる。　ふれた\nあいての　こうげきを　がくっと　さげる。"}
+{"id":588,"name":"kings-shield","accuracy":null,"pp":10,"priority":4,"power":null,"type":"steel","damageClass":"status","description":"The user takes a defensive stance while it protects\nitself from damage. It also lowers the Attack stat of any\nattacker that makes direct contact.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

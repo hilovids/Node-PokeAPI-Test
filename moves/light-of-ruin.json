@@ -1,1 +1,1 @@
-{"id":617,"name":"light-of-ruin","accuracy":90,"pp":5,"priority":0,"power":140,"type":"fairy","damageClass":"special","description":"えいえんのはな　の　パワーを　かりて\nきょうりょくな　こうせんを　うちだす。\nじぶんも　かなりの　ダメージを　うける。"}
+{"id":617,"name":"light-of-ruin","accuracy":90,"pp":5,"priority":0,"power":140,"type":"fairy","damageClass":"special","description":"Drawing power from the Eternal Flower, the user\nfires a powerful beam of light. This also damages the\nuser quite a lot.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

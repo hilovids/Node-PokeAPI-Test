@@ -1,1 +1,1 @@
-{"id":242,"name":"crunch","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"An attack that may\nlower SPCL.DEF."}
+{"id":242,"name":"crunch","accuracy":100,"pp":15,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"The user crunches up the target with sharp fangs.\nThis may also lower the target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

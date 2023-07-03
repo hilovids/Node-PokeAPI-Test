@@ -1,1 +1,1 @@
-{"id":59,"name":"blizzard","accuracy":70,"pp":5,"priority":0,"power":110,"type":"ice","damageClass":"special","description":"An attack that may\nfreeze the foe."}
+{"id":59,"name":"blizzard","accuracy":70,"pp":5,"priority":0,"power":110,"type":"ice","damageClass":"special","description":"A howling blizzard is summoned to strike opposing\nPokémon. This may also leave the opposing\nPokémon frozen.","ailment":"freeze","ailmentChance":10,"statChanges":[],"target":"all-opponents"}

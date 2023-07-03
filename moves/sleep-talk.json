@@ -1,1 +1,1 @@
-{"id":214,"name":"sleep-talk","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Randomly attacks\nwhile asleep."}
+{"id":214,"name":"sleep-talk","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"While it is asleep, the user randomly uses one of the\nmoves it knows.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

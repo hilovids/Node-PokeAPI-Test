@@ -1,1 +1,1 @@
-{"id":524,"name":"frost-breath","accuracy":90,"pp":10,"priority":0,"power":60,"type":"ice","damageClass":"special","description":"Un souffle froid blesse l’ennemi.\nL’effet est toujours critique."}
+{"id":524,"name":"frost-breath","accuracy":90,"pp":10,"priority":0,"power":60,"type":"ice","damageClass":"special","description":"The user blows its cold breath on the target. This\nattack always results in a critical hit.","ailment":"none","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

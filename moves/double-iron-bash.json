@@ -1,1 +1,1 @@
-{"id":742,"name":"double-iron-bash","accuracy":100,"pp":5,"priority":0,"power":60,"type":"steel","damageClass":"physical","description":"むねの　ナットを　じくに　かいてんして\n２かい　つづけて　うでを　たたきつける。\nあいてを　ひるませる　ことが　ある。"}
+{"id":742,"name":"double-iron-bash","accuracy":100,"pp":5,"priority":0,"power":60,"type":"steel","damageClass":"physical","description":"The user rotates, centering the hex nut in its chest,\nand then strikes with its arms twice in a row. This may\nalso make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

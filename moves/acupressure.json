@@ -1,1 +1,1 @@
-{"id":367,"name":"acupressure","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user applies\npressure to stress\npoints, sharply\nboosting one of its\nstats."}
+{"id":367,"name":"acupressure","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user applies pressure to stress points, sharply\nboosting one of its or its allies’ stats.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user-or-ally"}

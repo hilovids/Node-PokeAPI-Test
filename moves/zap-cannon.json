@@ -1,1 +1,1 @@
-{"id":192,"name":"zap-cannon","accuracy":50,"pp":5,"priority":0,"power":120,"type":"electric","damageClass":"special","description":"An attack that\nalways paralyzes."}
+{"id":192,"name":"zap-cannon","accuracy":50,"pp":5,"priority":0,"power":120,"type":"electric","damageClass":"special","description":"The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.","ailment":"paralysis","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

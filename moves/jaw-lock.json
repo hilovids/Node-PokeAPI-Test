@@ -1,1 +1,1 @@
-{"id":746,"name":"jaw-lock","accuracy":100,"pp":10,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"おたがい　ひんしに　なるまで\nこうたいが　できなくなる。　どちらかの\nポケモンが　いなくなると　こうかはきえる。"}
+{"id":746,"name":"jaw-lock","accuracy":100,"pp":10,"priority":0,"power":80,"type":"dark","damageClass":"physical","description":"This move prevents the user and the target from\nswitching out until either of them faints. The effect goes\naway if either of the Pokémon leaves the field.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

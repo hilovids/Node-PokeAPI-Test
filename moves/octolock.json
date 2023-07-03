@@ -1,1 +1,1 @@
-{"id":753,"name":"octolock","accuracy":100,"pp":15,"priority":0,"power":null,"type":"fighting","damageClass":"status","description":"あいてを　にげられなくする。\nかためられた　あいては　まいターン\nぼうぎょと　とくぼうが　さがる。"}
+{"id":753,"name":"octolock","accuracy":100,"pp":15,"priority":0,"power":null,"type":"fighting","damageClass":"status","description":"The user locks the target in and prevents it from\nfleeing. This move also lowers the target’s Defense\nand Sp. Def every turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

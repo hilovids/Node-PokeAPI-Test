@@ -1,1 +1,1 @@
-{"id":435,"name":"discharge","accuracy":100,"pp":15,"priority":0,"power":80,"type":"electric","damageClass":"special","description":"A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis."}
+{"id":435,"name":"discharge","accuracy":100,"pp":15,"priority":0,"power":80,"type":"electric","damageClass":"special","description":"The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.","ailment":"paralysis","ailmentChance":30,"statChanges":[],"target":"all-other-pokemon"}

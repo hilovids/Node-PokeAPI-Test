@@ -1,1 +1,1 @@
-{"id":12,"name":"guillotine","accuracy":30,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"A one-hit KO,\npincer attack."}
+{"id":12,"name":"guillotine","accuracy":30,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"physical","description":"A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

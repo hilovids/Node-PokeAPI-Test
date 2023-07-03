@@ -1,1 +1,1 @@
-{"id":212,"name":"mean-look","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Prevents fleeing\nor switching."}
+{"id":212,"name":"mean-look","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user pins the target with a dark, arresting look.\nThe target becomes unable to flee.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

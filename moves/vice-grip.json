@@ -1,1 +1,1 @@
-{"id":11,"name":"vice-grip","accuracy":100,"pp":30,"priority":0,"power":55,"type":"normal","damageClass":"physical","description":"Grips with power­\nful pincers."}
+{"id":11,"name":"vice-grip","accuracy":100,"pp":30,"priority":0,"power":55,"type":"normal","damageClass":"physical","description":"The target is gripped and squeezed from both sides\nto inflict damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

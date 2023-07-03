@@ -1,1 +1,1 @@
-{"id":611,"name":"infestation","accuracy":100,"pp":20,"priority":0,"power":20,"type":"bug","damageClass":"special","description":"４ー５ターンの　あいだ　あいてに\nまとわりついて　こうげきする。\nそのあいだ　あいては　にげられない。"}
+{"id":611,"name":"infestation","accuracy":100,"pp":20,"priority":0,"power":20,"type":"bug","damageClass":"special","description":"The target is infested and attacked for four to five\nturns. The target can’t flee during this time.","ailment":"trap","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

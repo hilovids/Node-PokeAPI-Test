@@ -1,1 +1,1 @@
-{"id":179,"name":"reversal","accuracy":100,"pp":15,"priority":0,"power":null,"type":"fighting","damageClass":"physical","description":"Ataque desesperado que causa más daño cuantos \nmenos PS tenga el usuario."}
+{"id":179,"name":"reversal","accuracy":100,"pp":15,"priority":0,"power":null,"type":"fighting","damageClass":"physical","description":"An all-out attack that becomes more powerful the\nless HP the user has.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

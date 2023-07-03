@@ -1,1 +1,1 @@
-{"id":298,"name":"teeter-dance","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Confuses all POKéMON on\nthe scene."}
+{"id":298,"name":"teeter-dance","accuracy":100,"pp":20,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user performs a wobbly dance that confuses\nthe Pokémon around it.","ailment":"confusion","ailmentChance":0,"statChanges":[],"target":"all-other-pokemon"}

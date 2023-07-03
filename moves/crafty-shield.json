@@ -1,1 +1,1 @@
-{"id":578,"name":"crafty-shield","accuracy":null,"pp":10,"priority":3,"power":null,"type":"fairy","damageClass":"status","description":"ふしぎな　ちからを　つかって\nみかたへの　へんかわざを　ふせぐ。\nダメージわざは　うけてしまう。"}
+{"id":578,"name":"crafty-shield","accuracy":null,"pp":10,"priority":3,"power":null,"type":"fairy","damageClass":"status","description":"The user protects itself and its allies from status\nmoves with a mysterious power. This does not stop\nmoves that do damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"users-field"}

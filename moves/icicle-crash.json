@@ -1,1 +1,1 @@
-{"id":556,"name":"icicle-crash","accuracy":90,"pp":10,"priority":0,"power":85,"type":"ice","damageClass":"physical","description":"Envoie de gros blocs de glace sur\nl’ennemi pour lui infliger des dégâts.\nPeut aussi l’apeurer."}
+{"id":556,"name":"icicle-crash","accuracy":90,"pp":10,"priority":0,"power":85,"type":"ice","damageClass":"physical","description":"The user attacks by harshly dropping large icicles\nonto the target. This may also make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

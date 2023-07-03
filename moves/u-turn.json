@@ -1,1 +1,1 @@
-{"id":369,"name":"u-turn","accuracy":100,"pp":20,"priority":0,"power":70,"type":"bug","damageClass":"physical","description":"After making its\nattack, the user\nrushes back to switch\nplaces with a party\nPokémon in waiting."}
+{"id":369,"name":"u-turn","accuracy":100,"pp":20,"priority":0,"power":70,"type":"bug","damageClass":"physical","description":"After making its attack, the user rushes back to\nswitch places with a party Pokémon in waiting.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

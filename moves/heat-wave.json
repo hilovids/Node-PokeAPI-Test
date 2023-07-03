@@ -1,1 +1,1 @@
-{"id":257,"name":"heat-wave","accuracy":90,"pp":10,"priority":0,"power":95,"type":"fire","damageClass":"special","description":"Exhales a hot breath on the\nfoe. May inflict a burn."}
+{"id":257,"name":"heat-wave","accuracy":90,"pp":10,"priority":0,"power":95,"type":"fire","damageClass":"special","description":"The user attacks by exhaling hot breath on opposing\nPokémon. This may also leave those Pokémon with\na burn.","ailment":"burn","ailmentChance":10,"statChanges":[],"target":"all-opponents"}

@@ -1,1 +1,1 @@
-{"id":134,"name":"kinesis","accuracy":80,"pp":15,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Reduces the foe's\naccuracy."}
+{"id":134,"name":"kinesis","accuracy":80,"pp":15,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user distracts the target by bending a spoon.\nThis lowers the target’s accuracy.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"accuracy","change":-1}],"target":"selected-pokemon"}

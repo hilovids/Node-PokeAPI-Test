@@ -1,1 +1,1 @@
-{"id":460,"name":"spacial-rend","accuracy":95,"pp":5,"priority":0,"power":100,"type":"dragon","damageClass":"special","description":"Chi la usa lacera il bersaglio e lo spazio che\nlo circonda. Probabile brutto colpo."}
+{"id":460,"name":"spacial-rend","accuracy":95,"pp":5,"priority":0,"power":100,"type":"dragon","damageClass":"special","description":"The user tears the target along with the space\naround it. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

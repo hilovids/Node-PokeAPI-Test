@@ -1,1 +1,1 @@
-{"id":350,"name":"rock-blast","accuracy":90,"pp":10,"priority":0,"power":25,"type":"rock","damageClass":"physical","description":"Hurls boulders at the foe\n2 to 5 times in a row."}
+{"id":350,"name":"rock-blast","accuracy":90,"pp":10,"priority":0,"power":25,"type":"rock","damageClass":"physical","description":"The user hurls hard rocks at the target. Two to five\nrocks are launched in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

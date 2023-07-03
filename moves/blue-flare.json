@@ -1,1 +1,1 @@
-{"id":551,"name":"blue-flare","accuracy":85,"pp":5,"priority":0,"power":130,"type":"fire","damageClass":"special","description":"De magnifiques et redoutables flammes\nbleues fondent sur l’ennemi.\nPeut aussi le brûler."}
+{"id":551,"name":"blue-flare","accuracy":85,"pp":5,"priority":0,"power":130,"type":"fire","damageClass":"special","description":"The user attacks by engulfing the target in an\nintense, yet beautiful, blue flame. This may also leave\nthe target with a burn.","ailment":"burn","ailmentChance":20,"statChanges":[],"target":"selected-pokemon"}

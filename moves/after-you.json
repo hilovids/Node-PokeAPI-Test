@@ -1,1 +1,1 @@
-{"id":495,"name":"after-you","accuracy":null,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"S’il est le premier à agir, le lanceur\npermet à sa cible d’utiliser une\ncapacité juste après lui."}
+{"id":495,"name":"after-you","accuracy":null,"pp":15,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user helps the target and makes it use its move\nright after the user.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

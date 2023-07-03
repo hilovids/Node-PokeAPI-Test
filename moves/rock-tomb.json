@@ -1,1 +1,1 @@
-{"id":317,"name":"rock-tomb","accuracy":95,"pp":15,"priority":0,"power":60,"type":"rock","damageClass":"physical","description":"Stops the foe from moving\nwith rocks and cuts SPEED."}
+{"id":317,"name":"rock-tomb","accuracy":95,"pp":15,"priority":0,"power":60,"type":"rock","damageClass":"physical","description":"Boulders are hurled at the target. This also lowers\nthe target’s Speed stat by preventing its movement.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":42,"name":"pin-missile","accuracy":95,"pp":20,"priority":0,"power":25,"type":"bug","damageClass":"physical","description":"Fires pins that\nstrike 2-5 times."}
+{"id":42,"name":"pin-missile","accuracy":95,"pp":20,"priority":0,"power":25,"type":"bug","damageClass":"physical","description":"Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

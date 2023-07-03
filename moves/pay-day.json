@@ -1,1 +1,1 @@
-{"id":6,"name":"pay-day","accuracy":100,"pp":20,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"Throws coins. Gets\nthem back later."}
+{"id":6,"name":"pay-day","accuracy":100,"pp":20,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"Numerous coins are hurled at the target to inflict\ndamage. Money is earned after the battle.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

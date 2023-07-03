@@ -1,1 +1,1 @@
-{"id":809,"name":"poltergeist","accuracy":90,"pp":5,"priority":0,"power":110,"type":"ghost","damageClass":"physical","description":"あいての　もちものを　あやつって　こうげき。\nあいてが　どうぐを　もっていない　ばあいは\nしっぱい　する。"}
+{"id":809,"name":"poltergeist","accuracy":90,"pp":5,"priority":0,"power":110,"type":"ghost","damageClass":"physical","description":"The user attacks the target by controlling the target’s\nitem. The move fails if the target doesn’t have an item.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

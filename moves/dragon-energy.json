@@ -1,1 +1,1 @@
-{"id":820,"name":"dragon-energy","accuracy":100,"pp":5,"priority":0,"power":150,"type":"dragon","damageClass":"special","description":"せいめいりょくを　パワーに　かえ　あいてを\nこうげきする。　じぶんの　ＨＰが　すくないほど\nわざの　いりょくは　さがる。"}
+{"id":820,"name":"dragon-energy","accuracy":100,"pp":5,"priority":0,"power":150,"type":"dragon","damageClass":"special","description":"Converting its life-force into power, the user attacks\nopposing Pokémon. The lower the user’s HP, the lower\nthe move’s power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

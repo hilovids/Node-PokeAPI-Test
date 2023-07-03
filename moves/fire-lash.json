@@ -1,1 +1,1 @@
-{"id":680,"name":"fire-lash","accuracy":100,"pp":15,"priority":0,"power":80,"type":"fire","damageClass":"physical","description":"やけたムチで　あいてを　うちつける。\nこうげきを　うけた　あいては\nぼうぎょが　さがる。"}
+{"id":680,"name":"fire-lash","accuracy":100,"pp":15,"priority":0,"power":80,"type":"fire","damageClass":"physical","description":"The user strikes the target with a burning lash. This\nalso lowers the target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

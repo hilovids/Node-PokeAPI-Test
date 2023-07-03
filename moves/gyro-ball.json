@@ -1,1 +1,1 @@
-{"id":360,"name":"gyro-ball","accuracy":100,"pp":5,"priority":0,"power":null,"type":"steel","damageClass":"physical","description":"The user tackles the\nfoe with a high-speed\nspin. The slower the\nuser, the greater\nthe damage."}
+{"id":360,"name":"gyro-ball","accuracy":100,"pp":5,"priority":0,"power":null,"type":"steel","damageClass":"physical","description":"The user tackles the target with a high-speed spin.\nThe slower the user compared to the target, the\ngreater the move’s power.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

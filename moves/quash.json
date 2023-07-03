@@ -1,1 +1,1 @@
-{"id":511,"name":"quash","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"Retient la cible de force, l’obligeant à agir\nen dernier."}
+{"id":511,"name":"quash","accuracy":100,"pp":15,"priority":0,"power":null,"type":"dark","damageClass":"status","description":"The user suppresses the target and makes its move\ngo last.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

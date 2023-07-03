@@ -1,1 +1,1 @@
-{"id":33,"name":"tackle","accuracy":100,"pp":35,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"Trifft das Ziel mit vollem Körpereinsatz."}
+{"id":33,"name":"tackle","accuracy":100,"pp":35,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"A physical attack in which the user charges and\nslams into the target with its whole body.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

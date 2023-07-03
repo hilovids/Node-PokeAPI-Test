@@ -1,1 +1,1 @@
-{"id":83,"name":"fire-spin","accuracy":85,"pp":15,"priority":0,"power":35,"type":"fire","damageClass":"special","description":"将对手困在\n激烈的火焰旋涡中，\n在４～５回合内进行攻击。"}
+{"id":83,"name":"fire-spin","accuracy":85,"pp":15,"priority":0,"power":35,"type":"fire","damageClass":"special","description":"The target becomes trapped within a fierce vortex\nof fire that rages for four to five turns.","ailment":"trap","ailmentChance":100,"statChanges":[],"target":"selected-pokemon"}

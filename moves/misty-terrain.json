@@ -1,1 +1,1 @@
-{"id":581,"name":"misty-terrain","accuracy":null,"pp":10,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"５ターンの　あいだ　あしもとを\nミストフィールドにする。　じめんにいると\nじょうたいいじょうに　ならない。"}
+{"id":581,"name":"misty-terrain","accuracy":null,"pp":10,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"This protects Pokémon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

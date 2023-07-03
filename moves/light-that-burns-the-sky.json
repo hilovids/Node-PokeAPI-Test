@@ -1,1 +1,1 @@
-{"id":723,"name":"light-that-burns-the-sky","accuracy":null,"pp":1,"priority":0,"power":200,"type":"psychic","damageClass":"special","description":"ネクロズマが　あいての　とくせいの\nこうかを　むしして　こうげきと　とくこうの\nたかいほうで　ダメージを　あたえる。"}
+{"id":723,"name":"light-that-burns-the-sky","accuracy":null,"pp":1,"priority":0,"power":200,"type":"psychic","damageClass":"special","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

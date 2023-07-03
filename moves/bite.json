@@ -1,1 +1,1 @@
-{"id":44,"name":"bite","accuracy":100,"pp":25,"priority":0,"power":60,"type":"dark","damageClass":"physical","description":"An attack that may\ncause flinching."}
+{"id":44,"name":"bite","accuracy":100,"pp":25,"priority":0,"power":60,"type":"dark","damageClass":"physical","description":"The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

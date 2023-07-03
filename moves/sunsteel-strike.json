@@ -1,1 +1,1 @@
-{"id":713,"name":"sunsteel-strike","accuracy":100,"pp":5,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"りゅうせいの　ような　いきおいで\nとっしんする。　あいての　とくせいを\nむしして　こうげき　することが　できる。"}
+{"id":713,"name":"sunsteel-strike","accuracy":100,"pp":5,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"The user slams into the target with the force of a\nmeteor. This move can be used on the target\nregardless of its Abilities.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

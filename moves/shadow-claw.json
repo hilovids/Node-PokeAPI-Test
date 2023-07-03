@@ -1,1 +1,1 @@
-{"id":421,"name":"shadow-claw","accuracy":100,"pp":15,"priority":0,"power":70,"type":"ghost","damageClass":"physical","description":"The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio."}
+{"id":421,"name":"shadow-claw","accuracy":100,"pp":15,"priority":0,"power":70,"type":"ghost","damageClass":"physical","description":"The user slashes with a sharp claw made from\nshadows. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

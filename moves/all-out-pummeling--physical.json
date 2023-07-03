@@ -1,1 +1,1 @@
-{"id":624,"name":"all-out-pummeling--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"fighting","damageClass":"physical","description":"Ｚパワーで　つくった　エネルギーの　たまを\nぜんりょくで　あいてに　ぶつける。\nもとになった　わざで　いりょくが　かわる。"}
+{"id":624,"name":"all-out-pummeling--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"fighting","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

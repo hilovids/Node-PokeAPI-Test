@@ -1,1 +1,1 @@
-{"id":63,"name":"hyper-beam","accuracy":90,"pp":5,"priority":0,"power":150,"type":"normal","damageClass":"special","description":"1st turn: Attack\n2nd turn: Rest"}
+{"id":63,"name":"hyper-beam","accuracy":90,"pp":5,"priority":0,"power":150,"type":"normal","damageClass":"special","description":"The target is attacked with a powerful beam.\nThe user can’t move on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

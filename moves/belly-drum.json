@@ -1,1 +1,1 @@
-{"id":187,"name":"belly-drum","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Reduces own HP to\nmaximize ATTACK."}
+{"id":187,"name":"belly-drum","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

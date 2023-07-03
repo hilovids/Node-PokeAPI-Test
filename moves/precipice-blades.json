@@ -1,1 +1,1 @@
-{"id":619,"name":"precipice-blades","accuracy":85,"pp":10,"priority":0,"power":120,"type":"ground","damageClass":"physical","description":"だいちの　ちからを　やいばに　かえて\nあいてを　こうげきする。"}
+{"id":619,"name":"precipice-blades","accuracy":85,"pp":10,"priority":0,"power":120,"type":"ground","damageClass":"physical","description":"The user attacks opposing Pokémon by manifesting\nthe power of the land in fearsome blades of stone.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

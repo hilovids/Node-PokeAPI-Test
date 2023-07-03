@@ -1,1 +1,1 @@
-{"id":1,"name":"pound","accuracy":100,"pp":35,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"Pounds with fore­\nlegs or tail."}
+{"id":1,"name":"pound","accuracy":100,"pp":35,"priority":0,"power":40,"type":"normal","damageClass":"physical","description":"The target is physically pounded with a long tail, a\nforeleg, or the like.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

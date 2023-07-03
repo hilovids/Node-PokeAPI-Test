@@ -1,1 +1,1 @@
-{"id":505,"name":"heal-pulse","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Una onda curativa restaura los PS del objetivo a la\nmitad de su máximo."}
+{"id":505,"name":"heal-pulse","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user emits a healing pulse that restores the\ntarget’s HP by up to half of its max HP.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

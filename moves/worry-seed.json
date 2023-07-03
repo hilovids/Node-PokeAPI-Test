@@ -1,1 +1,1 @@
-{"id":388,"name":"worry-seed","accuracy":100,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia."}
+{"id":388,"name":"worry-seed","accuracy":100,"pp":10,"priority":0,"power":null,"type":"grass","damageClass":"status","description":"A seed that causes worry is planted on the target.\nIt prevents sleep by making the target’s\nAbility Insomnia.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

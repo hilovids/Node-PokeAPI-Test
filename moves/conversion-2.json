@@ -1,1 +1,1 @@
-{"id":176,"name":"conversion-2","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user's type is\nmade resistant."}
+{"id":176,"name":"conversion-2","accuracy":null,"pp":30,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user changes its type to make itself resistant to\nthe type of the attack the target used last.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

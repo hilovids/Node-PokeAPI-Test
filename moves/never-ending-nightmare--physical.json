@@ -1,1 +1,1 @@
-{"id":636,"name":"never-ending-nightmare--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"ghost","damageClass":"physical","description":"Ｚパワーで　よびよせた　つよい　おんねんが\nぜんりょくで　あいてに　ふりかかる。\nもとになった　わざで　いりょくが　かわる。"}
+{"id":636,"name":"never-ending-nightmare--physical","accuracy":null,"pp":1,"priority":0,"power":null,"type":"ghost","damageClass":"physical","description":"This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

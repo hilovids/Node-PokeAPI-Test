@@ -1,1 +1,1 @@
-{"id":597,"name":"aromatic-mist","accuracy":null,"pp":20,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"Grâce à un parfum mystérieux, augmente la\nDéfense Spéciale d’un allié."}
+{"id":597,"name":"aromatic-mist","accuracy":null,"pp":20,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"The user raises the Sp. Def stat of an ally Pokémon\nby using a mysterious aroma.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":1}],"target":"ally"}

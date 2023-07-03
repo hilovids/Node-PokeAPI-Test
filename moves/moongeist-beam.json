@@ -1,1 +1,1 @@
-{"id":714,"name":"moongeist-beam","accuracy":100,"pp":5,"priority":0,"power":100,"type":"ghost","damageClass":"special","description":"あやしい　こうせんを　はなって\nこうげきする。あいての　とくせいを\nむしして　こうげき　することが　できる。"}
+{"id":714,"name":"moongeist-beam","accuracy":100,"pp":5,"priority":0,"power":100,"type":"ghost","damageClass":"special","description":"The user emits a sinister ray to attack the target.\nThis move can be used on the target regardless of\nits Abilities.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

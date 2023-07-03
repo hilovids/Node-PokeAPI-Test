@@ -1,1 +1,1 @@
-{"id":794,"name":"meteor-assault","accuracy":100,"pp":5,"priority":0,"power":150,"type":"fighting","damageClass":"physical","description":"ふとい　クキを　ふりまわして　こうげき。\nただし　じぶんも　よろめいてしまうため\nつぎの　ターンは　うごけなくなる。"}
+{"id":794,"name":"meteor-assault","accuracy":100,"pp":5,"priority":0,"power":150,"type":"fighting","damageClass":"physical","description":"The user attacks wildly with its thick leek.\nThe user can’t move on the next turn, because the\nforce of this move makes it stagger.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

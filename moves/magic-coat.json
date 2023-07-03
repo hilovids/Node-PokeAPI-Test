@@ -1,1 +1,1 @@
-{"id":277,"name":"magic-coat","accuracy":null,"pp":15,"priority":4,"power":null,"type":"psychic","damageClass":"status","description":"Reflects special effects\nback to the attacker."}
+{"id":277,"name":"magic-coat","accuracy":null,"pp":15,"priority":4,"power":null,"type":"psychic","damageClass":"status","description":"Moves like Leech Seed and moves that inflict status\nconditions are blocked by a barrier and reflected back\nto the user of those moves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

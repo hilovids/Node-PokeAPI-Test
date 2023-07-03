@@ -1,1 +1,1 @@
-{"id":165,"name":"struggle","accuracy":null,"pp":1,"priority":0,"power":50,"type":"normal","damageClass":"physical","description":"Solo se usa como último recurso al acabarse los PP. \nHiere un poco al agresor."}
+{"id":165,"name":"struggle","accuracy":null,"pp":1,"priority":0,"power":50,"type":"normal","damageClass":"physical","description":"This attack is used in desperation only if the user\nhas no PP. It also damages the user a little.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"random-opponent"}

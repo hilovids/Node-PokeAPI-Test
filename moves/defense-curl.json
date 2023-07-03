@@ -1,1 +1,1 @@
-{"id":111,"name":"defense-curl","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Heightens the\nuser's DEFENSE."}
+{"id":111,"name":"defense-curl","accuracy":null,"pp":40,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user curls up to conceal weak spots and raise\nits Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":1}],"target":"user"}

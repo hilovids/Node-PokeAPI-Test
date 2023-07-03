@@ -1,1 +1,1 @@
-{"id":319,"name":"metal-sound","accuracy":85,"pp":40,"priority":0,"power":null,"type":"steel","damageClass":"status","description":"Emits a horrible screech\nthat sharply lowers SP. DEF."}
+{"id":319,"name":"metal-sound","accuracy":85,"pp":40,"priority":0,"power":null,"type":"steel","damageClass":"status","description":"A horrible sound like scraping metal harshly lowers\nthe target’s Sp. Def stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-defense","change":-2}],"target":"selected-pokemon"}

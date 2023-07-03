@@ -1,1 +1,1 @@
-{"id":783,"name":"aura-wheel","accuracy":100,"pp":10,"priority":0,"power":110,"type":"electric","damageClass":"physical","description":"ほほぶくろに　ためた　エネルギーで\nこうげきし　じぶんの　すばやさを　あげる。\nモルペコの　すがたで　タイプが　かわる。"}
+{"id":783,"name":"aura-wheel","accuracy":100,"pp":10,"priority":0,"power":110,"type":"electric","damageClass":"physical","description":"Morpeko attacks and raises its Speed with the energy\nstored in its cheeks. This move’s type changes\ndepending on the user’s form.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":1}],"target":"selected-pokemon"}

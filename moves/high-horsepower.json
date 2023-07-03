@@ -1,1 +1,1 @@
-{"id":667,"name":"high-horsepower","accuracy":95,"pp":10,"priority":0,"power":95,"type":"ground","damageClass":"physical","description":"ぜんしんを　つかって\nあいてに　もうアタックする。"}
+{"id":667,"name":"high-horsepower","accuracy":95,"pp":10,"priority":0,"power":95,"type":"ground","damageClass":"physical","description":"The user fiercely attacks the target using its\nentire body.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

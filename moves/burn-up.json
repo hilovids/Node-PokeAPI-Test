@@ -1,1 +1,1 @@
-{"id":682,"name":"burn-up","accuracy":100,"pp":5,"priority":0,"power":130,"type":"fire","damageClass":"special","description":"ぜんしんの　ほのおを　すべて\nもやして　だいダメージを　あたえる。\nじぶんの　ほのおタイプが　なくなる。"}
+{"id":682,"name":"burn-up","accuracy":100,"pp":5,"priority":0,"power":130,"type":"fire","damageClass":"special","description":"To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

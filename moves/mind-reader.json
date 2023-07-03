@@ -1,1 +1,1 @@
-{"id":170,"name":"mind-reader","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Ensures the next\nattack will hit."}
+{"id":170,"name":"mind-reader","accuracy":null,"pp":5,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user senses the target’s movements with its\nmind to ensure its next attack does not miss\nthe target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

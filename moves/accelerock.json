@@ -1,1 +1,1 @@
-{"id":709,"name":"accelerock","accuracy":100,"pp":20,"priority":1,"power":40,"type":"rock","damageClass":"physical","description":"すばやい　スピードで\nあいてに　ぶつかって　こうげきする。\nかならず　せんせい　こうげき　できる。"}
+{"id":709,"name":"accelerock","accuracy":100,"pp":20,"priority":1,"power":40,"type":"rock","damageClass":"physical","description":"The user smashes into the target at high speed.\nThis move always goes first.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

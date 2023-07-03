@@ -1,1 +1,1 @@
-{"id":261,"name":"will-o-wisp","accuracy":85,"pp":15,"priority":0,"power":null,"type":"fire","damageClass":"status","description":"Inflicts a burn on the foe\nwith intense fire."}
+{"id":261,"name":"will-o-wisp","accuracy":85,"pp":15,"priority":0,"power":null,"type":"fire","damageClass":"status","description":"The user shoots a sinister flame at the target to inflict\na burn.","ailment":"burn","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

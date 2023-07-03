@@ -1,1 +1,1 @@
-{"id":613,"name":"oblivion-wing","accuracy":100,"pp":10,"priority":0,"power":80,"type":"flying","damageClass":"special","description":"ねらいを　さだめた　あいてから　ＨＰを\nすいとる。あたえた　ダメージの\nはんぶんいじょう　ＨＰを　かいふくする。"}
+{"id":613,"name":"oblivion-wing","accuracy":100,"pp":10,"priority":0,"power":80,"type":"flying","damageClass":"special","description":"The user absorbs its target’s HP. The user’s HP is\nrestored by over half of the damage taken by\nthe target.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

@@ -1,1 +1,1 @@
-{"id":241,"name":"sunny-day","accuracy":null,"pp":5,"priority":0,"power":null,"type":"fire","damageClass":"status","description":"Boosts fire-type\nmoves for 5 turns."}
+{"id":241,"name":"sunny-day","accuracy":null,"pp":5,"priority":0,"power":null,"type":"fire","damageClass":"status","description":"The user intensifies the sun for five turns, powering\nup Fire-type moves. It lowers the power of\nWater-type moves.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"entire-field"}

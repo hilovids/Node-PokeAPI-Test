@@ -1,1 +1,1 @@
-{"id":156,"name":"rest","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"Sleep for 2 turns\nto fully recover."}
+{"id":156,"name":"rest","accuracy":null,"pp":10,"priority":0,"power":null,"type":"psychic","damageClass":"status","description":"The user goes to sleep for two turns. This fully\nrestores the user’s HP and heals any\nstatus conditions.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"user"}

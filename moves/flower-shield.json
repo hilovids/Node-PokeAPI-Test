@@ -1,1 +1,1 @@
-{"id":579,"name":"flower-shield","accuracy":null,"pp":10,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"使用神奇的力量\n提高在场的所有\n草属性宝可梦的防御。"}
+{"id":579,"name":"flower-shield","accuracy":null,"pp":10,"priority":0,"power":null,"type":"fairy","damageClass":"status","description":"The user raises the Defense stats of all Grass-type\nPokémon in battle with a mysterious power.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":1}],"target":"all-pokemon"}

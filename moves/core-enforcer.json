@@ -1,1 +1,1 @@
-{"id":687,"name":"core-enforcer","accuracy":100,"pp":10,"priority":0,"power":100,"type":"dragon","damageClass":"special","description":"ダメージを　あたえた　あいてが\nすでに　こうどうを　おえて　いたら\nあいての　とくせいを　けして　しまう。"}
+{"id":687,"name":"core-enforcer","accuracy":100,"pp":10,"priority":0,"power":100,"type":"dragon","damageClass":"special","description":"If the Pokémon the user has inflicted damage on\nhave already used their moves, this move eliminates\nthe effect of the target’s Ability.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

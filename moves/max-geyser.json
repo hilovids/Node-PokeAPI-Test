@@ -1,1 +1,1 @@
-{"id":765,"name":"max-geyser","accuracy":null,"pp":10,"priority":0,"power":10,"type":"water","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　みずタイプの　こうげき。\n５ターンの　あいだ　あめを　ふらせる。"}
+{"id":765,"name":"max-geyser","accuracy":null,"pp":10,"priority":0,"power":10,"type":"water","damageClass":"physical","description":"This is a Water-type attack Dynamax Pokémon use.\nThe user summons a heavy rain that falls for\nfive turns.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

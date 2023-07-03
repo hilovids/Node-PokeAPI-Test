@@ -1,1 +1,1 @@
-{"id":211,"name":"steel-wing","accuracy":90,"pp":25,"priority":0,"power":70,"type":"steel","damageClass":"physical","description":"Stiff wings strike\nthe foe."}
+{"id":211,"name":"steel-wing","accuracy":90,"pp":25,"priority":0,"power":70,"type":"steel","damageClass":"physical","description":"The target is hit with wings of steel. This may also\nraise the user’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":1}],"target":"selected-pokemon"}

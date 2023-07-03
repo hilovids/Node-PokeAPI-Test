@@ -1,1 +1,1 @@
-{"id":605,"name":"dazzling-gleam","accuracy":100,"pp":10,"priority":0,"power":80,"type":"fairy","damageClass":"special","description":"きょうりょくな　ひかりを　はなち\nあいてに　ダメージを　あたえる。\n"}
+{"id":605,"name":"dazzling-gleam","accuracy":100,"pp":10,"priority":0,"power":80,"type":"fairy","damageClass":"special","description":"The user damages opposing Pokémon by emitting a\npowerful flash.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"all-opponents"}

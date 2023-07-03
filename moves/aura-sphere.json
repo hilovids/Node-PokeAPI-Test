@@ -1,1 +1,1 @@
-{"id":396,"name":"aura-sphere","accuracy":null,"pp":20,"priority":0,"power":80,"type":"fighting","damageClass":"special","description":"The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit."}
+{"id":396,"name":"aura-sphere","accuracy":null,"pp":20,"priority":0,"power":80,"type":"fighting","damageClass":"special","description":"The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

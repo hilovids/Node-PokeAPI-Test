@@ -1,1 +1,1 @@
-{"id":442,"name":"iron-head","accuracy":100,"pp":15,"priority":0,"power":80,"type":"steel","damageClass":"physical","description":"The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch."}
+{"id":442,"name":"iron-head","accuracy":100,"pp":15,"priority":0,"power":80,"type":"steel","damageClass":"physical","description":"The user slams the target with its steel-hard head.\nThis may also make the target flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

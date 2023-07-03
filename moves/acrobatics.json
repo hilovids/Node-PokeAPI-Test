@@ -1,1 +1,1 @@
-{"id":512,"name":"acrobatics","accuracy":100,"pp":15,"priority":0,"power":55,"type":"flying","damageClass":"physical","description":"Attaque agile. Si le lanceur ne tient\npas d’objet, l’attaque inflige\ndavantage de dégâts."}
+{"id":512,"name":"acrobatics","accuracy":100,"pp":15,"priority":0,"power":55,"type":"flying","damageClass":"physical","description":"The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

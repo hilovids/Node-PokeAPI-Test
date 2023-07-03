@@ -1,1 +1,1 @@
-{"id":529,"name":"drill-run","accuracy":95,"pp":10,"priority":0,"power":80,"type":"ground","damageClass":"physical","description":"Le lanceur tourne sur lui-même comme\nune perceuse et se jette sur l’ennemi.\nTaux de critiques élevé."}
+{"id":529,"name":"drill-run","accuracy":95,"pp":10,"priority":0,"power":80,"type":"ground","damageClass":"physical","description":"The user crashes into its target while rotating its\nbody like a drill. Critical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

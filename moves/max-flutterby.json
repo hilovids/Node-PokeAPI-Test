@@ -1,1 +1,1 @@
-{"id":758,"name":"max-flutterby","accuracy":null,"pp":10,"priority":0,"power":10,"type":"bug","damageClass":"physical","description":"ダイマックスした　ポケモンが\nくりだす　むしタイプの　こうげき。\nあいての　とくこうを　さげる。"}
+{"id":758,"name":"max-flutterby","accuracy":null,"pp":10,"priority":0,"power":10,"type":"bug","damageClass":"physical","description":"This is a Bug-type attack Dynamax Pokémon use.\nThis lowers the target’s Sp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon-me-first"}

@@ -1,1 +1,1 @@
-{"id":338,"name":"frenzy-plant","accuracy":90,"pp":5,"priority":0,"power":150,"type":"grass","damageClass":"special","description":"Powerful, but leaves the\nuser immobile the next turn."}
+{"id":338,"name":"frenzy-plant","accuracy":90,"pp":5,"priority":0,"power":150,"type":"grass","damageClass":"special","description":"The user slams the target with the roots of an\nenormous tree. The user can’t move on the next turn.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

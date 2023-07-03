@@ -1,1 +1,1 @@
-{"id":177,"name":"aeroblast","accuracy":95,"pp":5,"priority":0,"power":100,"type":"flying","damageClass":"special","description":"Has a high criti­\ncal hit ratio."}
+{"id":177,"name":"aeroblast","accuracy":95,"pp":5,"priority":0,"power":100,"type":"flying","damageClass":"special","description":"A vortex of air is shot at the target to inflict damage.\nCritical hits land more easily.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

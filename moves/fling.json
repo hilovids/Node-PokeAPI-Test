@@ -1,1 +1,1 @@
-{"id":374,"name":"fling","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"physical","description":"The user flings its\nheld item at the foe\nto attack. Its power\nand effects depend\non the item."}
+{"id":374,"name":"fling","accuracy":100,"pp":10,"priority":0,"power":null,"type":"dark","damageClass":"physical","description":"The user flings its held item at the target to attack.\nThis move’s power and effects depend on the item.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

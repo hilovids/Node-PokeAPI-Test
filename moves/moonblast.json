@@ -1,1 +1,1 @@
-{"id":585,"name":"moonblast","accuracy":100,"pp":15,"priority":0,"power":95,"type":"fairy","damageClass":"special","description":"つきの　パワーを　かりて\nあいてを　こうげきする。　あいての\nとくこうを　さげる　ことがある。"}
+{"id":585,"name":"moonblast","accuracy":100,"pp":15,"priority":0,"power":95,"type":"fairy","damageClass":"special","description":"Borrowing the power of the moon, the user attacks\nthe target. This may also lower the target’s\nSp. Atk stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"special-attack","change":-1}],"target":"selected-pokemon"}

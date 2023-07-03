@@ -1,1 +1,1 @@
-{"id":547,"name":"relic-song","accuracy":100,"pp":10,"priority":0,"power":75,"type":"normal","damageClass":"special","description":"Le lanceur attaque l’ennemi en lui\nchantant une chanson d’un autre temps.\nPeut endormir l’ennemi."}
+{"id":547,"name":"relic-song","accuracy":100,"pp":10,"priority":0,"power":75,"type":"normal","damageClass":"special","description":"The user sings an ancient song and attacks by\nappealing to the hearts of the listening opposing\nPokémon. This may also induce sleep.","ailment":"sleep","ailmentChance":10,"statChanges":[],"target":"all-opponents"}

@@ -1,1 +1,1 @@
-{"id":310,"name":"astonish","accuracy":100,"pp":15,"priority":0,"power":30,"type":"ghost","damageClass":"physical","description":"An attack that may shock\nthe foe into flinching."}
+{"id":310,"name":"astonish","accuracy":100,"pp":15,"priority":0,"power":30,"type":"ghost","damageClass":"physical","description":"The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch.","ailment":"none","ailmentChance":0,"statChanges":[],"target":"selected-pokemon"}

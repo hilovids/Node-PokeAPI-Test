@@ -1,1 +1,1 @@
-{"id":231,"name":"iron-tail","accuracy":75,"pp":15,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"An attack that may\nreduce DEFENSE."}
+{"id":231,"name":"iron-tail","accuracy":75,"pp":15,"priority":0,"power":100,"type":"steel","damageClass":"physical","description":"The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":-1}],"target":"selected-pokemon"}

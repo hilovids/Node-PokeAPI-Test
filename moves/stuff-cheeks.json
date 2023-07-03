@@ -1,1 +1,1 @@
-{"id":747,"name":"stuff-cheeks","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"もっている　きのみを　たべて\nぼうぎょを　ぐーんと　あげる。"}
+{"id":747,"name":"stuff-cheeks","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user eats its held Berry, then sharply raises its\nDefense stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"defense","change":2}],"target":"user"}

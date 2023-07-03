@@ -1,1 +1,1 @@
-{"id":778,"name":"drum-beating","accuracy":100,"pp":10,"priority":0,"power":80,"type":"grass","damageClass":"physical","description":"ドラムの　ねっこを　ドラミングで\nコントロールして　こうげき　することで\nあいての　すばやさを　さげる。"}
+{"id":778,"name":"drum-beating","accuracy":100,"pp":10,"priority":0,"power":80,"type":"grass","damageClass":"physical","description":"The user plays its drum, controlling the drum’s roots\nto attack the target. This also lowers the target’s\nSpeed stat.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"speed","change":-1}],"target":"selected-pokemon"}

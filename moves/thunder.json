@@ -1,1 +1,1 @@
-{"id":87,"name":"thunder","accuracy":70,"pp":10,"priority":0,"power":110,"type":"electric","damageClass":"special","description":"An attack that may\ncause paralysis."}
+{"id":87,"name":"thunder","accuracy":70,"pp":10,"priority":0,"power":110,"type":"electric","damageClass":"special","description":"A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis.","ailment":"paralysis","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

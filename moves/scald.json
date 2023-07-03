@@ -1,1 +1,1 @@
-{"id":503,"name":"scald","accuracy":100,"pp":15,"priority":0,"power":80,"type":"water","damageClass":"special","description":"L’ennemi est attaqué par un jet d’eau\nbouillante. Peut aussi le brûler."}
+{"id":503,"name":"scald","accuracy":100,"pp":15,"priority":0,"power":80,"type":"water","damageClass":"special","description":"The user shoots boiling hot water at its target.\nThis may also leave the target with a burn.","ailment":"burn","ailmentChance":30,"statChanges":[],"target":"selected-pokemon"}

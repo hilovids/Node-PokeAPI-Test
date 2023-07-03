@@ -1,1 +1,1 @@
-{"id":107,"name":"minimize","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"Heightens evasive­\nness."}
+{"id":107,"name":"minimize","accuracy":null,"pp":10,"priority":0,"power":null,"type":"normal","damageClass":"status","description":"The user compresses its body to make itself look\nsmaller, which sharply raises its evasiveness.","ailment":"none","ailmentChance":0,"statChanges":[{"stat":"evasion","change":2}],"target":"user"}
